@@ -21,13 +21,19 @@ interface PopupData {
   y: number;
 }
 
+interface YearlyStats {
+  year: number;
+  projectTotals: Map<string, number>;
+  total: number;
+}
+
 interface ContributionGraphProps {
   data: CommitData[];
 }
 
 export default function ContributionGraph({ data }: ContributionGraphProps) {
   const [popup, setPopup] = useState<PopupData | null>(null);
-  const { graphData, stats } = useMemo(() => {
+  const { graphData, stats, yearlyStats } = useMemo(() => {
     const dateMap = new Map<string, CommitData>();
     data.forEach((item) => {
       dateMap.set(item.date, item);
@@ -49,6 +55,35 @@ export default function ContributionGraph({ data }: ContributionGraphProps) {
       weeks: generateWeeksForYear(year, dateMap),
     }));
 
+    // Calculate yearly stats by project
+    const yearlyStatsMap = new Map<number, YearlyStats>();
+    years.forEach((year) => {
+      const projectTotals = new Map<string, number>();
+      let total = 0;
+
+      allDates.forEach((date) => {
+        const dateYear = parseInt(date.split("-")[0]);
+        if (dateYear === year) {
+          const commitData = dateMap.get(date);
+          if (commitData) {
+            total += commitData.count;
+            commitData.projects.forEach((project) => {
+              projectTotals.set(
+                project,
+                (projectTotals.get(project) || 0) + commitData.count
+              );
+            });
+          }
+        }
+      });
+
+      yearlyStatsMap.set(year, { year, projectTotals, total });
+    });
+
+    const yearlyStats = Array.from(yearlyStatsMap.values()).sort(
+      (a, b) => b.year - a.year
+    );
+
     // Calculate stats
     const totalContributions = Array.from(dateMap.values()).reduce(
       (a, b) => a + b.count,
@@ -58,6 +93,7 @@ export default function ContributionGraph({ data }: ContributionGraphProps) {
     return {
       graphData,
       stats: { totalContributions },
+      yearlyStats,
     };
   }, [data]);
 
@@ -162,6 +198,68 @@ export default function ContributionGraph({ data }: ContributionGraphProps) {
         border: "1px solid #e1e4e8",
         backgroundColor: getLevelColor(level),
       } as CSSProperties),
+    yearlyReportSection: {
+      marginTop: "3rem",
+      paddingTop: "2rem",
+      borderTop: "2px solid #e1e4e8",
+    } as CSSProperties,
+    yearlyReportTitle: {
+      fontSize: "1.5rem",
+      fontWeight: 600,
+      color: "#24292f",
+      marginBottom: "1.5rem",
+    } as CSSProperties,
+    yearlyReportContainer: {
+      display: "grid",
+      gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))",
+      gap: "2rem",
+    } as CSSProperties,
+    yearCard: {
+      border: "1px solid #e1e4e8",
+      borderRadius: "0.5rem",
+      padding: "1.5rem",
+      backgroundColor: "#f6f8fa",
+    } as CSSProperties,
+    yearCardTitle: {
+      fontSize: "1.25rem",
+      fontWeight: 600,
+      color: "#24292f",
+      marginBottom: "0.5rem",
+      borderBottom: "2px solid #0969da",
+      paddingBottom: "0.5rem",
+    } as CSSProperties,
+    yearCardTotal: {
+      fontSize: "1.5rem",
+      fontWeight: 700,
+      color: "#0969da",
+      marginBottom: "1rem",
+    } as CSSProperties,
+    projectList: {
+      display: "flex",
+      flexDirection: "column" as const,
+      gap: "0.75rem",
+    } as CSSProperties,
+    projectItem: {
+      display: "flex",
+      justifyContent: "space-between",
+      alignItems: "center",
+      padding: "0.75rem",
+      backgroundColor: "white",
+      borderRadius: "0.25rem",
+      border: "1px solid #e1e4e8",
+    } as CSSProperties,
+    projectName: {
+      fontSize: "0.875rem",
+      color: "#24292f",
+      fontWeight: 500,
+    } as CSSProperties,
+    projectCount: {
+      fontSize: "0.875rem",
+      fontWeight: 600,
+      color: "#0969da",
+      minWidth: "3rem",
+      textAlign: "right" as const,
+    } as CSSProperties,
   };
 
   return (
@@ -181,8 +279,12 @@ export default function ContributionGraph({ data }: ContributionGraphProps) {
               <div style={styles.graphGrid}>
                 <div style={styles.weekdaysLabels}>
                   <div>Mon</div>
+                  <div>Tue</div>
                   <div>Wed</div>
+                  <div>Thu</div>
                   <div>Fri</div>
+                  <div>Sat</div>
+                  <div>Sun</div>
                 </div>
                 <div style={styles.contributionGrid}>
                   {weeks.map((week: DayData[], weekIdx: number) => (
@@ -229,6 +331,28 @@ export default function ContributionGraph({ data }: ContributionGraphProps) {
             </div>
           )
         )}
+      </div>
+
+      <div style={styles.yearlyReportSection}>
+        <h2 style={styles.yearlyReportTitle}>Annual Commit Report</h2>
+        <div style={styles.yearlyReportContainer}>
+          {yearlyStats.map((yearStat) => (
+            <div key={yearStat.year} style={styles.yearCard}>
+              <div style={styles.yearCardTitle}>{yearStat.year}</div>
+              <div style={styles.yearCardTotal}>{yearStat.total} commits</div>
+              <div style={styles.projectList}>
+                {Array.from(yearStat.projectTotals.entries())
+                  .sort((a, b) => b[1] - a[1])
+                  .map(([project, count]) => (
+                    <div key={project} style={styles.projectItem}>
+                      <span style={styles.projectName}>{project}</span>
+                      <span style={styles.projectCount}>{count}</span>
+                    </div>
+                  ))}
+              </div>
+            </div>
+          ))}
+        </div>
       </div>
 
       <div style={styles.legend}>

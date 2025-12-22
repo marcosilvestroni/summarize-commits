@@ -17,19 +17,24 @@ function App() {
     const loadCommitData = async () => {
       try {
         setLoading(true);
-        
-        // First try to load from static JSON (for GitHub Pages)
-        let response = await fetch("/summarize-commits/commits-data.json");
-        
-        // Fallback to API endpoint (for local development)
+
+        // Try API endpoint first (works for both local and production)
+        let response = await fetch("/api/commits");
+
+        // Fallback to static JSON (for GitHub Pages)
         if (!response.ok) {
-          response = await fetch("/api/commits");
+          response = await fetch("/summarize-commits/commits-data.json");
         }
-        
+
+        // Final fallback to root level JSON
+        if (!response.ok) {
+          response = await fetch("/commits-data.json");
+        }
+
         if (!response.ok) {
           throw new Error("Failed to load commit data");
         }
-        
+
         const data = await response.json();
         setContributionData(data);
         setError(null);
