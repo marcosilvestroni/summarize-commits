@@ -1,6 +1,8 @@
 # Contribution Graph Viewer
 
-Un'applicazione web che visualizza il grafico dei contributi (commit) simile a quello mostrato nei profili GitHub. L'app legge i file CSV dalla cartella `commits/` e genera un grafico interattivo con heatmap dei contributi per ogni anno.
+Un'applicazione web che visualizza il grafico dei contributi (commit) simile a quello mostrato nei profili GitHub. L'app legge i file CSV dalla cartella `commits/`, aggrega i dati durante il build, e genera un grafico interattivo con heatmap dei contributi per ogni anno.
+
+**🌐 Completamente statico** - Funziona perfettamente su GitHub Pages senza necessità di server backend!
 
 ## Caratteristiche
 
@@ -9,6 +11,37 @@ Un'applicazione web che visualizza il grafico dei contributi (commit) simile a q
 - 📁 Supporto multi-file CSV dalla cartella `commits/`
 - 🖥️ Interfaccia responsive
 - 🚀 Costruito con React, TypeScript, e Vite
+- ⚡ Deployment automatico su GitHub Pages via GitHub Actions
+- 🐍 Script Python per estrarre commit da repository Git
+
+## Quick Start
+
+### 1. Estrai i dati da repository Git
+
+```bash
+# Estrai commit da uno o più repository
+python3 extract_commits.py --search ~/projects --output ./commits
+```
+
+### 2. Build e test locale
+
+```bash
+yarn install
+yarn build
+yarn preview  # Preview la build statica
+```
+
+### 3. Deploy automatico
+
+Semplicemente fai il push su GitHub e le GitHub Actions buildano e deployano automaticamente:
+
+```bash
+git add .
+git commit -m "Update commit data"
+git push
+```
+
+L'app sarà disponibile su: `https://marcosilvestroni.github.io/summarize-commits/`
 
 ## Installazione
 
@@ -24,13 +57,16 @@ yarn dev
 
 Questo comando avvia:
 
-- **Server backend** su `http://localhost:5000` (legge i file CSV)
-- **Vite dev server** su `http://localhost:5173` (interfaccia web)
+- **Server backend** su `http://localhost:5000` (opzionale, per test con API)
+- **Vite dev server** su `http://localhost:5173` (interfaccia web con hot reload)
+
+L'app caricherà i dati prima dal file `commits-data.json` (statico), poi dall'API se disponibile.
 
 ### Alternative:
 
-- `yarn dev:server` - Avvia solo il server backend
-- `yarn dev:vite` - Avvia solo il Vite dev server
+- `yarn dev:vite` - Avvia solo il dev server Vite (senza API backend)
+- `yarn dev:server` - Avvia solo il server Express backend
+- `yarn generate` - Rigenera solo il file `public/commits-data.json` dai CSV
 
 ## Build per produzione
 
@@ -39,6 +75,7 @@ yarn build
 ```
 
 Questo comando:
+
 1. Genera i dati aggregati dei commit dal file CSV → `public/commits-data.json`
 2. Compila TypeScript
 3. Esegue il build Vite per creare una build statica
@@ -53,8 +90,8 @@ L'applicazione è completamente statica e non richiede un server backend:
 1. **Durante il build** (`yarn build`):
    - Lo script `scripts/generate-commits-data.js` legge tutti i CSV da `commits/`
    - Aggrega i dati e genera `public/commits-data.json`
-   
 2. **Deployment automatico** via GitHub Actions:
+
    - Checkout del codice
    - Install dipendenze
    - Esecuzione di `yarn build` (che genera i dati)
@@ -134,7 +171,9 @@ Date,Timestamp,Author,Subject
 
 ## API
 
-### GET `/api/commits`
+### Endpoints disponibili (durante lo sviluppo)
+
+#### GET `/api/commits`
 
 Ritorna l'aggregazione dei contributi per data da tutti i file CSV.
 
@@ -142,11 +181,20 @@ Risposta:
 
 ```json
 [
-  ["2025-07-07", 11],
-  ["2025-07-06", 9],
-  ...
+  {
+    "date": "2025-07-07",
+    "count": 11,
+    "projects": ["LEASYS", "NPT"]
+  },
+  {
+    "date": "2025-07-06",
+    "count": 9,
+    "projects": ["DTX"]
+  }
 ]
 ```
+
+**Nota:** Questo endpoint è disponibile solo durante lo sviluppo. Su GitHub Pages, i dati vengono serviti dal file statico `commits-data.json`.
 
 ## Struttura del progetto
 
@@ -193,6 +241,7 @@ Risposta:
 ### "Cannot load commits data" su GitHub Pages
 
 Verifica che:
+
 1. I file CSV siano nella cartella `commits/`
 2. Hai eseguito `yarn build` localmente per generare `public/commits-data.json`
 3. Il file `commits-data.json` sia stato committato su GitHub (o viene generato durante le Actions)
@@ -200,11 +249,13 @@ Verifica che:
 ### I dati non si aggiornano dopo nuovo push
 
 I dati vengono generati durante il build. Assicurati che:
+
 1. I CSV aggiornati siano nella cartella `commits/`
 2. Hai committato i CSV su GitHub
 3. Le GitHub Actions completano con successo
 
 Per ricostruire localmente:
+
 ```bash
 # Aggiorna CSV
 python3 extract_commits.py --repo /path/to/repo
