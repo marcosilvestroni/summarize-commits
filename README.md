@@ -36,6 +36,57 @@ Questo comando avvia:
 yarn build
 ```
 
+## Estrazione automatica dei commit da repository Git
+
+Il progetto include uno script Python (`extract_commits.py`) che estrae automaticamente i commit da repository Git e genera i file CSV.
+
+### Prerequisiti
+
+- Python 3.6+
+- Git installato e disponibile nel PATH
+
+### Utilizzo
+
+#### 1. Estrarre da repository nella cartella corrente:
+```bash
+python3 extract_commits.py
+```
+
+#### 2. Estrarre da uno specifico repository:
+```bash
+python3 extract_commits.py --repo /path/to/repository
+```
+
+#### 3. Cercare e estrarre da tutti i repository in una directory:
+```bash
+python3 extract_commits.py --search /path/to/search
+```
+
+#### 4. Personalizzare la cartella di output:
+```bash
+python3 extract_commits.py --output ./my_commits --search /path/to/repos
+```
+
+### Opzioni disponibili
+
+- `--output, -o <dir>` - Directory di output per i file CSV (default: `./commits`)
+- `--repo, -r <path>` - Estrarre da uno specifico repository
+- `--search, -s <path>` - Directory in cui cercare repository Git
+- `--all, -a` - Cercare ricorsivamente in sottodirectory
+
+### Esempio: Estrarre commit da più repository locali
+
+```bash
+# Dalla cartella radice del progetto:
+python3 extract_commits.py --search ~/projects --output ./commits
+```
+
+Lo script genererà file CSV con formato:
+```
+Date,Timestamp,Author,Email,Hash,Subject,Additions,Deletions
+2025-07-07,2025-07-07T12:49:55+02:00,Marco Silvestroni,email@example.com,abc123...,commit message,10,5
+```
+
 ## Formato dei file CSV
 
 I file CSV nella cartella `commits/` devono contenere almeno una colonna `Date` nel formato `YYYY-MM-DD`.
