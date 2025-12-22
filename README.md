@@ -23,10 +23,12 @@ yarn dev
 ```
 
 Questo comando avvia:
+
 - **Server backend** su `http://localhost:5000` (legge i file CSV)
 - **Vite dev server** su `http://localhost:5173` (interfaccia web)
 
 ### Alternative:
+
 - `yarn dev:server` - Avvia solo il server backend
 - `yarn dev:vite` - Avvia solo il Vite dev server
 
@@ -35,6 +37,32 @@ Questo comando avvia:
 ```bash
 yarn build
 ```
+
+Questo comando:
+1. Genera i dati aggregati dei commit dal file CSV → `public/commits-data.json`
+2. Compila TypeScript
+3. Esegue il build Vite per creare una build statica
+4. Il file JSON viene incluso nella build finale
+
+**Nota:** Il file `public/commits-data.json` viene generato automaticamente durante il build e contiene l'aggregazione di tutti i commit dai file CSV nella cartella `commits/`.
+
+## Come funziona il deployment su GitHub Pages
+
+L'applicazione è completamente statica e non richiede un server backend:
+
+1. **Durante il build** (`yarn build`):
+   - Lo script `scripts/generate-commits-data.js` legge tutti i CSV da `commits/`
+   - Aggrega i dati e genera `public/commits-data.json`
+   
+2. **Deployment automatico** via GitHub Actions:
+   - Checkout del codice
+   - Install dipendenze
+   - Esecuzione di `yarn build` (che genera i dati)
+   - Upload della cartella `dist/` a GitHub Pages
+
+3. **A runtime** nel browser:
+   - L'app fetchanel file `commits-data.json` dalla cartella pubblica
+   - Mostra il grafico con i dati aggregati
 
 ## Estrazione automatica dei commit da repository Git
 
@@ -48,21 +76,25 @@ Il progetto include uno script Python (`extract_commits.py`) che estrae automati
 ### Utilizzo
 
 #### 1. Estrarre da repository nella cartella corrente:
+
 ```bash
 python3 extract_commits.py
 ```
 
 #### 2. Estrarre da uno specifico repository:
+
 ```bash
 python3 extract_commits.py --repo /path/to/repository
 ```
 
 #### 3. Cercare e estrarre da tutti i repository in una directory:
+
 ```bash
 python3 extract_commits.py --search /path/to/search
 ```
 
 #### 4. Personalizzare la cartella di output:
+
 ```bash
 python3 extract_commits.py --output ./my_commits --search /path/to/repos
 ```
@@ -82,6 +114,7 @@ python3 extract_commits.py --search ~/projects --output ./commits
 ```
 
 Lo script genererà file CSV con formato:
+
 ```
 Date,Timestamp,Author,Email,Hash,Subject,Additions,Deletions
 2025-07-07,2025-07-07T12:49:55+02:00,Marco Silvestroni,email@example.com,abc123...,commit message,10,5
@@ -92,6 +125,7 @@ Date,Timestamp,Author,Email,Hash,Subject,Additions,Deletions
 I file CSV nella cartella `commits/` devono contenere almeno una colonna `Date` nel formato `YYYY-MM-DD`.
 
 Esempio:
+
 ```
 Date,Timestamp,Author,Subject
 2025-07-07,2025-07-07T12:49:55+02:00,Marco Silvestroni,feat: enhance EngineModalMapping
@@ -105,6 +139,7 @@ Date,Timestamp,Author,Subject
 Ritorna l'aggregazione dei contributi per data da tutti i file CSV.
 
 Risposta:
+
 ```json
 [
   ["2025-07-07", 11],
@@ -118,13 +153,18 @@ Risposta:
 ```
 .
 ├── commits/                    # File CSV dei contributi
+├── public/
+│   └── commits-data.json      # Dati aggregati (generato al build)
+├── scripts/
+│   └── generate-commits-data.js # Script per aggregare CSV → JSON
 ├── src/
 │   ├── components/
 │   │   └── ContributionGraph.tsx
 │   ├── App.tsx
 │   ├── main.tsx
 │   └── index.css
-├── server.ts                  # Server Express backend
+├── extract_commits.py         # Script Python per estrarre commit da Git
+├── server.ts                  # Server Express backend (solo development)
 ├── vite.config.ts
 ├── tsconfig.json
 └── index.html
@@ -143,5 +183,35 @@ Risposta:
 - **React 19** - Framework UI
 - **TypeScript** - Type safety
 - **Vite** - Build tool
-- **Express** - Server backend
 - **csv-parse** - Parser CSV
+- **Node.js** - Script di generazione dati
+- **GitHub Pages** - Hosting statico
+- **GitHub Actions** - CI/CD
+
+## Troubleshooting
+
+### "Cannot load commits data" su GitHub Pages
+
+Verifica che:
+1. I file CSV siano nella cartella `commits/`
+2. Hai eseguito `yarn build` localmente per generare `public/commits-data.json`
+3. Il file `commits-data.json` sia stato committato su GitHub (o viene generato durante le Actions)
+
+### I dati non si aggiornano dopo nuovo push
+
+I dati vengono generati durante il build. Assicurati che:
+1. I CSV aggiornati siano nella cartella `commits/`
+2. Hai committato i CSV su GitHub
+3. Le GitHub Actions completano con successo
+
+Per ricostruire localmente:
+```bash
+# Aggiorna CSV
+python3 extract_commits.py --repo /path/to/repo
+
+# Rigenera dati
+yarn generate
+
+# Verifica il risultato
+cat public/commits-data.json
+```
