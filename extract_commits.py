@@ -31,13 +31,23 @@ from typing import Optional, List, Dict, Any
 class GitCommitExtractor:
     """Extract commits from Git repositories."""
     
-    def __init__(self, output_dir: Optional[str] = None):
+    # Default author emails/usernames to include
+    DEFAULT_AUTHORS = [
+        'silvestronimarco@gmail.com',
+        'marco.silvestroni@accenture.com',
+        'marco.sivestroni@external.stellantis.com',
+        'sd21107'
+    ]
+    
+    def __init__(self, output_dir: Optional[str] = None, author_filter: Optional[List[str]] = None):
         """
         Initialize the extractor.
         
         Args:
             output_dir: Directory where CSV files will be saved.
                        Defaults to './commits' relative to script location.
+            author_filter: List of email addresses or usernames to filter commits.
+                          If None, extracts all commits regardless of author.
         """
         if output_dir is None:
             # Get script directory and use 'commits' folder relative to it
@@ -47,6 +57,7 @@ class GitCommitExtractor:
             output_dir = Path(output_dir)
         
         self.output_dir = output_dir
+        self.author_filter = author_filter
         self.output_dir.mkdir(parents=True, exist_ok=True)
     
     def is_git_repo(self, path: Path) -> bool:
@@ -76,14 +87,13 @@ class GitCommitExtractor:
             List of dictionaries containing commit information.
         """
         try:
-            # Get commits with format: date|timestamp|author|email|hash|subject|additions|deletions
+            # Get commits with format: date|timestamp|author|email|hash|subject
             cmd = [
                 "git",
                 "-C", str(repo_path),
                 "log",
-                "--pretty=format:%ad|%aI|%an|%ae|%H|%s|%a",
-                "--date=short",
-                "--diff-filter=A"  # Only added files (initial commit)
+                "--pretty=format:%ad|%aI|%an|%ae|%H|%s",
+                "--date=short"
             ]
             
             result = subprocess.run(
@@ -104,12 +114,25 @@ class GitCommitExtractor:
                 
                 try:
                     parts = line.split('|')
-                    if len(parts) >= 7:
+                    if len(parts) >= 6:
+                        email = parts[3].strip()
+                        author = parts[2].strip()
+                        
+                        # Filter by author if specified
+                        if self.author_filter:
+                            # Check if email or username matches any filter criteria
+                            if not any(
+                                filter_term.lower() in email.lower() or 
+                                filter_term.lower() in author.lower()
+                                for filter_term in self.author_filter
+                            ):
+                                continue  # Skip this commit
+                        
                         commit = {
                             'Date': parts[0],
                             'Timestamp': parts[1],
-                            'Author': parts[2],
-                            'Email': parts[3],
+                            'Author': author,
+                            'Email': email,
                             'Hash': parts[4],
                             'Subject': parts[5],
                         }
@@ -218,7 +241,10 @@ class GitCommitExtractor:
             return False
         
         repo_name = self.get_repo_name(repo_path)
-        print(f"Extracting commits from: {repo_path.name}")
+        filter_info = ""
+        if self.author_filter:
+            filter_info = f" (filtering by: {', '.join(self.author_filter)})"
+        print(f"Extracting commits from: {repo_path.name}{filter_info}")
         
         commits = self.extract_commits(repo_path)
         
@@ -319,10 +345,33 @@ Examples:
         help='Search in subdirectories recursively'
     )
     
+    parser.add_argument(
+        '--my-commits', '-m',
+        action='store_true',
+        help='Filter commits by default authors: silvestronimarco@gmail.com, marco.silvestroni@accenture.com, marco.sivestroni@external.stellantis.com, sd21107'
+    )
+    
+    parser.add_argument(
+        '--author',
+        type=str,
+        nargs='+',
+        help='Filter commits by email or username (can specify multiple)',
+        default=None
+    )
+    
     args = parser.parse_args()
     
     try:
-        extractor = GitCommitExtractor(output_dir=args.output)
+        # Determine author filter
+        author_filter = None
+        if args.my_commits:
+            author_filter = GitCommitExtractor.DEFAULT_AUTHORS
+            print(f"📧 Filtering commits by authors: {', '.join(author_filter)}\n")
+        elif args.author:
+            author_filter = args.author
+            print(f"📧 Filtering commits by authors: {', '.join(author_filter)}\n")
+        
+        extractor = GitCommitExtractor(output_dir=args.output, author_filter=author_filter)
         
         if args.repo:
             # Extract from specific repository
