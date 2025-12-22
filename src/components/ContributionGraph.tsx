@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useMemo, useState, type CSSProperties, type MouseEvent } from "react";
 
 interface CommitData {
   date: string;
@@ -66,45 +66,45 @@ export default function ContributionGraph({ data }: ContributionGraphProps) {
       padding: "2rem",
       maxWidth: "1200px",
       margin: "0 auto",
-    } as React.CSSProperties,
+    } as CSSProperties,
     contributionStats: {
       display: "flex",
       gap: "2rem",
       marginBottom: "2rem",
       flexWrap: "wrap",
-    } as React.CSSProperties,
+    } as CSSProperties,
     stat: {
       display: "flex",
       flexDirection: "column" as const,
       gap: "0.5rem",
-    } as React.CSSProperties,
+    } as CSSProperties,
     statLabel: {
       fontSize: "0.875rem",
       color: "#666",
       textTransform: "uppercase" as const,
       letterSpacing: "0.05em",
-    } as React.CSSProperties,
+    } as CSSProperties,
     statValue: {
       fontSize: "2rem",
       fontWeight: "bold",
       color: "#24292f",
-    } as React.CSSProperties,
+    } as CSSProperties,
     graphContainer: {
       display: "flex",
       flexDirection: "column" as const,
       gap: "3rem",
-    } as React.CSSProperties,
+    } as CSSProperties,
     yearSection: {
       display: "flex",
       flexDirection: "column" as const,
       gap: "1rem",
-    } as React.CSSProperties,
+    } as CSSProperties,
     yearTitle: {
       margin: 0,
       fontSize: "1.5rem",
       color: "#24292f",
       fontWeight: 600,
-    } as React.CSSProperties,
+    } as CSSProperties,
     graphGrid: {
       display: "flex",
       gap: "1rem",
@@ -112,7 +112,7 @@ export default function ContributionGraph({ data }: ContributionGraphProps) {
       overflowX: "auto",
       overflowY: "hidden",
       paddingBottom: "0.5rem",
-    } as React.CSSProperties,
+    } as CSSProperties,
     weekdaysLabels: {
       display: "flex",
       flexDirection: "column" as const,
@@ -123,18 +123,18 @@ export default function ContributionGraph({ data }: ContributionGraphProps) {
       color: "#666",
       textAlign: "right" as const,
       minWidth: "2rem",
-    } as React.CSSProperties,
+    } as CSSProperties,
     contributionGrid: {
       display: "flex",
       gap: "0.25rem",
       flexWrap: "nowrap" as const,
       alignContent: "flex-start",
-    } as React.CSSProperties,
+    } as CSSProperties,
     week: {
       display: "flex",
       flexDirection: "column" as const,
       gap: "0.25rem",
-    } as React.CSSProperties,
+    } as CSSProperties,
     day: (level: string) =>
       ({
         width: "1.25rem",
@@ -144,7 +144,7 @@ export default function ContributionGraph({ data }: ContributionGraphProps) {
         cursor: "pointer",
         transition: "all 0.2s ease",
         backgroundColor: getLevelColor(level),
-      } as React.CSSProperties),
+      } as CSSProperties),
     legend: {
       display: "flex",
       alignItems: "center",
@@ -153,7 +153,7 @@ export default function ContributionGraph({ data }: ContributionGraphProps) {
       marginTop: "2rem",
       fontSize: "0.875rem",
       color: "#666",
-    } as React.CSSProperties,
+    } as CSSProperties,
     legendBox: (level: string) =>
       ({
         width: "1.25rem",
@@ -161,7 +161,7 @@ export default function ContributionGraph({ data }: ContributionGraphProps) {
         borderRadius: "0.25rem",
         border: "1px solid #e1e4e8",
         backgroundColor: getLevelColor(level),
-      } as React.CSSProperties),
+      } as CSSProperties),
   };
 
   return (
@@ -174,59 +174,61 @@ export default function ContributionGraph({ data }: ContributionGraphProps) {
       </div>
 
       <div style={styles.graphContainer}>
-        {graphData.map(({ year, weeks }) => (
-          <div key={year} style={styles.yearSection}>
-            <h3 style={styles.yearTitle}>{year}</h3>
-            <div style={styles.graphGrid}>
-              <div style={styles.weekdaysLabels}>
-                <div>Mon</div>
-                <div>Wed</div>
-                <div>Fri</div>
-              </div>
-              <div style={styles.contributionGrid}>
-                {weeks.map((week, weekIdx) => (
-                  <div key={weekIdx} style={styles.week}>
-                    {week.map((day, dayIdx) => (
-                      <div
-                        key={`${weekIdx}-${dayIdx}`}
-                        style={styles.day(day.level)}
-                        title={`${day.date}: ${day.count} contribution${
-                          day.count !== 1 ? "s" : ""
-                        }`}
-                        onClick={(e) => {
-                          if (day.count > 0) {
-                            const rect = (
-                              e.currentTarget as HTMLElement
-                            ).getBoundingClientRect();
-                            setPopup({
-                              date: day.date,
-                              count: day.count,
-                              projects: day.projects,
-                              x: rect.left,
-                              y: rect.top,
-                            });
-                          }
-                        }}
-                        onMouseEnter={(e) => {
-                          (e.currentTarget as HTMLElement).style.transform =
-                            "scale(1.1)";
-                          (e.currentTarget as HTMLElement).style.boxShadow =
-                            "0 0 0 2px rgba(36, 41, 47, 0.15)";
-                        }}
-                        onMouseLeave={(e) => {
-                          (e.currentTarget as HTMLElement).style.transform =
-                            "scale(1)";
-                          (e.currentTarget as HTMLElement).style.boxShadow =
-                            "none";
-                        }}
-                      />
-                    ))}
-                  </div>
-                ))}
+        {graphData.map(
+          ({ year, weeks }: { year: number; weeks: DayData[][] }) => (
+            <div key={year} style={styles.yearSection}>
+              <h3 style={styles.yearTitle}>{year}</h3>
+              <div style={styles.graphGrid}>
+                <div style={styles.weekdaysLabels}>
+                  <div>Mon</div>
+                  <div>Wed</div>
+                  <div>Fri</div>
+                </div>
+                <div style={styles.contributionGrid}>
+                  {weeks.map((week: DayData[], weekIdx: number) => (
+                    <div key={weekIdx} style={styles.week}>
+                      {week.map((day: DayData, dayIdx: number) => (
+                        <div
+                          key={`${weekIdx}-${dayIdx}`}
+                          style={styles.day(day.level)}
+                          title={`${day.date}: ${day.count} contribution${
+                            day.count !== 1 ? "s" : ""
+                          }`}
+                          onClick={(e: MouseEvent<HTMLDivElement>) => {
+                            if (day.count > 0) {
+                              const rect = (
+                                e.currentTarget as HTMLElement
+                              ).getBoundingClientRect();
+                              setPopup({
+                                date: day.date,
+                                count: day.count,
+                                projects: day.projects,
+                                x: rect.left,
+                                y: rect.top,
+                              });
+                            }
+                          }}
+                          onMouseEnter={(e: MouseEvent<HTMLDivElement>) => {
+                            (e.currentTarget as HTMLElement).style.transform =
+                              "scale(1.1)";
+                            (e.currentTarget as HTMLElement).style.boxShadow =
+                              "0 0 0 2px rgba(36, 41, 47, 0.15)";
+                          }}
+                          onMouseLeave={(e: MouseEvent<HTMLDivElement>) => {
+                            (e.currentTarget as HTMLElement).style.transform =
+                              "scale(1)";
+                            (e.currentTarget as HTMLElement).style.boxShadow =
+                              "none";
+                          }}
+                        />
+                      ))}
+                    </div>
+                  ))}
+                </div>
               </div>
             </div>
-          </div>
-        ))}
+          )
+        )}
       </div>
 
       <div style={styles.legend}>
