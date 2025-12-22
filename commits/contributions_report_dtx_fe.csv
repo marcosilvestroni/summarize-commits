@@ -1,0 +1,208 @@
+Date,Timestamp,Author,Email,Hash,Subject,Additions,Deletions
+2025-05-12,2025-05-12T14:24:37+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6c6c9264f5fffae4b86b23cca2926d31cb077039,REFINE: Update getCurrency function to accept country parameter for dynamic currency retrieval (#333),0,0
+2025-05-08,2025-05-08T12:22:20+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,318d0e6b29b6b5e8db774ac0f54873d4692d06c3,HOTFIX: brand mapping vauxhall (#327),0,0
+2025-05-05,2025-05-05T11:40:26+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,77ed786dcbecf2afa822a46ad16b5a8ef6bd088e,FEAT: Add legal disclaimer portal to Images component and update Main layout (#323),1,0
+2025-04-28,2025-04-28T15:30:40+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3aeb8db5944904a9e516a1a498baee31cfc8c7cf,Add legal disclaimer wrapper to Images component (#318),0,0
+2025-04-24,2025-04-24T17:38:39+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,287b7c31b516b29c8889958b06898b76dea89338,REFINE: Simplify quick summary dispatch logic and enhance scroll behavior conditions (#315),0,0
+2025-04-17,2025-04-17T14:21:17+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,a87d49c8510b632dd6e5342c235a3a2634ebe818,FIX: Remove ellipsis from Font components in QuickSummary and set wrap to false in PriceViewer (#302),0,0
+2025-04-15,2025-04-15T17:12:11+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,74b84d84dc244238dafd6c152d03dcdd8e6ffb7f,HOTFIX: litecfr 275 price color card selected (#295),0,0
+2025-04-15,2025-04-15T11:48:29+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1514e08d703a1d8e0d7cb59a77947197bf9fe045,Enhance PriceViewer component with alignment prop and default wrap setting (#294),2,0
+2025-04-10,2025-04-10T14:43:25+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1815409e3c94f6be28dcf8023f5c548fc3923b7b,Feature/litecfr 253 add wrap to desktop (#288),0,0
+2025-04-10,2025-04-10T14:42:51+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,534716326ffcb0f37efbd61b751f1be944dfebf1,Hotfix/LITECFR-268 modal open fails (#287),0,0
+2025-04-09,2025-04-09T17:45:29+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,276c843a91b05901251a456b102a725844b2a416,Feature:LITECFR-253  add layout contrl on PriceViewer for better text handling (#286),1,0
+2025-04-04,2025-04-04T10:35:20+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,82ed766196a4fa4d8746277869b1722b24ab69f9,move to dvh (#280),1,0
+2025-04-01,2025-04-01T10:54:02+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,da2dfac7d138b2e923416cd77c38f9c3d571f895,Feature: LITECFR-246 add switch for arc svg (#278),1,0
+2025-03-21,2025-03-21T10:34:24+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6554a60c7708a1700cd09475699bac1b5fbd0ec1,FIX: Lazy load Icon component in TrimDetailsModal and Checkbox; remove redundant onKeyDown handlers in Card (#272),0,0
+2025-03-21,2025-03-21T10:30:08+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c73814633415c8a5a22d267e5fbeba662dd89d86,wip lazy improvements (#271),0,0
+2025-03-14,2025-03-14T17:32:12+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f1325e4a1ccd01725c8e75221184cdda98ac745f,FIX: LITECFR-217 fix for key press behaviour based on visibility (#264),0,0
+2025-03-12,2025-03-12T09:14:07+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ba4246ea6fd81cfadff0d184e66d64fe3d181e26,export funtion in utils and add handlers to pannellum (#254),0,0
+2025-03-11,2025-03-11T12:18:52+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3e9200f2edc99c78eef5dece78768a64bdfc7556,rename hideclass and add keyup handler (#251),0,0
+2025-03-11,2025-03-11T11:25:25+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ffa5c1e09776c9d902e3d0b8fb064651b9a0df00,"fix merge,  svg camelCase and console warns ,errors and logs (#249)",0,0
+2025-03-11,2025-03-11T10:46:41+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9ced137dca9e020fa74e0c3db728b93445e1a5e4,Implement new feature for user profile customization options (#248),0,0
+2025-03-11,2025-03-11T10:46:27+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,b0ef95f57058de02e8818080342d6633b6ce4034,FIX: LITECFR-210 On rotation enable full screen mode  (#247),0,0
+2025-03-11,2025-03-11T10:46:12+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,49330c256a6e774b1e51d7f04c60682f85166a08,LITECFR-207:  Add keyboard navigation for View360 component using arrow keys (#246),0,0
+2025-03-06,2025-03-06T15:19:04+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ad0ee434a929227a9efd843badac4ffb4997bdfe,Enhance Overlays component with tab image selection and improve layout responsiveness (#241),0,0
+2025-03-06,2025-03-06T10:10:51+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,de0891f4022d4979363a6e5a01d6714d8176e24f,fix accessibility (#239),0,0
+2025-03-03,2025-03-03T10:44:51+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6f5d423d1394eea366d3df6470765026e6487e29,LITECFR-200: Feature/maserati (#234),2,0
+2025-02-27,2025-02-27T15:57:47+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,249b7a274ab4afe70cf4844921765aa5ec2e80b4,Feature/litecfr 158 (#231),0,0
+2025-02-25,2025-02-25T16:13:54+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,b9b82c9cba7af052da800fd05d0279f67d38a8cf,Feature/access fix (#223),0,0
+2025-02-24,2025-02-24T17:31:49+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,365ce83bf84a4e9341c47daf0a87e7cfeafa4242,fix aria and focus (#218),0,0
+2025-02-21,2025-02-21T12:52:05+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,955c27c87c9cce1ad24e4e6dad893dc8721bb6be,FIX: Enhance accessibility with ReadableLabel component in EngineDetailsModal (#216),0,0
+2025-02-20,2025-02-20T16:37:03+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,830239c7fa3cba68e1d041fbc6e21b548b982bac,Feature/accessibility quicksummary (#210),1,0
+2025-02-13,2025-02-13T09:54:03+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,cffeea01f604f22b9f9f060d284af9cbc41e5e99,rework dimetions container (#202),1,0
+2025-02-06,2025-02-06T14:54:46+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e9d9dae2f14002f90b9c8384f37e56777e251f94,fix options tabs (#173),0,0
+2025-02-06,2025-02-06T12:56:17+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,41cf4d247f3a4f756966b2188aa9843d85c5dd89,Merge branch 'cert' into develop,0,0
+2025-02-06,2025-02-06T10:05:17+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e012569beaac1c018ab65726b6df200d7f08f607,Merge branch 'stage' into cert,0,0
+2025-02-06,2025-02-06T10:01:57+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,7d5648d21cbd80b83cac9dfca30c5ec75d4812e8,Develop (#166),0,0
+2025-02-06,2025-02-06T10:01:46+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,8bc260ae3098f97b8e786d09f5742a518d98fb79,Merge branch 'cert' into develop,0,0
+2025-02-06,2025-02-06T09:51:47+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,59bd168242f107ccf8a0825a7847cd5974cf122b,Hotfix/various (#165),0,0
+2025-02-05,2025-02-05T15:07:30+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9954a0e21bc53396cb23b25bd0b454bb603028c4,Cert (#163),1,0
+2025-02-05,2025-02-05T15:07:01+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9407fde467a136195fbbb3e9d73bdb4f754be561,Develop (#162),1,0
+2025-02-05,2025-02-05T15:06:25+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,469fe626780fdda23b4eb67a9ddf61014f7369d1,Hotfix/UI and various (#161),1,0
+2025-02-05,2025-02-05T10:33:38+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ed2d334ef7cfab465cf54264684ecdc5b0d51715,Merge branch 'release-latest' into stage,0,0
+2025-02-05,2025-02-05T10:26:00+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3e9b3c86bb70c05552d420326d6e5906a6178c22,Cert (#157),0,0
+2025-02-05,2025-02-05T10:25:54+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0d79d8be1f3826a7e779e2a116949ea16567889c,Merge branch 'stage' into cert,0,0
+2025-02-05,2025-02-05T10:25:06+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,197f4a0da5c8e9ab113dcd230eac129a2190d7ff,Develop (#156),0,0
+2025-02-05,2025-02-05T10:24:57+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,b647a743c384db4ea4db6f19e1abec16b23352e1,Merge branch 'cert' into develop,0,1
+2025-02-05,2025-02-05T10:23:20+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,7bdee5ed20aaf282cc41f78c86bb6c7f319bfedc,move login onto gsap (#155),0,0
+2025-02-04,2025-02-04T16:53:32+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,dcbf14034861bc99cd160435b5393f4b79475f7d,Stage (#154),1,0
+2025-02-04,2025-02-04T15:07:18+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e7dfeecde3e1b90e474301ff403778fd0a0c894d,Develop (#149) (#150),0,0
+2025-02-04,2025-02-04T15:06:42+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6a195a5fff65ee91e6d51e5f9841f03600c76cb9,Develop (#149),0,0
+2025-02-04,2025-02-04T12:16:37+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1383befa0a565f01a6430ac8c35dd48ac6279b0c,updated labels and fix currency on price component overall (#148),0,0
+2025-01-31,2025-01-31T13:03:12+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e683079c0b89fa88778ba7ffaf5bfd3a9283d861,Hotfix/css fixes (#123),0,0
+2025-01-30,2025-01-30T17:18:33+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0c33728352169ce2d785440bc35253339f5c2e8b,Develop update (#121) (#122),0,0
+2025-01-30,2025-01-30T17:18:07+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3268fda128a874e2fdd2ce1524223f72f2c96e3e,Develop update (#121),0,0
+2025-01-30,2025-01-30T16:34:19+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,2373751c60a96c6d768141970146a258682faea3,update release (#120),2,0
+2025-01-30,2025-01-30T10:53:15+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9ce02b1e664b4c2d2de45a26c79fb39a0af9e2ca,fix style (#118),0,0
+2025-01-28,2025-01-28T17:52:49+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e756f5e10620baaf74e2eac0f1e2ef8759b6ba30,Develop (#115) (#116),0,0
+2025-01-28,2025-01-28T17:51:03+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f329f40cc4a7c1544297c0a753818f48bb640a95,Develop (#115),0,0
+2025-01-28,2025-01-28T16:27:46+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0c41e2c3d313e3aa55d06b4de453c39b187fdfc1,reverse array (#113),0,0
+2025-01-28,2025-01-28T16:02:09+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ba7edbaec0b386138c2549133efb9f787ed6cb4f,fix style (#112),0,0
+2025-01-28,2025-01-28T15:59:27+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,2c49cfe32c0ef8aeb9fa9774bc37b1f2ff19c8e0,add label and manage dragging (#111),0,0
+2025-01-28,2025-01-28T11:32:22+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,fe3ac4204d93148a0950eb3260856baefbc1cdbd,Stage (#106),3,1
+2025-01-28,2025-01-28T11:06:38+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9e1267ca8de0739a424b524631c2a456bb15aa08,update interiors pannellum (#105),0,0
+2025-01-27,2025-01-27T17:38:50+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ecf6d7a88ba7d1f78d4ce123beea5651b07be054,fix snap width on resize and reght click on pannellum (#103),0,0
+2025-01-27,2025-01-27T12:01:16+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,fd41e095c7157dd6b6a362826cefa90773841537,Cert (#99),3,1
+2025-01-27,2025-01-27T11:46:13+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1268011012a3dae001d992435e2256b786411c55,move snap lower and change relative css to error component (#98),0,1
+2025-01-27,2025-01-27T10:15:22+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,98b70253ead74a05544481e2a06a1ead56a91bb7,Hotfix/quicksummaryimage and others (#97),1,0
+2025-01-24,2025-01-24T15:12:15+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,cef7d22c155aa43fff9c12d3e5137199706d7be7,Feature/add interior 360 (#96),0,0
+2025-01-23,2025-01-23T17:03:55+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c2ae4dc2286f7e4c17dcefc6bb3405b6911959b4,improve version (#94),0,0
+2025-01-23,2025-01-23T11:10:38+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,5468b6e833a0136f6a8856c5ad4a3a9d6ca11be2,rework selectors (#89),0,0
+2025-01-22,2025-01-22T17:00:26+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9ea83a499aaf846d96a31e3339856b75609c212c,update publish (#86),0,0
+2025-01-22,2025-01-22T14:43:06+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6999e643c7f9e3ebeda7aa88d86c81d9052e5786,Feature/new version (#84),0,0
+2025-01-22,2025-01-22T14:31:39+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3c61e835450d5693d776456d3c2c7ebb705c9385,update CERT (#83),0,0
+2025-01-22,2025-01-22T14:28:50+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3d75a45da74f74f755abe8efe25b78add3368c43,fix envs (#82),0,0
+2025-01-21,2025-01-21T17:08:13+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,95c643edd57abcc7dc0e0eadd74841cd7f2708ec,Merge pull request #79 from omn01/feature/bws-hide-selectors,0,0
+2025-01-21,2025-01-21T16:57:16+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e678ab55078bb41d45ab8a1546df601bd3f35850,hide elemets when snap trggers,0,0
+2025-01-21,2025-01-21T13:28:55+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6eef3c16f62b1ba8f88595434be2e89b993d1e43,Merge pull request #77 from omn01/cert,0,0
+2025-01-21,2025-01-21T13:28:18+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3fadf19304038a7bae63d2e84ec48abe0c9cac5d,Merge pull request #76 from omn01/develop,0,0
+2025-01-21,2025-01-21T13:27:45+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ed9249b8fdca828cc25432439c51cc410897c53d,Merge pull request #75 from omn01/hotfix/LITECFR-104-1,0,0
+2025-01-21,2025-01-21T13:22:14+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b2d34b62cbbdbc8026737578745041052446b6be,remove slash,0,0
+2025-01-21,2025-01-21T13:19:36+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8cb46826e4d792694ebc352661e88ba01e08956a,fix pkg,0,0
+2025-01-21,2025-01-21T13:15:23+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,54c864b78c36901c6f5aa2f898b554345ce65506,fix registry path,0,0
+2025-01-21,2025-01-21T12:39:13+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,7eb660426f59dddb90cd531a839b43bc947a5fe9,Merge pull request #74 from omn01/cert,10,1
+2025-01-21,2025-01-21T12:38:30+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,d5570b3896b8a7785605a6304aa51bda307235ca,Merge pull request #73 from omn01/develop,10,1
+2025-01-21,2025-01-21T11:28:12+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3e7d0c376f0d30c28e7c4507580d7dda8511dff1,Merge pull request #71 from omn01/feature/LITECFR-104,3,1
+2025-01-21,2025-01-21T11:14:15+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4323c7fc6faecce1e5ddc3f3c7505b56fa71dd88,fix chunks imports,0,0
+2025-01-21,2025-01-21T11:11:30+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6e06f38d6c6090860a9f69c46338f5a51395ae0d,update sdks,0,0
+2025-01-21,2025-01-21T10:43:29+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9caaaa41b17ef34080e61cbfd20e6b3f4618ac14,add basepath rules,1,0
+2025-01-20,2025-01-20T15:36:56+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,28018586feb2216c12e9aab9f93fe742866ffde8,Merge branch 'develop' into feature/LITECFR-104,4,0
+2025-01-20,2025-01-20T10:01:29+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,37e51b72dcdbc9212d63fde0cc62b2b5f355c5ce,update AEM,0,0
+2025-01-16,2025-01-16T16:31:29+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ad2ff837a9e673bee46758f5f47479508bc76f25,Merge pull request #67 from omn01/hotfix/LITECFR-117,0,0
+2025-01-16,2025-01-16T16:09:46+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f81f1cfdb66acf87fdab425ef4e3bad1f4ed81b2,restore border to items of  list,0,0
+2025-01-16,2025-01-16T15:43:59+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,79efecca73ee2483c6ffd75e8f6bea9d9aa6dd02,update env and build commands,1,1
+2025-01-16,2025-01-16T15:08:31+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,963612f4eca7e9436a9e757eddcf1ef5f6c0aa40,Merge branch 'develop' of https://github.psa-cloud.com/omn01/dtx-fe into develop,4,0
+2025-01-16,2025-01-16T15:02:30+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9b5e01f6ede097618054d8bd6195a50eb872c87a,add sccf mapping,0,0
+2025-01-16,2025-01-16T14:33:59+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8c1dd978883da56eb7d66ee46ab963e44be09354,update npmrc_backup,1,0
+2025-01-16,2025-01-16T12:58:41+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,46b65d6a78abf49f06affa6d643e97b9e6780c3f,Merge pull request #62 from omn01/hotfix/LITECFR-111,1,0
+2025-01-16,2025-01-16T12:24:07+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,195b0e60008e6d5f24bb1aab4cb21e4672a28b06,LITECFR-111,1,0
+2025-01-16,2025-01-16T11:51:27+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,62bec72a47b78e70d4e943b8f84bf8762265ad79,Merge pull request #61 from omn01/hotfix/LITECFR-114,0,0
+2025-01-16,2025-01-16T11:10:49+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7347d040288af8c84839bf7ab244e9c13cf2196b,LITECFR-80,0,0
+2025-01-16,2025-01-16T11:00:10+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,fbbbbe88010676abeba9305251c2005d2a8b6aca,remove mocked data images api,0,0
+2025-01-16,2025-01-16T10:49:46+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,fab8b1d5781502a96869567f1b69e1ad544cc2d4,color item hover border,0,0
+2025-01-13,2025-01-13T12:05:57+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ece550bf6a1bd082119d9166d714ed2cb940ca6f,Merge pull request #50 from omn01/hotfix/reset-state-mobile,0,1
+2025-01-10,2025-01-10T18:14:49+01:00,Silvestroni,marco.silvestroni@accenture.com,8062e1ceffc9c3428edf46eebf177a5986c9c575,fix mobile reset state,0,1
+2025-01-09,2025-01-09T16:37:04+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3f56e354cb3ebeeb9c3f8daeaff41d7e05000da1,Merge pull request #45 from omn01/hotfix/restore-alias-fix-fonts,1,0
+2025-01-09,2025-01-09T16:33:06+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,fa5b6473e140ddd582247c3a9778db77a9f8fd71,fix font path absolute,1,0
+2025-01-09,2025-01-09T16:17:43+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,a57fcc453e70a390e63ef679d93df841bd3b10d8,"Revert ""Merge pull request #40 from omn01/hotfix/remove-aliases""",0,0
+2025-01-09,2025-01-09T13:02:03+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,a3c66b855547bbdfce200cb429cdd59ea6b7fed0,Merge pull request #40 from omn01/hotfix/remove-aliases,0,0
+2025-01-09,2025-01-09T12:30:04+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,6eb50b0bf79c35c8a916769c23aa3a83bab97396,fix path and build,0,0
+2025-01-09,2025-01-09T12:22:34+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,7018b4b176c01ef8ac6e64367a220553d71b4332,remove alias,0,0
+2025-01-08,2025-01-08T15:18:21+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3067f4592b872cee1d588ab8e842b4d3e1bf5478,Merge pull request #37 from omn01/bugfix/quick-summary,0,1
+2025-01-08,2025-01-08T12:13:47+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,7b55e3084b2c6beada8625a45405526d5f055b99,remove unuseless,0,0
+2025-01-08,2025-01-08T12:12:05+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,0f85431ce18080de8712af6aeef48bc82c669755,"Revert ""unified quisksummary trigger""",0,0
+2025-01-08,2025-01-08T12:08:02+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,3e2d89de8c8f243c83c51ac594a232e05632463b,fix reset on media query change,0,1
+2025-01-08,2025-01-08T10:57:47+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,19bd52f84786a8955275cb6e7e9523a8d98bf015,hide missed bonuses,0,0
+2025-01-08,2025-01-08T10:56:09+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,8c9578a76d492c1c427c1dad870d9b70e0719251,icon fixed,0,0
+2025-01-08,2025-01-08T10:54:47+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,e0a0f8c890c05e08894db9b0857d4f3f9b019e64,unified quisksummary trigger,0,0
+2025-01-08,2025-01-08T10:27:12+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,aa80f8382f24c2e688acce1a0ae68c7ee245a415,fix mobile quicksummary,0,0
+2025-01-08,2025-01-08T10:23:34+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,0c90ff072ca6e2858b5ecdecbe0af860b22609b3,fix quicksummary view and scroll to fin,0,0
+2024-12-18,2024-12-18T14:57:14+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,1d18d745daa758410d1a326d8fb6d2023bbb084c,fix icon quicksummary,0,0
+2024-12-18,2024-12-18T12:07:42+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,4f1ba99f366973f2cceee440e3a7081592d877eb,fix missed translations,0,0
+2024-12-18,2024-12-18T10:57:07+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,97048357b7482db1e123bda82d6d4e28e5fc087b,fix build,0,0
+2024-12-18,2024-12-18T10:53:18+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,c96407ae65ff0e0e698f1b12de4848ca22e22bee,fix build,7,0
+2024-12-18,2024-12-18T10:48:30+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c75b8bda0e321755876c9aaedc0186e577eacecc,Merge pull request #31 from omn01/feature/scroll_tooltip,0,0
+2024-12-17,2024-12-17T17:12:51+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,93b24e10743cbd82e5f4d37611c6176fe6bc0747,add scroll behaviour,0,0
+2024-12-17,2024-12-17T17:03:37+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,25c63a2d681c12f257bde305e3aa948e666d8a4b,Merge pull request #25 from omn01/feature/quicksummary-review,1,1
+2024-12-17,2024-12-17T16:34:03+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,75c30751a762443df0256f01c26db6544f787f44,fix typo,0,0
+2024-12-17,2024-12-17T16:03:43+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,9f5bee2c63e82e716adc722b9a9d6a2ed96c86a9,fix height quicksummary,0,0
+2024-12-17,2024-12-17T15:54:52+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,a08f71a0a0ac0e1d6365b3914607d945affbd6f4,fix labels and  i18next settings,0,0
+2024-12-17,2024-12-17T12:09:11+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,d2dc7f65b196e4831f47626772e6730c3a39d211,Merge branch 'develop' into feature/quicksummary-review,0,0
+2024-12-17,2024-12-17T12:07:12+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,d9cc6446d0c299acd1d2d59f0db6f5e3b39b3af3,rework loginc on summary visibility,0,1
+2024-12-17,2024-12-17T11:06:05+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,cb841c15af5bf653fe29b0ab41f3feec4c24424c,update labels and response,0,0
+2024-12-17,2024-12-17T09:35:06+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,d19e08559c786cf2e7e80154206631e58845b639,fix styles and attach data,0,0
+2024-12-17,2024-12-17T09:33:07+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,298d9f092d3817428be7bc37a48cf7519710d113,update context/labels,0,0
+2024-12-17,2024-12-17T09:27:22+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,6fb0cb87f40a8359bcf4e6475845ceeebc258c63,adding backgound overlays variable,1,0
+2024-12-13,2024-12-13T18:16:54+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,cb001deb61a06e11d5c4667227e42af10f781eff,fix styles add images create hook,0,1
+2024-12-13,2024-12-13T17:22:48+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,67fa1d152475be95a4dca809dde93f91369c2760,add GetRepresentativeFinanceExample call,0,1
+2024-12-13,2024-12-13T14:27:44+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,c8f20e0f2c9e9d9e3e4ecd35cc9c317f019eb45a,Merge branch 'develop' into feature/quicksummary-review,0,0
+2024-12-13,2024-12-13T11:18:05+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,834ea82be51a74f70c4152e0c985be85ca699b79,add error message for Price Api,0,0
+2024-12-13,2024-12-13T11:06:43+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,67e29460fba070072092da4d6826aa33fb13cf1a,Merge branch 'develop' of https://github.psa-cloud.com/omn01/dtx-fe into develop,0,0
+2024-12-13,2024-12-13T10:59:36+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,f2dd402db93c44dd107a1933ce21f99cffea11c9,avoid missed prices from drvnn,0,0
+2024-12-12,2024-12-12T16:01:10+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,9fc048d5789d2cf7c22328389d7d8cf51efe9c23,Merge branch 'develop' into feature/quicksummary-review,0,0
+2024-12-12,2024-12-12T11:27:18+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0e934ee9e3b43e16c19c66713653326846ce4a73,Merge pull request #11 from omn01/feature/images-loader-and-scoll-fix,0,0
+2024-12-12,2024-12-12T10:19:20+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,fc19de0938c0ec9887c583acf20ddbf4743b42c2,Merge branch 'develop' into feature/images-loader-and-scoll-fix,1,0
+2024-12-12,2024-12-12T09:31:44+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,76b7fdb432943367362ec208e63b08d0236d4a80,Merge branch 'develop' into feature/quicksummary-review,0,0
+2024-12-12,2024-12-12T08:54:31+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,40d3a3d4620101472715bcdcffb7c94c2e06803f,fix styles and remove extra loaders,0,0
+2024-12-11,2024-12-11T15:47:22+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,0f39ebc0f847510e76f87ea481177bc93239db08,add todo,0,0
+2024-12-11,2024-12-11T15:17:59+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,00c7465b79211dc072045a399e7d2fe76d87388a,trick to sow images,0,0
+2024-12-11,2024-12-11T10:14:05+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,15b4684ba5c47cc98d0c80938b11ad61035962a7,fix 360 behaviour propagation on mobile,0,0
+2024-12-09,2024-12-09T14:48:16+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,75455f5f9fb7a7fde3eb6b59a114505d0067d994,Merged PR 51: table break point,0,0
+2024-12-09,2024-12-09T10:49:09+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,1b3c55e692d2efb2c8aa5fa562dfa6ef7f5f665e,remove private and update yarn,0,0
+2024-12-05,2024-12-05T18:08:35+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,c87a74bcdc60b8ee584ea2f1770b0aab26620f00,financing section and reorganize layout,0,0
+2024-12-05,2024-12-05T16:55:22+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,157ff40f4e9f66c22e210cfef5ae7ce6c83b1761,Merged PR 47: 360 rework,0,0
+2024-12-04,2024-12-04T08:38:35+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,2d070d36b2d1ab6bc4b32033bb5b9856d0fbe2e6,Merged PR 44: fix engine reset after trim selection,0,0
+2024-12-02,2024-12-02T16:46:34+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,3f6742d421ec2d939b42ef1183b30a4fc6930cda,Merged PR 43: Images API,1,0
+2024-11-28,2024-11-28T18:07:25+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,1f6e997cb0ce6a283e742d588b87d576b97ada48,fix path AEM,0,0
+2024-11-28,2024-11-28T16:54:18+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,3b8fa8166353e23deb6ba1468eb38a5861b6e876,Merged PR 40: context and label retrieve,1,0
+2024-11-27,2024-11-27T14:47:50+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,7eeb82f72724f102da618f92e6cbaf2b45518a21,fix build,0,0
+2024-11-27,2024-11-27T14:38:28+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,89013540b3d7a0ab174842ec03c07a3b90fd6892,get selected packs form congi api,0,0
+2024-11-27,2024-11-27T08:29:02+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,e7867f3827c2ed0c29c5af8bd234c8c197c67721,Merged PR 38: fix duplication rework logics,0,0
+2024-11-26,2024-11-26T10:12:03+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,ee60a6f7f6aa11331e8aeb7e64ceaea69b527cbe,fix missed tag view on mobile,0,0
+2024-11-26,2024-11-26T08:50:31+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,e25dcc3964a4d7a6aa41d31c3d6491029e1947e2,Merged PR 35: [EMILIANO] collapsed view,0,0
+2024-11-25,2024-11-25T11:54:50+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,07800bac2a7c33348773726422df492f0155dd9d,add  funtion to window obj,0,0
+2024-11-22,2024-11-22T12:09:15+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,5baeb6298b399aaccc68386b6a9fe19911ae20bd,restore dev env,0,0
+2024-11-22,2024-11-22T11:08:36+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,2fb7706b3414d3034178614dcdef3422b6306e5e,test deploy,0,0
+2024-11-21,2024-11-21T17:58:10+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,5646151a7d809a8c9f03f6aaf0339376beb50b5b,Merge branch 'main' into develop,10,0
+2024-11-21,2024-11-21T15:43:16+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,0a37209959fd84fb7b18818627705c313c56490c,Merged PR 32: config mobile version,1,0
+2024-11-21,2024-11-21T16:33:57+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,135741d5984be19b3990795085e2205fd34ab311,fix build,0,0
+2024-11-21,2024-11-21T16:16:08+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,a5bb5dba6563fd28931dcd11718bd506ea149f55,fix envs,0,0
+2024-11-21,2024-11-21T15:45:10+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,91200de1175d1746465f2d37b9c66e1da1949781,fix mobile full screen,0,0
+2024-11-21,2024-11-21T15:32:42+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,99194af7b56b06c028ba9450e919f753a18adcb9,fix on lazy loading,0,0
+2024-11-21,2024-11-21T12:16:32+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,035a097a75210b8581f89f80bfd7b07791f011bc,fix test fetch,10,0
+2024-11-21,2024-11-21T11:42:55+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,26a840906c440e914afd41f55ba7848e789d2ce8,fix postinstall,0,0
+2024-11-20,2024-11-20T18:14:40+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,a2658f1d2dbc482190c28dba2bc061f547f96ccf,merge from azure,1,0
+2024-11-19,2024-11-19T17:09:10+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,cc4d396a118790a25431df1774a294c022f273f9,Merged PR 30: changes on task and fix on icons colors,0,0
+2024-11-19,2024-11-19T17:08:04+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,cede1efc1b1dc8c8eb99715afc9873c1b1131ca6,Merged PR 31: rework API approach with RTKQ,1,0
+2024-11-19,2024-11-19T17:03:16+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,23a7c90149ab0210fc74d129f2283d87c8528618,push missed files,0,0
+2024-11-19,2024-11-19T16:23:13+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,e1810ea17920afed4f80ef14ebbad7a28451b2ef,add yarn lock,0,0
+2024-11-19,2024-11-19T14:52:51+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,9d1ae996f746a8b56cb433db773c70dc4b5633c0,remove junk files,0,0
+2024-11-19,2024-11-19T14:43:25+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,ff910a7a6f377a2e080acea18b54015a849d2e79,init project,3,0
+2024-11-12,2024-11-12T16:00:02+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,0033f833d1e588ba456bcb1fe9f799c72ff55c77,remove un used files and update gitignore,0,1
+2024-11-12,2024-11-12T13:28:16+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,183c243b83c419786fb2b7d535752cfeb776806b,Merged PR 29: [LUKA] sidebar style,0,0
+2024-11-12,2024-11-12T13:28:00+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,26cf7b274d3ee64392a7d9fd3b05a868e5dd1f76,Merged PR 28: [EMILIANO] ISSUE_28,1,0
+2024-11-12,2024-11-12T11:49:54+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,4fb1161aae30b17b359dc5f26bd638555400c306,fix build anad test phase,0,0
+2024-11-12,2024-11-12T09:50:23+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,6c6836b1b50cc5d9ca133056350cd880906c96bb,add variant as extra prop into theme,0,0
+2024-11-12,2024-11-12T08:45:54+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,262da3676c0ca31adc8f345470722492c3c63947,Merged PR 26: [EMILIANO] creation stycky CTAs,0,0
+2024-11-11,2024-11-11T08:24:59+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,09f194230f179d6500e586a316508e2ec2f4ef6d,Merged PR 25: ISSUE_25,5,4
+2024-10-31,2024-10-31T15:23:24+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,68f0323c9ae77773a375499526a3de2ad2f1d3b8,Merged PR 23: Token refresh,0,0
+2024-10-30,2024-10-30T10:32:19+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,de035bb55cbdd100d182c16ba28afcc96da21e96,fix husky for windows,1,0
+2024-10-30,2024-10-30T09:17:12+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,663d1689d5934705398a48e2be0faf3b227595bb,Merged PR 19: ISSUE_17,0,0
+2024-10-22,2024-10-22T08:48:37+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,3d5d1141974cbce0de14fca9cb01c53d40f5003d,wrapper app,0,0
+2024-10-21,2024-10-21T12:10:04+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,94c1507104288d4b6884077f775a0721a13fbae4,Merged PR 16: ISSUE 6 first layout,0,0
+2024-10-17,2024-10-17T15:07:23+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,2ff9658afe691b74cdb8bbb20833824a618cb965,Merged PR 14: Mobile first approach,0,0
+2024-10-17,2024-10-17T15:24:09+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,50bce0b02ab38d7125726e50f1d2145852fbf614,fix gitignore and settings for vscode,0,0
+2024-10-15,2024-10-15T14:43:13+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,2bdb3b7cd89d67ccd177d9e460f5ba8a87ee53f9,styles fixes,0,0
+2024-10-15,2024-10-15T14:27:49+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,63d769dee6529bb8e845dfcdf5bab5d37ae79e51,fixes on sidebar,0,0
+2024-10-14,2024-10-14T13:52:52+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,24a0f8b13f4085fcbd5c23d789777a42a3cc675b,Merged PR 12: ISSUE_14,0,0
+2024-10-11,2024-10-11T09:07:09+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,d3aa44416e9246eac57bb5d37b8301c17d4b0bed,Merged PR 11: ISSUE_6,13,3
+2024-10-04,2024-10-04T10:03:32+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,5a25fb93c1fe6b4f136c6db09bd12a80bd5fa5ed,Merged PR 5: add icons main theme,0,0
+2024-10-03,2024-10-03T10:03:58+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,9c3368901107a0a61454ea19a6bbe4830886b763,fix typing deviceSize,1,0
+2024-10-02,2024-10-02T15:01:24+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,ae3b27e56d89d851b7f9cf5d3351d4462346e873,Merged PR 2: ISSUE_8,3,5
+2024-09-30,2024-09-30T09:39:49+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a96e92ccd05b923b9da7c8e63928fe79951c88bf,Merge branch 'main' of ssh.dev.azure.com:v3/detoxwidget/detox%20widget/detox%20widget,0,0
+2024-09-30,2024-09-30T09:36:44+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,2675c888a0d8518fe3f7bd6c9f7bd0666db1655e,update tsconfigs,0,2
+2024-09-27,2024-09-27T14:46:59+00:00,Marco Silvestroni,marco.silvestroni@accenture.com,e5fcc69aa173cd163a00cd3960d30f3a73ab20d5,Merged PR 1: setup configuration,22,3
+2024-09-26,2024-09-26T11:45:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,233b8dfe9b11d698011887707701574775d4d5e5,fix prepush,0,0
+2024-09-26,2024-09-26T11:44:58+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1f3de5e0ea10acbfaa165526602a33b26734f95b,preset for testing,3,0
+2024-09-26,2024-09-26T11:27:20+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,23fc7e81a8f57b9331f9a5c866ab91624e073d98,lint husky,0,0
+2024-09-26,2024-09-26T11:10:42+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,8786d88dc40f31a3722c7ed63663bcfc803654b4,init,30,0

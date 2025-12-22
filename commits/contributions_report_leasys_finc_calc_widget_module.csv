@@ -1,0 +1,233 @@
+Date,Timestamp,Author,Email,Hash,Subject,Additions,Deletions
+2025-03-21,2025-03-21T10:29:29+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,dd5902ac905bb1891b7e6f77a7942ae6c2fbd541,Main (#235),8,5
+2024-06-28,2024-06-28T09:13:43+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,26d38acbca1adc28e7d44c10d2683f6677b65b7c,Merge branch 'develop',0,0
+2024-06-27,2024-06-27T17:22:16+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,761194fe475d4479f2bb47f0321d9306abf88b93,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,0
+2024-06-27,2024-06-27T17:13:46+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7cf3e18b0526576c13c931e5e886d209c66cd658,Merge branch 'main' into develop,0,0
+2024-06-27,2024-06-27T16:49:57+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,90f99ceb4a48690026ee30ac1d773de917708a9d,remove parameters from default,0,0
+2024-06-27,2024-06-27T15:42:07+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,947afd31f7be47b987d0eaa4b71e64cb83de6ac5,fix base path,0,0
+2024-06-27,2024-06-27T14:57:56+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1102aaf4b651b711fec5c84fb7cda3be7b0c7c8f,fix buket link,0,0
+2024-06-27,2024-06-27T12:20:22+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,40141c56a6478377ed4139d0a81eba956c6549c2,Bugfix/golive (#112),0,0
+2024-06-27,2024-06-27T11:06:40+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,087bca8956b024fd7d0ce6a02cc18562ee593a54,Merge branch 'main' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module,0,0
+2024-06-27,2024-06-27T09:32:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,92df4100406071bfebea917129d0d7e96dd13197,fix services empty,0,0
+2024-06-27,2024-06-27T10:15:36+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,7cd389066490da419c93ad426837d42252c9d4c9,Stage (#111),0,0
+2024-06-27,2024-06-27T09:32:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,22f75417611ae5b415a109e23b04c2d8f49358e9,fix services empty,0,0
+2024-06-26,2024-06-26T17:02:39+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,bca2abc3cf487b5b79ccf4a2278ca3ed5adff795,fix message,0,0
+2024-06-26,2024-06-26T16:13:11+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,859fd569ac42cf8c343ff99925d1f509a23f234e,Main (#108),1055,242
+2024-06-26,2024-06-26T16:12:25+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,18baaee8d75fb9870a341f39e22d29aec59d6acf,Stage (#107),0,0
+2024-06-26,2024-06-26T15:30:59+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b4f616868d27928799a1792b0c4f3632b0d27e1b,show refresh failure only on first load,0,0
+2024-06-26,2024-06-26T10:10:37+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7656d03c1a5e8b4018d0c4e95be6833673d52994,adjust test,0,0
+2024-06-26,2024-06-26T10:00:12+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e93db8547e6d7adc166d7c9678d2ca128fbc9815,ECOBLOG-1482,0,0
+2024-06-25,2024-06-25T16:09:52+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b361aca93bc09c785f09a8a7b7bc91b2167593f5,fix brand name mapping,0,0
+2024-06-25,2024-06-25T14:37:14+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a96974b1bfbe16235a8994609b3dc24fbb6cc206,fix HSTS Privacy violation,0,0
+2024-06-25,2024-06-25T14:23:23+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,3dc2aea978b465bc76786fb8300503dc73342bc0,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,0
+2024-06-25,2024-06-25T14:21:21+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1bfaf09b2c791269107fec45c91d909288ca8fd5,remove unsueful,0,0
+2024-06-25,2024-06-25T10:14:51+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,66b8ec62ad71c4d75c6ee213882b9f3931fc81f5,fix npm audit,0,0
+2024-06-21,2024-06-21T18:09:54+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ab5dd12cd5038cd1adcb91a7afc3d42bb3d15842,Servizi inclusi nel canone,0,0
+2024-06-21,2024-06-21T16:14:23+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,f9acebbbff444bb75df8378595fc9cca716fa528,Merge branch 'main' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module,0,0
+2024-06-21,2024-06-21T16:12:00+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a1e2495c14ae098285a8033a49dd3944c8b7edc1,Merge branch 'stage',2,0
+2024-06-21,2024-06-21T16:09:14+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c92696523c436a85b9492e1a914ed14388a40cad,Merge branch 'stage' into develop,0,0
+2024-06-21,2024-06-21T16:06:21+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b46638daf8fd3f8825ef5405c7dbbc1b9ed6299f,fix env settings,0,0
+2024-06-21,2024-06-21T15:58:49+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,9be09ec9d2d825301dfa8ec00a5b0a40b3faf5f6,Merge branch 'stage' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into stage,1,0
+2024-06-21,2024-06-21T15:58:23+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,84cdcc3a60c3b7e744d7c39c19726cf08428bca5,fix prod,0,0
+2024-06-21,2024-06-21T11:33:10+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1a5419d60965b71d48df0a3e294609f9b7d5518b,stage align (#99),0,0
+2024-06-21,2024-06-21T11:33:00+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,d74c8e43dba5533734ac741a72d82152b0c65f3c,align main (#100),0,0
+2024-06-21,2024-06-21T11:29:49+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a20198e7fd8b55a7833e0a489103799f5ce61873,fix envs links,0,0
+2024-06-21,2024-06-21T09:46:13+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,abef3d76593c8f88103ef998dfca87ce6727790f,main alignment (#98),2,0
+2024-06-21,2024-06-21T09:46:04+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,5bfecedaaf98fb141583a09c72e929252639f662,stage alignemnt (#97),1,0
+2024-06-20,2024-06-20T14:56:47+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3fa7df6f8ffd87dbcc15d840e122202761b46dbe,Feature/fe fix button disabled (#94),0,0
+2024-06-19,2024-06-19T18:22:38+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,761072fb244e5d71871d4ffaf862272940b9963d,fix embedded abort error,0,0
+2024-06-14,2024-06-14T15:28:27+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,056b676d389cad6736a542560ac5bc01eddc2853,Develop to cert (#93),1,0
+2024-06-07,2024-06-07T17:47:18+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a6fbd5d97c4aba1dcf84d29712e3130d05199aab,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,1,0
+2024-06-07,2024-06-07T17:46:28+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,dbd1dbf0c1d43bc7cdbfed1200d3ba1679f64063,fix price paramenters,0,0
+2024-06-03,2024-06-03T17:31:24+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,509209efb3bf41ac9732dceac0cfad9466811c30,Merge branch 'cert',0,0
+2024-06-03,2024-06-03T17:31:08+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,cbe39f1e40f7925c617663e41dbf77a21bb559c9,Merge branch 'develop' into cert,0,0
+2024-06-03,2024-06-03T17:30:13+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,0cce7d17812f63b9518092354477303fc746e5c9,add package for build npm,0,0
+2024-06-03,2024-06-03T16:45:02+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1867265b8ca9d13f0a8db70e1069c87a763d6e04,Merge branch 'main' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module,0,0
+2024-06-03,2024-06-03T16:41:58+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,02cd3cb5c005082427efae32666b43318613f56c,Merge branch 'develop' into cert,0,0
+2024-06-03,2024-06-03T16:40:14+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,aecd82213640ce94bcc5350840e8bf16b03e50a3,version 0.1.14,0,0
+2024-06-03,2024-06-03T16:31:59+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,4b082f55a611c4b55ce480837ae64b099d20b1bf,fit check,0,0
+2024-06-03,2024-06-03T15:48:27+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,8ec7cdbadb988077d8bf1349bb6fc663e7c3569e,fix route changed,0,0
+2024-06-03,2024-06-03T12:34:33+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ce5afd8f32a994b2c6a951249882619667cd9a50,Cert into main for 0.1.13 (#90),269,0
+2024-06-03,2024-06-03T12:32:57+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c27343c79af5bcbf1901b519dfcc1413cbecb962,Merge branch 'main' into cert,0,0
+2024-06-03,2024-06-03T11:57:53+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,84c321c93bf697fabc1667b0277311620387df0b,remove event handlers,0,0
+2024-06-03,2024-06-03T11:13:45+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,8fd4a5aeae2be9b317b8ce872a4c29a821d7c9a7,restore fix,0,0
+2024-05-31,2024-05-31T15:24:07+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,f50d66a751f3afdcfc963a3b4e137dc75f4604af,restore fix,0,0
+2024-05-31,2024-05-31T09:20:47+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,2dc5fdca7c9a0540cd55582975e3308c02a7f647,Merge branch 'develop' into cert,4,0
+2024-05-30,2024-05-30T16:36:25+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,6286966639a729061863d03b4c6956e67f1826a7,remove draggable,0,1
+2024-05-30,2024-05-30T14:51:18+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,3fa783f76e2df9817ce3e16a5a27c9995e99d7e9,WIP fix unmount,0,0
+2024-05-30,2024-05-30T12:37:43+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,263b32eb4759ad56d355f654c24f7ed4853d755c,fix donwnpayment,0,0
+2024-05-29,2024-05-29T17:27:16+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,4a8d75d1cdacb83c828ef0f203558a5c4762c5d8,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,0
+2024-05-29,2024-05-29T17:26:02+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,390a93937664bc751a82a86b6d7bfc7daf4ef107,fix for js routers,0,0
+2024-05-29,2024-05-29T11:08:54+02:00,MARCO SILVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1d7a6200155b147eb8740bafbf8ff920d9b15c29,test husky windows 2,1,0
+2024-05-29,2024-05-29T11:06:53+02:00,MARCO SILVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c4a8ccd9a5fa38e1a09cccd7fe1ce361cf693ba4,test husky windows,0,0
+2024-05-28,2024-05-28T16:39:35+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,5045ab6980082189476f217ff04adcea58f99e68,add market specs (#88),4,0
+2024-05-27,2024-05-27T18:29:09+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,122feedfddcbaaa13e8be980d49356047f00c054,restore husky,0,0
+2024-05-27,2024-05-27T18:22:30+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,2af756fee8fe179730d22b7ae9ffe931c385502a,restore husky,0,2
+2024-05-27,2024-05-27T18:17:06+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,8a1724ff1bbd97f412c27f68d9411b62c159e5a5,fix vscode settings workspace,0,0
+2024-05-27,2024-05-27T17:57:19+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,d977eed36b46250154521e38181a6ebe842a0178,allin (#89),0,0
+2024-05-23,2024-05-23T18:07:01+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,4d198243d2cbe2ac31ca6d4bc1dc7625668bb2a7,Develop align (#87),0,0
+2024-05-23,2024-05-23T18:05:10+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,8ed66a1a1630bb3ccc7667653153e4dc06958855,Merge branch 'cert' into develop,0,0
+2024-05-23,2024-05-23T18:01:55+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f728943e12cc48fbf2b8e10da1c3187631b7c6aa,fix on slider (#86),0,0
+2024-05-17,2024-05-17T16:40:09+02:00,MARCO SILVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,b11606d5186b793ebf36b09492501b5db59b5343,fix prepush,0,0
+2024-05-17,2024-05-17T16:38:25+02:00,MARCO SILVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f0a1d6ce8bbfcf5b1f2de58b7a08b1680786c1ea,increase version,0,0
+2024-05-17,2024-05-17T16:30:06+02:00,MARCO SILVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,754329fb3ffa755cc407540f0f2ec9ca1f7daa1b,fix typescript on workspace,0,0
+2024-05-16,2024-05-16T17:05:20+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,53d298c6ea03ae21f860b953ac8eb3489ffa4d21,Develop (#85),248,0
+2024-05-16,2024-05-16T16:29:40+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,4d4f0b4ed1496ab3a18dbdfa6cf74b3241cf5eed,Vauxhall,1,0
+2024-05-16,2024-05-16T15:29:17+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b4da4476091686c8a7d9b8e63f9fb1df48d5c39e,Merge branch 'cert' into develop,0,0
+2024-05-16,2024-05-16T15:10:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,bb57fd51f39cb6b529e324cae1d89319dda448ac,add test for legalnotes,0,0
+2024-05-15,2024-05-15T10:12:43+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,6f8368f79bb57ba26bada8447bfa207eee01b226,add textsummary on coverage,0,0
+2024-05-15,2024-05-15T10:00:57+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,4287592bc5aadc00daaeb491a2d54c0d73c65964,edit push commands pre,0,0
+2024-05-15,2024-05-15T09:43:40+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ffd4d8c97a4bc415d7937f71291774710891a3ea,fix lock,233,0
+2024-05-13,2024-05-13T12:33:13+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,0b9df4532248fafee347dd93458617ec050a8392,restore man code error on pending,1,0
+2024-05-13,2024-05-13T14:36:02+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,681ae9c92ab0f91e8545510b35fa35a6e839a6e7,adapt envs (#84),0,0
+2024-05-10,2024-05-10T16:49:30+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e1b9495b8e903399c2f30dc914161daf16191570,ECGLOB-862 add fix on update widget scenario (#82),0,0
+2024-05-10,2024-05-10T16:48:21+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f6a9168d6bcbbaf78c91a6bcf7e9e4afd26d7309,Feature/fe ecglob 958 (#83),0,0
+2024-05-10,2024-05-10T09:50:46+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9745dba7e7cb53301414158f85563b00c9954826,Feature/fe ecglob 793 (#81),1,0
+2024-05-09,2024-05-09T16:45:04+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e98e39279a9376588f2f6a0260b131a099ab8b15,aqpplythe parse to response legalmention (#80),0,0
+2024-05-09,2024-05-09T12:52:50+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e2383e94a36bf1ba9cfa21015c8cc9ce493ffe9f,fix eslint,0,0
+2024-05-09,2024-05-09T12:50:29+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7d620349470888aafcfee506453fe815722b9e55,upgrade libs,0,0
+2024-05-09,2024-05-09T12:44:40+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b2783b139a61b2c5503717f1ca752256bab62e19,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,0
+2024-05-09,2024-05-09T12:43:53+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,92a56429794636c2e922088dca7dca1f63f5ffde,fix storybook and remove semver to eslint,0,0
+2024-05-08,2024-05-08T09:57:52+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1a519c95393651298f56939ecff8a2d181086a46,Feature/fe improve test coverage (#76),2,0
+2024-05-06,2024-05-06T09:19:43+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,d34a8e81ba0cbb43860cc2751cd3cd2815a284c5,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,0
+2024-05-03,2024-05-03T17:18:28+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,8d5adc5d49b96d22c01f96823ca6e0834b11290a,Cert (#78),2,1
+2024-05-03,2024-05-03T17:18:21+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,a904892bce82a9e3eb915d333cb99fd813eebcf9,Merge branch 'main' into cert,0,0
+2024-05-03,2024-05-03T17:16:39+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,82ff9a9e329ffb7c93d15ae7f14b0e888e23feaf,increase version,0,0
+2024-05-03,2024-05-03T16:39:04+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ce1c728fa22859e2ebf7ae5c7fa7db8ab11c1e1f,Develop (#77),1,0
+2024-05-03,2024-05-03T14:34:55+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,6990ef798a99df3736d78cfbf8eca87fe2bc4c29,fix options list,0,0
+2024-05-03,2024-05-03T12:09:59+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,68fc485b649f041d0f27e201315664c5adc09c08,remove background color body,0,1
+2024-05-03,2024-05-03T09:20:43+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,0698026485da32668aff2a6b55b453596134934b,rework style for show embedded,0,0
+2024-05-02,2024-05-02T18:53:10+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7a8c535bb61a759c735729873ce6eef82c4985e9,add style to buttons,0,0
+2024-05-02,2024-05-02T18:47:41+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,dbb9bc9751211ae4ae47b209c7ad1105981e5cfd,fix button selection,0,0
+2024-05-02,2024-05-02T18:05:55+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,9736c146d0809ae1b649473ec423adf8939ce48e,fix react test warning,0,0
+2024-05-02,2024-05-02T17:13:26+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,61e5d3d192c0a67466a31ac98becd35b1bf29c21,wip build,0,0
+2024-05-02,2024-05-02T17:03:08+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b48e53d0865fbeb84e4289d473034b9a6a6bd3a2,wip fix uild,0,0
+2024-05-02,2024-05-02T15:31:44+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,260cdb74e09727340753810a4c5ab64939cdbc8f,fix options prices,0,0
+2024-05-02,2024-05-02T14:26:14+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,a4ace68f1351fbcabf003d111ef013c4c5770d21,add vechiel kinfd  and update typings (#75),0,0
+2024-05-02,2024-05-02T09:24:41+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,0f563acdb5495ceb6ddc7db7ca698bf872910dc0,restore inout in man code,0,0
+2024-04-30,2024-04-30T11:49:41+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,9826d4a6d3cec27af5917aad50c02ef033a9082f,add workable man code,1,0
+2024-04-30,2024-04-30T11:03:04+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ad14fe9c1ff5c24d52a617e5f60d5b8504e0356f,add bradn labels,0,0
+2024-04-30,2024-04-30T11:01:01+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,db87a1e37088f3c7b13adeaabd2c6c6c28f24cb5,add worked manufactured codes,0,0
+2024-04-29,2024-04-29T18:28:14+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,85f6223913f37aca05d8afa54b684e742f6a8815,icons add less,0,0
+2024-04-29,2024-04-29T18:11:18+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,eb211473eb99f20033b727e1869a22d763740ead,fix error handler,0,0
+2024-04-29,2024-04-29T17:12:35+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,06ca845c4e98af9d0236d2665b7fb6a6806a4b6c,fix build,1,0
+2024-04-29,2024-04-29T17:12:03+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c8d7694387bd512cea936b59e6b9c9e2822807fd,fix missed error,0,0
+2024-04-29,2024-04-29T16:50:59+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,254c1c4e985c299825af3cac15cb0dc124e8344f,build issue,0,0
+2024-04-29,2024-04-29T16:21:05+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,4a66545da4134a0860e70ae0f44e2b8a449f803e,move to global (#74),0,0
+2024-04-29,2024-04-29T16:20:45+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,173c01e4cb82ac1eaacd41b9cea306f0bfeb0440,Feature/fe ecglob 733 (#73),0,0
+2024-04-29,2024-04-29T15:48:04+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,6a454da8803a06c39dbd71e0c5a28cac696cfb72,remove product key,0,0
+2024-04-29,2024-04-29T15:31:05+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,cac580c3387ee85c8e39d73c4ea874a924f93ca0,brandLabel replaced in place of brandText in legalMention (#72),1,0
+2024-04-24,2024-04-24T16:12:24+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9ec04dacaee1d1c802d5ebc956136540046b05dc,Feature/tests improvement (#68),0,0
+2024-04-23,2024-04-23T12:25:07+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7b4823a3999f8e21ddf2280ba3077fa9b51d044d,Merge branch 'develop' into cert,0,0
+2024-04-23,2024-04-23T12:24:07+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,46683fcfedd85f540b84fca22a4ae50904934431,fix propagation,0,0
+2024-04-23,2024-04-23T12:09:59+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,d285a3814da9533903cda5e8fba9cf096edb0cfe,Merge branch 'develop' into cert,1,0
+2024-04-23,2024-04-23T12:06:55+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,d50372435c3b3b4605807b2bb5fbdc80d4c86467,box-sizing fix,1,0
+2024-04-23,2024-04-23T12:05:18+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b68833e9bc2775ae099d2994b4ed0102aaa48115,fix format font,0,0
+2024-04-22,2024-04-22T14:03:34+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,14a910f22cd179380fe093beacc78b6a7bd7188f,Develop (#66),0,1
+2024-04-22,2024-04-22T12:46:50+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,61d873a042c50eac14cfc3f2f735db36b8353495,fix loader for embedded,0,0
+2024-04-19,2024-04-19T18:29:05+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e3581dc6a8d3ecc635583bee230bb274e0046eb0,fix spaceing style,0,0
+2024-04-19,2024-04-19T17:59:47+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,cdf215f90f4ef667b270c0e5ebb8c0c18f7e50bc,styles on embedded,0,0
+2024-04-19,2024-04-19T17:18:20+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,d001e7b016f34d177b8ee0ca813abd67cd431024,fix error handler,0,0
+2024-04-19,2024-04-19T15:05:50+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1aee7da2054c2994ee4cd4e5a2a9506cab4c6d0c,fix initial downpayment,1,0
+2024-04-19,2024-04-19T15:03:18+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,77dd3e1efe83b1bd7aab48206eb50079396c4e56,fix font links cdn,0,0
+2024-04-19,2024-04-19T11:38:11+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,129460c8ccbb65ae135af5da53792a9dc561617f,fix chevron color,0,0
+2024-04-19,2024-04-19T11:09:44+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e8f9cf62516a2997a17c18be887ce7c0e963eb72,fix test,0,0
+2024-04-19,2024-04-19T10:57:57+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,da018cceb459d66067d98237ecf22f0c75b6131f,UI adaptation for Ecommerce theme (#64),0,0
+2024-04-19,2024-04-19T10:17:04+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,bd740b614b1ebd4035d9819ca861834c5c647cc5,move fonts,0,0
+2024-04-18,2024-04-18T13:05:51+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,0e704857b9872634b09ba4e78d35d3ea64ea7cdb,fix EV error,0,0
+2024-04-18,2024-04-18T11:45:52+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b69cc522c378cce428fc1d5c7013fa1b40854e2f,fixx error handler,0,1
+2024-04-18,2024-04-18T11:21:14+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ba9274ef272fa45e4209e24ec007b2069af29cac,fix on mileage,0,0
+2024-04-18,2024-04-18T10:32:07+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,56461e42dc264bfe039f2ed6fe22b44aa1f6b2f5,error managemnt,0,0
+2024-04-18,2024-04-18T09:45:42+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1819519ffa5c69b521ef641cb67172ff121c81ba,Feature/fe ecglob 814 (#61),0,0
+2024-04-17,2024-04-17T09:09:21+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ede3fa7e12bf84ac3057916888cb7e4357472ff2,retore asset folder (#58),0,0
+2024-04-16,2024-04-16T18:04:00+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,29d11d45e6997b8bd38637ca380e262e1a4d13a6,fix,0,0
+2024-04-16,2024-04-16T17:25:42+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b8f13d205e0cdaa8167200cee5b7b0161c86a2a8,fix annualMileage and html,0,0
+2024-04-16,2024-04-16T10:41:44+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f723c423b16adb2382b9c65975b4a38afa378eaa,ECGLOB-760 rework callback function for embedded version (#57),0,0
+2024-04-15,2024-04-15T18:42:05+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e4ad5fbfb98ad58946eb4b67c53fc1ea3b3f9d10,fix local runtime,0,1
+2024-04-15,2024-04-15T17:09:41+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c9e70e0f2ecf0b3d856ac2ee1b0835c00122ab3f,Merge branch 'cert' into develop,0,1
+2024-04-15,2024-04-15T17:09:21+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,520f4abda829ff66b0337d3caa7b5fac538d4723,fix build,0,0
+2024-04-11,2024-04-11T11:14:13+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,20f9c51d0077eec23722faac3da6dad77e441469,fix comand start,0,0
+2024-04-11,2024-04-11T11:06:07+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1b1e01849218aa61078ca0091c235d17b6debc04,Merge branch 'develop' into cert,0,0
+2024-04-11,2024-04-11T11:05:57+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,f8aee022995779d0947fc568a350d8dd59181e2f,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,0
+2024-04-11,2024-04-11T11:05:54+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1b7fbe442e4696e13d5c1a1a2eda42d984800f05,fiux env path and build command,0,0
+2024-04-11,2024-04-11T09:50:21+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,dda3a96945dfcbc6e0439aab04a7cf341d51e210,increase version,0,0
+2024-04-11,2024-04-11T09:50:03+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1bfa627d24eead160d541d1ff40fed6e651e236b,Merge branch 'cert',3,0
+2024-04-11,2024-04-11T09:27:04+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7550a7d60804903a0942294cfb9ef33e75163771,Merge branch 'develop' into cert,0,0
+2024-04-11,2024-04-11T09:26:46+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,86beb73c721ed1d73f83b10721f1d332008d354d,fix build,0,0
+2024-04-10,2024-04-10T17:42:22+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,643462ff69e89f548a5ea8c6f82188cfc1ef8237,Merge branch 'develop' into cert,3,0
+2024-04-10,2024-04-10T17:41:54+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c49cc6934c4258f20f6549f38b3f961a9f71dc0f,add cert and env base url,3,0
+2024-04-10,2024-04-10T17:06:44+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,dabb7f4ed2f1830f075f7897567046c225b3c84c,Merge branch 'develop' into cert,0,0
+2024-04-10,2024-04-10T17:06:04+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a6ab340bbb0618e73628b3516bd20dc3bccb56f9,remove dragged image,0,0
+2024-04-10,2024-04-10T16:32:09+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,f12b9ab9972c1139a614a44f3c8135b22db85c6d,Merge branch 'develop' into cert,0,0
+2024-04-10,2024-04-10T15:11:50+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f646857e42782929bd85674781af36d6ec3d5597,Feature/fe ecglob 685 bis (#52),0,0
+2024-04-08,2024-04-08T17:10:53+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1e581656314e7e943c3de38c733e98d5ef45b10d,Feature/fe move to cdn (#51),0,0
+2024-04-05,2024-04-05T16:20:52+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,9780d409f10c174117133ce58dcb4aa41a261d4d,fixes on error handler,0,0
+2024-04-05,2024-04-05T11:05:30+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b84b2ce8a1c7971306371c9243c4bb4226c8b578,fix voc,0,0
+2024-04-05,2024-04-05T11:03:51+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,caea06c1cc2e6e270d1e52cbea2edb2172449818,remove pdf,0,0
+2024-03-26,2024-03-26T15:19:14+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,0ccd897f8f0fb050144c76b17d4b32e549752450,upgrade version,0,0
+2024-03-26,2024-03-26T14:44:19+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c5493b2ea5803538b092aaf98a35efc5a6ad6ea1,CERT alignment based on DEVELOP (#45),2,1
+2024-03-26,2024-03-26T14:33:54+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ef1bdc62c916ca4e97f5044ce437d2c418abcdb9,Feature/fe reshape list parameters (#46),0,0
+2024-03-22,2024-03-22T14:52:59+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,e7537cb68d62782d14f670f918a4831ef569264d,fix on parameters,0,0
+2024-03-22,2024-03-22T11:08:45+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,75b5620e54084290dc4d153dbc98d15554e52e9b,fix test,0,0
+2024-03-22,2024-03-22T11:01:08+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,0d77546f64c7d80a6651d4c777070585527bf0e2,fixes for selection,0,0
+2024-03-21,2024-03-21T17:46:43+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ae86c600dcac8f0cd499c247beb5d9ad11d43907,fix product selection and add cases (#43),0,0
+2024-03-21,2024-03-21T17:17:07+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,5296b79cf98ca450b118b9194119204d77964b7a,Feature/fe ecglob 648 (#41),1,0
+2024-03-21,2024-03-21T17:08:56+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,85e2433264936b3a6afb4df3bd9e692672dda164,Feature/fe ecglob 597 (#40),0,0
+2024-03-20,2024-03-20T12:48:11+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,dca13dfa15a9b424fe3752e9f411e8b6b7ecaad1,add formatter management,0,0
+2024-03-20,2024-03-20T12:29:40+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,91724ca68b9c8fe8c6267f3c1f730fb0b8d29933,fix session id and outpunt triggern on products rate,0,0
+2024-03-19,2024-03-19T18:52:25+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,bd4cdb4cdc3f63355d7b3f99c717953820141528,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,1
+2024-03-19,2024-03-19T18:51:45+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,227fa3519d4a5034efd98286a3207d3f9c7b778f,fix logic on updating controls and embedd solution improved,0,0
+2024-03-19,2024-03-19T18:41:06+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,2fb0519181ffc1d7759968e59928f90d2c649cea,Feature/fe fix lazy components tests (#37),0,1
+2024-03-19,2024-03-19T15:16:38+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,18c395e13cbb9c6da3353b403b4843f4cd7b90b5,Feature/fe ecglob 633 (#34),0,0
+2024-03-19,2024-03-19T12:57:03+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9c5812593f006423163e4ff5c8c4a875574e4a9e,embedded version widget (#36),2,0
+2024-03-19,2024-03-19T12:55:04+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1492585d343f7aad56e13330dcf6c4eefb2e8e64,Feature/fe ecglob 596 (#35),2,1
+2024-03-18,2024-03-18T09:31:18+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0bdc49d14fe154a978674306c9d647a9b62a1eb2,fix style (#33),0,0
+2024-03-15,2024-03-15T17:50:52+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ec41eb442666d061bbc2aff74415c105e3cc1870,Create github_actions.yml,0,0
+2024-03-15,2024-03-15T10:23:37+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,5383ab9cc5015203b0871ad25066aba7de135b87,rework apiCall with sessionId and mocked version APIs (#30),1,0
+2024-03-15,2024-03-15T10:22:31+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e5d24a3e91819c46501c2ff74d85bc50306b907a,Feature/fe ecglob 622 Button test (#31),0,0
+2024-03-13,2024-03-13T16:18:28+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,cfd6d099b310de5c033a28b78714493007905190,Feature/fe fix console logs (#28),0,0
+2024-03-12,2024-03-12T18:44:55+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,2c72cd7d32331e3ec86a2898d8ae82ce2c69ed7c,restore,0,0
+2024-03-12,2024-03-12T18:18:41+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,18929ec7b6ac3221e19f355a75b841646cb87696,check if parameters changed,0,0
+2024-03-12,2024-03-12T15:49:58+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,c405fc3ef266fb07af06968712b0363993191f36,URL LOADER,0,0
+2024-03-12,2024-03-12T14:57:35+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,86040d0a956d415beb922a7ca3fc9be4304da51a,change resources paths,0,0
+2024-03-12,2024-03-12T10:33:52+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,d78b0bd72e431a90d571041523092e3acab4d8f8,upgrade version 0.1.6,0,0
+2024-03-12,2024-03-12T10:32:41+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,02e7f35de2bc008e0afcae07472e95905d6ca5e4,fix globals and output path,0,0
+2024-03-12,2024-03-12T10:06:39+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,3cee15ac55d82bfd5238cf98281af87d37be86ac,apply style logics and fix oputput fn,0,0
+2024-03-11,2024-03-11T18:58:51+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,eb87fe9ac88a423384a0903b4881674105496194,remove chunks 0.1.5,0,0
+2024-03-11,2024-03-11T12:42:38+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,03fb2395e70998490af8625f1ed5cea5c5374663,0.1.4,0,0
+2024-03-11,2024-03-11T12:40:14+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,42921f60e4bea8db4f0916e43ac59544c505c839,Merge branch 'main' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module,0,0
+2024-03-11,2024-03-11T12:39:24+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,9d79d70a19df0aaf34bc10864e6c84d91db43686,"Revert ""fix module export es5""",0,0
+2024-03-11,2024-03-11T12:32:54+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,75cfbaa3908828450198d478e2b5a211ea5e8acd,change target library,0,0
+2024-03-08,2024-03-08T17:13:05+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,2ac67dafef9fbf74cf7bbca0683274f1e65aeaec,fix module export es5,0,0
+2024-03-08,2024-03-08T14:42:25+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,e648bb728f78eec6df5206826cd3ce5d1f4b80e1,Merge branch 'develop' into cert,0,0
+2024-03-08,2024-03-08T14:41:59+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,d0012893c2301a3ef882df78a76221c943d1ff29,remove mock and currencies,0,0
+2024-03-08,2024-03-08T14:39:33+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,be4d00115517fded645f58bed363225651356957,Merge branch 'main' into develop,0,0
+2024-03-08,2024-03-08T14:38:19+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,daed64eb0d9ff0e163d1b55f56559df0853a0a4a,0.1.2 with paths,0,0
+2024-03-08,2024-03-08T14:30:41+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,f6ba3fb2b6f001f3174f6fde3a407846969b44a3,add reference to main js,0,0
+2024-03-08,2024-03-08T10:42:55+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,97320e57a7d533d8d8c69688566a272c1e643b21,Develop (#24),0,0
+2024-03-08,2024-03-08T10:41:47+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9e40b3daf1f892bb8094b3582789e5962d14ef06,Merge branch 'cert' into develop,0,0
+2024-03-08,2024-03-08T10:36:34+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,c489ab9bdb785978461eee3b8409b12cb6a8aaad,fix conflicts,0,0
+2024-03-08,2024-03-08T10:32:09+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,4bc811c7cfea2b7f87d21eeeaf1e7348a649bd10,Merge branch 'cert' into develop,0,0
+2024-03-08,2024-03-08T10:26:00+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,f980505ed865e1c53eee233eb8fa837d0871ba44,fix logs and closing,0,1
+2024-03-08,2024-03-08T10:04:00+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,63f2ff185b4fef456ab70073ad50c4cd61c3f424,new version,0,0
+2024-03-08,2024-03-08T10:03:39+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,60755285973b51e389cae02f804826e29e7782bc,Merge branch 'main' into release/FE-update-artifcat-0.1.1,0,0
+2024-03-08,2024-03-08T10:00:27+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,1aa414b0e74d2020f611697fa9fd851bd0ff495e,cleanup context,0,0
+2024-03-07,2024-03-07T15:52:28+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,d92253fc1f052c4de5873768153769b4df0b3fe4,remove an used icons and adjust DEMO env,0,0
+2024-03-05,2024-03-05T06:36:15+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,9040867c5bd0760ac3dd53b6b3b4448e0b9c649e,fix demo,0,0
+2024-03-05,2024-03-05T11:58:56+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,adabd8e816eb0de444cc21bd8bc4358620a3a6f3,Feature/fe ecglob 526 (#18),0,0
+2024-03-01,2024-03-01T22:30:48+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6ec7b1055a2145274d9065ce0bc95dc4a942061f,align to Develop (#15),18,0
+2024-03-01,2024-03-01T18:28:39+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e43abd7da9c85bdc7aab3d4de67e59457331f91c,Feature/fe hooks settings (#14),2,6
+2024-03-01,2024-03-01T17:29:30+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,cc8f0c4d72eff2020f76232c13063e954ad224bc,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,0
+2024-03-01,2024-03-01T17:28:55+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,3170118e73a6598ee9536dd5657e8ee2f5580204,fix build,1,0
+2024-02-29,2024-02-29T07:00:12+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,26bdfe145e40077cc1891bc9b16af5be962ce566,fix build,1,0
+2024-02-28,2024-02-28T13:13:42+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,6bbf6fe93badeb238f8e65fb8089a3dd4c03b279,icon missed,0,0
+2024-02-28,2024-02-28T11:08:31+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,948f699432985e2eaa497a08facce3e6b5a3a413,try,0,0
+2024-02-28,2024-02-28T10:52:35+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,b7eba310da9256e0fc4844a283733231d04f3d55,fix name package,0,0
+2024-02-28,2024-02-28T10:32:07+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ddf9976ce5654e6f0ee0b6f82555887611808431,fix package private (#10),0,1
+2024-02-21,2024-02-21T22:52:41+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,5f25b22d595ecda1183847b5725fe6ea8ef63856,fix api call interface for review,0,0
+2024-02-21,2024-02-21T22:20:18+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,2419a7759590b76214dcfb61a7b0f18d18a6b02a,add variations,0,0
+2024-02-22,2024-02-22T13:07:45+01:00,MARCO SILVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,649cd89df8b7dea4fad31aee9fa761177c22d2bd,Feature/codebase cleanup (#7),4,17
+2024-02-16,2024-02-16T09:18:01+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,7abd584b900bca8af2a53052edc4daa6672e0be2,Merge pull request #1 from nls00/feature/FE-ECGLOB-368,0,0
+2024-02-14,2024-02-14T10:59:33+01:00,MARCO SILVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f573aeea3dc0167244f03746bebfe4b73008fcf8,fix appselector and adddispatch,0,0
+2024-02-14,2024-02-14T10:59:09+01:00,MARCO SILVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0635b9f4846776c8796113c36824ffc4a2acd55f,add auth slice and token managemnt,0,0
+2024-02-12,2024-02-12T16:26:59+01:00,MARCO SILVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,cbcef492b6afac2ca3160f2460ec79243de986f4,init project from draft,355,0

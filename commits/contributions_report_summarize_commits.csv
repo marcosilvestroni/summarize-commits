@@ -1,3 +1,0 @@
-Date,Timestamp,Author,Email,Hash,Subject,Additions,Deletions
-2025-12-22,2025-12-22T15:19:37+01:00,Marco Silvestroni,silvestronimarco@gmail.com,f532d7f78171757e09708d38729c49440742ea00,feat: add dynamic Python script to extract commits from Git repositories,0,0
-2025-12-22,2025-12-22T14:51:04+01:00,Marco Silvestroni,silvestronimarco@gmail.com,12052972493d77bb0b3420123be7c9799d0676ae,Initial commit: Contribution graph viewer with GitHub Pages deployment,19,0

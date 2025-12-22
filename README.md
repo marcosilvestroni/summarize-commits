@@ -90,10 +90,12 @@ This command:
 The application is completely static and doesn't require a backend server:
 
 1. **During build** (`yarn build`):
+
    - The `scripts/generate-commits-data.js` script reads all CSV files from `commits/`
    - Aggregates the data and generates `public/commits-data.json`
 
 2. **Automatic deployment** via GitHub Actions:
+
    - Checks out the code
    - Installs dependencies
    - Runs `yarn build` (which generates the data)
