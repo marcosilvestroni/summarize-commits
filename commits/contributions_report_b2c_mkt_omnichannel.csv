@@ -1,0 +1,538 @@
+Date,Timestamp,Author,Email,Hash,Subject,Additions,Deletions
+2025-05-28,2025-05-28T17:06:19+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8f47103ba2f1ef2f56192ad39bf72fef0a8b117a,Refactor analytics page name construction and update analytics condition in BasketSteps,0,0
+2025-05-28,2025-05-28T17:06:19+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,29ae5b86e71686524c1035eef2f55e9a2ddb21b2,Refactor analytics page name construction and update analytics condition in BasketSteps,0,0
+2025-05-19,2025-05-19T16:46:37+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f4c29647b4beec584d73a15d4bd28e858753a860,Merge branch 'version_2.2' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into version_2.2,4,0
+2025-05-19,2025-05-19T16:45:39+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f871c0e790c769f170519191c440782c5cbaabc4,FE-OMNI-15721-regsource-gigya-fix,0,0
+2025-05-05,2025-05-05T15:27:25+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,72e8f418f07a8baa5ccce33e5a10be6eb0ab4e55,Merge branch 'version_2.2' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into version_2.2,4,0
+2025-05-05,2025-05-05T15:19:49+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2adf7104e1e9a5875674dec8e8f40e7a1ee988c1,FE-OMNI-15382 fix on load font formats,0,0
+2025-04-29,2025-04-29T16:36:45+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0568bbe7d2106b9b3b97a2ac1b646740d7daf986,FE-OMNI-15377 fix regression save heath icon [2.2],0,0
+2025-04-28,2025-04-28T17:50:57+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8e0c649e0e660cee7327b5a9f5b7dad72c0b971e,FE-OMNI-15382 improve fonts assets load [2.2],0,0
+2025-04-28,2025-04-28T17:45:13+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d78d7477da15d7e24f4f6e6af94515fa266c2749,FE-OMNI-15377 fix regression spinner hearth icon [2.2],0,0
+2025-04-07,2025-04-07T12:59:54+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,7e3bd16b5a4ca65274bfafd134b1122fc6c39ce7,Improvement for test,9,0
+2025-04-07,2025-04-07T12:44:06+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,522dcf1d62cbbe1c9a0570bd09699e7f547e9f15,Merge branch 'version_2.2' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into version_2.2,365,44
+2025-04-07,2025-04-07T12:40:51+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8eeb91f98e26539c280ed11fd3825ad4420737fe,Add handleCloseModal function to clean URL parameters on modal close,0,0
+2025-03-21,2025-03-21T15:17:58+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,cfe229f439d13da7ec69b520b2855e802769344c,OMNI-14749,0,0
+2025-02-17,2025-02-17T09:34:08+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8ce05a6e19e8f7978402328860839bb441e2f5be,fix redirect lite complete page,0,0
+2024-12-19,2024-12-19T12:30:56+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,b76198e46dbd8101fa4d8e883e5d8d6ad3add3cc,fix BasketSAve button,0,0
+2025-02-13,2025-02-13T17:37:07+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d0cbc9286d48d5e236192ea6e09cb5bbdda5f798,fix convert guest headers,0,0
+2025-01-31,2025-01-31T09:49:05+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,928d20f39fb5760e553c563ad68379b61988dc6f,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-12-11,2024-12-11T15:43:43+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,797bda78ab27f5ecc3f13ee0ded3ebe408b54c5b,OMNI-13334,0,0
+2024-12-12,2024-12-12T11:43:57+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,a617dd6580fc7a036c9a73f27c839d8aa58f4113,omni-13334,0,0
+2024-12-10,2024-12-10T16:18:41+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,7681bcaf3955d0ffa64bcc2bc4c7f56f8c443f5b,fix on error 400 convert-guest,0,0
+2024-12-10,2024-12-10T13:00:13+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,36e45b147f666c7d03eeea314e8e83751bc67438,OMNI-13310 fix 4,0,0
+2024-12-10,2024-12-10T18:35:56+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,ca3184dedfef8b1ad2f45d92fd11c526972506d3,OMNI-13310 fix 3,0,0
+2024-12-09,2024-12-09T10:40:48+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,18aefcbc5f53ceb7241119a8254602bed9bc5a4e,keep fromTradein c2sFolder on link to auth endpoint,0,0
+2024-12-09,2024-12-09T10:31:05+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,fcb3005091c2172410cad9c168762e86cbdb5961,fix duplicated quotationCode on proxy page link,0,0
+2024-12-05,2024-12-05T11:05:41+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,c06196ddcbe4b89cc65451238cdc332f8ba3b501,fix loop on basket check for online,0,0
+2024-12-04,2024-12-04T16:30:11+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,b8ee2814ed570867a6be3e8bd35813ab98e8c3c3,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,1,0
+2024-12-04,2024-12-04T16:30:00+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,6b48b202a2832a961a9b82987c9041b5d8a02d35,fix build,0,0
+2024-12-04,2024-12-04T15:35:01+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,45e128717012e85a977d30e0c1d27e9fbc783a57,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-12-04,2024-12-04T15:28:35+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,fe48ced366ac6f53aebced21d5890a6701b7872f,clean up unused reducer 13123,0,0
+2024-12-04,2024-12-04T14:37:26+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,30803aff96496d2a0abd2cc920e8b7c71cf3884e,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-12-04,2024-12-04T14:30:05+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,39fc7195851b134418af602e691ced32c1075ef5,fix on 13123,0,0
+2024-12-03,2024-12-03T17:04:20+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,e031100bbd6a58b20126284b3513e96d88ab5680,fix build,0,1
+2024-12-03,2024-12-03T15:20:12+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,be07d54cbca0daadeaa1d529fc4714be8ca20dee,401 issue extra fix,0,0
+2024-11-28,2024-11-28T11:01:12+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,ba6c533ec1da332766296d36e21f62078758a40b,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-11-28,2024-11-28T10:51:42+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,6bd30d406d526a94fb853499186fced49ece7ba4,move down finally() on cart-badge,0,0
+2024-11-28,2024-11-28T10:50:07+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,3190b74767d2bdd51fd2e9ff83f58ee0279819ee,fix cart-badge view,0,0
+2024-11-27,2024-11-27T18:59:11+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,ca0207331fc7d0236cabd708873af2ac89be8ea8,move authtentica to fix 401 issue on deployed,0,0
+2024-11-25,2024-11-25T15:48:45+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,7a1d4fc6b512d254ddf6148d1ec6c1eabf84dc8c,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-11-25,2024-11-25T15:22:21+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,a97cb24e8cc49dec1711227f904526f8ca58e2b2,401 issue,0,0
+2024-11-22,2024-11-22T09:55:59+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,a9a22e4e36f3c778ab0e0135f03b54747f95918b,fix cart-badge on lancia svg,0,0
+2024-11-04,2024-11-04T09:44:19+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0a4264f4fb88feb1aa49a936bdd0623032b8df9c,OMNI-12547,0,0
+2024-11-07,2024-11-07T14:35:26+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,272554ce3a1c7219b4adfce77541998f1d5f46be,FE-OMNI-12750,0,0
+2024-11-06,2024-11-06T09:47:33+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,127325524066cdee5cd4db4d6398408fdb8d1c15,fix cart-badge convert-guest,0,0
+2024-11-05,2024-11-05T12:13:20+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,20f6c585646e3257bafbe2a45a37f4570f7200ca,Merge of branch feature/FE-OMNI-12055-bis into fast_develop,0,0
+2024-10-31,2024-10-31T10:06:41+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,d6acca5383a918e55052929cb2930e1546c52352,fix context CSE,0,0
+2024-10-31,2024-10-31T10:05:49+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,7b5f7be8a8068f4f601550ee2d62c6f39c3684b8,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,4,4
+2024-10-28,2024-10-28T16:34:27+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,615f11e62cb0a7d0b788c96d22b119ae4f0808b3,fix consoles,0,0
+2024-10-28,2024-10-28T13:09:18+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,6eb2e34d85f144bef430457e341c2f1a59150c5a,moving session manange into separate function,0,0
+2024-10-25,2024-10-25T10:22:35+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8a278433978cf9c23b8cf14e05d5524243cfd063,rewok on cartbadge convert-guest,0,0
+2024-10-23,2024-10-23T10:04:29+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ed5e01830ba052f0798899cc98b4281325571846,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-10-23,2024-10-23T09:59:56+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,186d6c0a99530c12644d7728f246b421f35e5d89,Fix on dealerid missing,0,0
+2024-10-23,2024-10-23T10:02:27+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,78e5825874eb8a3a1589b382d36d1e1515e25513,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-10-21,2024-10-21T14:32:54+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ff77abe1a4ad23a56a591391a7c2d5d805ccb2a7,missed delay,0,0
+2024-10-21,2024-10-21T12:55:20+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,47f0ff6a5b9e56b3a9c00ca51b6ce99603551b7e,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-10-21,2024-10-21T12:46:11+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,3a26470a1f1132c2a8cd1b09c5fdf3c3c6d3c983,OMNI-12567,0,0
+2024-10-14,2024-10-14T17:15:18+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5c98ea11d46d39dba356a3c80dda06e31d169a18,rework token oauth management,0,0
+2024-10-11,2024-10-11T10:17:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,978f9a0ad7d56e7073f08628f72de2759ce696d5,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-10-08,2024-10-08T11:34:31+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,3ebdb128773c9f269bcf64f154d90d1d1db849c6,extra fix on 12057,0,0
+2024-10-03,2024-10-03T15:18:06+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,d75d9ff069309f83112ad7adb649162f5a027573,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,665,1
+2024-10-03,2024-10-03T14:44:11+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,d9d9cf7cf2fbf0b8e94147f1e9d788f39a3668cb,OMNI-12057,0,0
+2024-09-26,2024-09-26T14:38:26+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,aa9eb2c5de162a5972d2b6a6fdcac7a8ee19ac95,OMNI-11862 fixes,0,0
+2024-09-26,2024-09-26T12:59:06+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,031b0bbabc41328953cedb648fe14e0315c6718e,remove refresh cart-badge,0,0
+2024-09-18,2024-09-18T11:04:53+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a0129c8b3c31e3f6cc4dd7b5328c3645434a6591,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,2,0
+2024-09-18,2024-09-18T10:54:52+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,75550f853bd5d1a058ee19ed6bc9f400fadec492,fix header convert-guest,0,0
+2024-09-13,2024-09-13T12:11:04+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,88f958eac6d307581a1ff2fb320bcbe3afa4afdf,OMNI-11862,0,0
+2024-09-09,2024-09-09T09:38:53+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,711034b0181c1658362e191e07cc7e0d8395ab24,OMNI-10140 Analytics step3,0,0
+2024-07-30,2024-07-30T10:20:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,6966066864136a11be3f5e2563dbe506d87cc3a7,add trycatcc on satellite track,0,0
+2024-07-24,2024-07-24T11:35:51+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,62c3f94e2d6561f0f267f22b8315e97eb98093b5,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-07-24,2024-07-24T11:33:10+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7423f6fc3271e570bb6523d4135222f6c77b48dd,decouple checkout analytics,0,0
+2024-07-19,2024-07-19T13:12:27+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,397847b4ba0f0c64d4ef242388298d896c3d4e01,improve analitycs with yellow params,0,0
+2024-07-04,2024-07-04T23:06:50+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c29a6ac7b4bbf0679e10e5f60b5b292d33bc335b,align specificy in slow,0,0
+2024-07-04,2024-07-04T22:51:03+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b15082cc1ba6a7929a45075776b28b161bf8c182,fix styles missed,0,0
+2024-07-04,2024-07-04T22:46:24+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,aea18d2499f4f0cb28013555be0e3b9afff997eb,align specificity,0,0
+2024-07-04,2024-07-04T09:45:28+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,fc84f5127c9337c59112f5f222c4e4a521d0cabc,fix datalayerbasicvalue,0,1
+2024-07-03,2024-07-03T15:29:41+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,3355593c3de7b50d81a547f8aceb815077889222,Fe fix header support area,0,1
+2024-06-25,2024-06-25T16:29:44+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d36ba0db9aa30e36ffdff6dfa1aec5343c12d817,restore digital data,1,0
+2024-06-25,2024-06-25T11:06:34+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,c96007f3974f8613cbf8ae163b5f855dd0df15f1,fix summary stock,0,0
+2024-06-21,2024-06-21T14:40:31+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b7616077c37d5c0a5d903db7754acfd0e8672130,fix build issue,0,0
+2024-06-21,2024-06-21T11:21:15+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,dc0a52c705b8bc4c061884adda6d429d2fae56d3,OMNI-10139,0,0
+2024-06-20,2024-06-20T10:31:39+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d09a6ad29769673e5b3bd423585f5dbf706094a3,Fix styles,0,0
+2024-06-19,2024-06-19T11:24:39+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,ee31cd241e54fc5682199c00fe464d268319019f,CSY performace improvements,0,1
+2024-06-18,2024-06-18T17:07:29+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,79e4c4c81b2c7175713c8908235752523b884574,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-06-18,2024-06-18T17:07:12+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,913321b1e71d79a7fac47fc04f86049f46333a12,fix styles on form gigya,0,0
+2024-06-10,2024-06-10T12:42:23+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ddd002f212891d6214a9c5a98866ed20f0c7acdb,restore commit 6121647,0,0
+2024-06-06,2024-06-06T14:56:47+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7885fdd1657b4e4ba8b4c3df37aaaa5015183992,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,28,4
+2024-06-05,2024-06-05T15:29:40+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,a2da0cb55fee356b457ab0a96fc85779dd007962,fix regsource gigya,0,0
+2024-06-04,2024-06-04T09:59:08+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c307d64271640176ae68a60b2d0307f69bd11ea4,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,9,4
+2024-05-30,2024-05-30T17:45:26+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,18b679960ef72fa0dbb36cb37d8e978a7b8bd80c,TEST-WIP rework styles on gigya screensets,0,0
+2024-05-30,2024-05-30T17:45:46+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,24e638c216532a5e4a0c70d84d84882b688d4c2b,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,22,5
+2024-05-30,2024-05-30T17:45:26+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1592f3ee38a3dd60922d6c61e3e04b641ba96f14,TEST-WIP rework styles on gigya screensets,0,0
+2024-04-16,2024-04-16T15:04:58+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,a4465b5c87323be38116c892bb4b3672837965b6,Squash commits of branch bugfix/FE-OMNI-9600:,0,0
+2024-04-11,2024-04-11T09:12:29+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,77dd0f04be9b5f0367cab01496f39e86e8994610,remove last ref to datalayerbasicvalue,0,1
+2024-04-08,2024-04-08T17:42:30+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,de41ed82d0c039e22bae70cc0c6370b50341ceea,remove window height calculation on lite invite,0,0
+2024-04-08,2024-04-08T17:40:15+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,2a3dc91824f3a89ef7859132f172400700f2263b,fix on cart-badge,0,0
+2024-04-08,2024-04-08T17:37:07+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a1e8253660795a5e5a6c8d934c10c826af8f139d,fix lite-invite,0,0
+2024-03-29,2024-03-29T16:32:55+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,bb6ad8af4983587fe39a667a2a81909467a13fbe,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,1,0
+2024-03-28,2024-03-28T10:22:33+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,565207434bfb3540c086a69fe569486d84ec73e7,Squash commits of branch feature/FE-OMNI-9160:,0,0
+2024-03-28,2024-03-28T15:24:17+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,a15fd7ae6941f7ba7680cba587841bab479f1080,Squash commits of branch bugfix/FE-OMNI-9395:,0,0
+2024-03-15,2024-03-15T12:37:20+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,95bdcd3b7d8016f5bd18c6242ae7a6e5e29bb03e,fix digitalData check,0,2
+2024-03-05,2024-03-05T11:42:38+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,6c05acf25176eb5d315adb1adcbd2b98117feb66,replace _ with -,0,0
+2024-03-04,2024-03-04T11:05:29+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,a8bbee70924bf697049ef76a80d195f6fe58ec55,change language codification on sendliteinvite,0,0
+2024-02-28,2024-02-28T16:15:29+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,832313d8fe400ce945ab27f988c422157cca888c,Squash commits of branch bugfix/FE-analytics-header:,1,0
+2024-02-28,2024-02-28T11:15:15+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8574142e7f7f78e6791d78267c86c540effb1ddf,Squash commits of branch feature/FE-css-fix--overwrite:,0,0
+2024-02-22,2024-02-22T12:24:24+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,7f5dcbe2fd6b1b78e6ec9ad6612164a22cc71bca,Merge of branch bugfix/FE-OMNI-8767 into fast_develop,0,0
+2024-02-16,2024-02-16T10:37:59+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,618c6266236358636f50b8791ec9fc5653332391,Squash commits of branch bugfix/FE-OMNI-8317:,1,0
+2024-02-16,2024-02-16T10:35:13+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9fda369507de02ed15b56f9f48fe908c09ca3322,Squash commits of branch feature/FE-OMNI-8806:,0,0
+2024-02-08,2024-02-08T18:26:29+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,bc4559d33df282ecb3f572d4a9cc668a7c22e442,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-02-08,2024-02-08T18:26:11+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,e30019fd5a63093100909ca130059c984c29ef00,fix missed cherry picks,0,0
+2024-02-02,2024-02-02T09:41:29+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5e2137157384ff062497cf3809052302b232de3c,init structure wip,0,0
+2024-01-25,2024-01-25T14:26:39+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,cffcb69e186ec5933759567d42797bc0cf305738,fix analytics and bws form link creation,0,0
+2024-01-25,2024-01-25T10:30:57+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,0e7c1d0e3446b1dbbe80c934285b00cde2438b0d,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,5,1
+2024-01-25,2024-01-25T10:30:17+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,482c136d4cd2f2f0d2d284d5504eea4ec651ea5c,fix cherrypick,0,0
+2024-01-19,2024-01-19T15:07:20+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,8d0429abc0f964b34c9f6179ee60f49376270782,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,3,0
+2024-01-19,2024-01-19T12:35:28+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,bbc99bc8fa25c26e43ed8e441590710c5d68491b,Squash commits of branch bugfix/FE-OMNI-8000-bis:,0,0
+2024-01-19,2024-01-19T12:35:28+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,2d5562ab002fc4cb083c6fd9c2d4eb18afa33d3b,Squash commits of branch bugfix/FE-OMNI-8000-bis:,0,0
+2024-01-19,2024-01-19T13:15:47+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,790b56b40519847071c47acb1d6e4fe161e6591f,Squash commits of branch bugfix/FE-OMNI-8110-primary-text-dev1:,0,0
+2024-01-18,2024-01-18T16:48:32+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,82ec0a88d544db389805969dde2d3917bc136fed,fix tooltips,0,0
+2024-01-18,2024-01-18T15:05:35+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,d1a8b71f1cdba9b66959e85432f5e4064738b969,fix link form,0,0
+2024-01-18,2024-01-18T14:55:17+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d969865ca65cbdc4fc6f6ce1207160dd831ba84c,Squash commits of branch bugfix/FE-fix-deletion-date-stock-404:,0,0
+2024-01-17,2024-01-17T16:43:09+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,6332916297bcd1eb339c79927cb0e5d243abc569,Squash commits of branch bugfix/FE-rework-checkout:,0,0
+2024-01-16,2024-01-16T16:55:25+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5b8cef3844357657d2f0f3122e37e26657ca7099,Squash commits of branch feature/FE-OMNI-7545:,1,0
+2024-01-17,2024-01-17T15:59:45+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,9a59b4de1a187a36e4196873a4456e62dcd8a7ca,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-01-16,2024-01-16T15:12:27+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,a3e3db1a3768feda9070f430cde0c235ce8c9d27,solve conflicts,0,0
+2024-01-16,2024-01-16T15:14:51+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,c6c42e3e0ad3a7c3c9a51b7f86de038b000eb268,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2024-01-16,2024-01-16T12:10:21+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,54bcb13cf95e2b576eb418be11697c94958a2a64,Squash commits of branch bugfix/FE-OMNI-8111-tris:,0,0
+2024-01-16,2024-01-16T11:55:26+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,da07998073cd8a6d9feb184c1ec2b79058ded7fc,Squash commits of branch bugfix/FE-OMNI-white-screen-CSY:,0,0
+2024-01-11,2024-01-11T15:55:17+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,2d2e0110b5bd70c45b909a1987335a51d50ccec1,Squash commits of branch bugfix/FE-OMNI-8111-bis:,0,0
+2024-01-12,2024-01-12T09:56:28+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,fd450f71a3fd4446f732197fe37b9f58923836cb,Squash commits of branch feature/FE-OMNI-8136:,1,0
+2023-12-22,2023-12-22T12:49:27+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,744407643bb60a56155767c84f25320c7241dd02,Squash commits of branch bugfix/FE-OMNI-8111:,0,0
+2023-12-21,2023-12-21T16:15:30+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,428d7f6db9e7125b868b2f306c96153096a253ef,Squash commits of branch feature/FE-OMNI-7979:,1,0
+2023-12-20,2023-12-20T09:40:43+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,70ef2d47aba001aebbeb22133bdaf6e97e3d7238,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2023-12-19,2023-12-19T11:32:07+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,4654c3690966cfb1a2a9cab2c7e8f98cb1618e64,Squash commits of branch bugfix/FE-OMNI-8021-fixbasket-convert:,0,0
+2023-12-18,2023-12-18T18:05:46+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,9ceff557b79010dbd72bf53ef4d94398a25bf5a0,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,12,7
+2023-12-14,2023-12-14T16:01:36+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,009776314afb73f34ae6aa5b40dde712ca1f0379,Squash commits of branch bugfix/FE-OMNI-8000-analytics:,0,0
+2023-12-13,2023-12-13T15:11:33+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,9735c6042020e24915ba0cf94fe8a29cefc719c1,fix on analytics sidebar,0,0
+2023-12-13,2023-12-13T12:50:47+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,6cc38b169de50c21d1081ddc5b2c0c09d7a2fcce,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,1
+2023-12-06,2023-12-06T16:33:18+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5afcf7807c370656619d7ec5487b769beb86c2c2,Squash commits of branch feature/FE-OMNI-7616-fixes-3:,0,1
+2023-12-05,2023-12-05T17:05:33+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,ae3f8c73d24b084f72337a16cfb82bf671be846b,Squash commits of branch feature/FE-OMNI-7616-fixes-2:,0,0
+2023-12-01,2023-12-01T16:55:50+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,1a5e77cf703c38e6adc3f0788f94ef7be64da9fb,Squash commits of branch feature/FE-OMNI-7616-analytics-fixes:,0,1
+2023-11-30,2023-11-30T11:11:13+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,93072f57dc4c7fa0e788bbf9418e516efe08bcc3,Squash commits of branch features/FE-OMNI-7732-storybook-restore:,0,0
+2023-11-27,2023-11-27T12:41:26+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5e750f12ced61fd0c2396fb699be0ca9b24b2bf7,Squash commits of branch bugfix/FE-excel-10-after-login-checkout:,0,0
+2023-10-02,2023-10-02T15:04:50+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b6b73cef50ef17a5844252c45f5ed956fb815499,Squash commits of branch bugfix/FE-OMNI-6577-fixlink:,0,0
+2023-10-02,2023-10-02T15:04:50+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5bdeb4affd0112e25baa661384b9a3408d7d01af,Squash commits of branch bugfix/FE-OMNI-6577-fixlink:,0,0
+2023-09-29,2023-09-29T12:16:12+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,3dfa45e31cc19e8385f83420cb395bac638882e0,Squash commits of branch bugfix/FE-OMNI-6577-fix-send-dealer-link:,0,0
+2023-09-29,2023-09-29T12:16:12+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,6da9e4c786c410a0074bde34cf72d820ee1f3987,Squash commits of branch bugfix/FE-OMNI-6577-fix-send-dealer-link:,0,0
+2023-09-29,2023-09-29T10:12:46+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,c0e7ea3b6c88889d9b09151a84cb621e62483d28,Squash commits of branch bugfix/FE-OMNI-6577:,0,0
+2023-09-29,2023-09-29T10:12:46+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9b6b14bc213657a787c74278162672e407dbf797,Squash commits of branch bugfix/FE-OMNI-6577:,0,0
+2023-09-28,2023-09-28T12:40:28+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9e4085b937a5e96d31238d89f19a76d4d314ef0e,Squash commits of branch bugfix/FE-OMNI-6547:,0,0
+2023-09-28,2023-09-28T12:36:05+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,84da0f161758163427a3ff45f08eaa55a6f1ec04,Squash commits of branch bugfix/FE-OMNI-6207-fix-baskelink:,0,0
+2023-09-28,2023-09-28T12:40:28+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5343ed083380e4477d15c378c7a5d4c4e9ba0242,Squash commits of branch bugfix/FE-OMNI-6547:,0,0
+2023-09-28,2023-09-28T12:36:05+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,fc3ea89c36a32d875cf215585cc64535500a5fd5,Squash commits of branch bugfix/FE-OMNI-6207-fix-baskelink:,0,0
+2023-09-28,2023-09-28T11:42:23+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,4273812cd5212d48e82b1d41964d279c9748c9e2,Squash commits of branch bugfix/FE-OMNI-6116:,0,0
+2023-09-28,2023-09-28T11:42:23+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,3c844e288f8c5ecff707dcc84c120392ae872ab5,Squash commits of branch bugfix/FE-OMNI-6116:,0,0
+2023-09-26,2023-09-26T16:43:52+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d8eb1a9aec9c1e197301b19db5bb79cdf8f221de,Squash commits of branch bugfix/FE-OMNI-6521:,0,0
+2023-09-26,2023-09-26T16:43:52+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,38b777ca647fd715e85d48988cf50af421e56314,Squash commits of branch bugfix/FE-OMNI-6521:,0,0
+2023-09-26,2023-09-26T08:53:42+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,7d2185159fc5f6919ca99e6488e04024839a9dab,Squash commits of branch bugfix/FE-OMNI-6207:,0,0
+2023-09-26,2023-09-26T08:53:42+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0efd4da63dbb224c443d8494c3237345c14edb45,Squash commits of branch bugfix/FE-OMNI-6207:,0,0
+2023-09-25,2023-09-25T13:58:05+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b3029b94e0a6928ee6d90a43f84f788c9b1b5f43,Squash commits of branch bugfix/FE-restore-dealer-tool-menu-edit:,0,0
+2023-09-25,2023-09-25T13:13:47+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,61a401dba3b7ba5fdbfa2875b08a9515e5110ba5,Squash commits of branch bugfix/FE-gigya-screen:,0,0
+2023-09-25,2023-09-25T13:58:05+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,273a2548ed9f42f87ddf02cd57405f2d9e573e7c,Squash commits of branch bugfix/FE-restore-dealer-tool-menu-edit:,0,0
+2023-09-25,2023-09-25T13:13:47+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,ec646326131a931f87fc3c31be08679f9d438290,Squash commits of branch bugfix/FE-gigya-screen:,0,0
+2023-09-25,2023-09-25T09:09:23+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,77b31f6673543f2aad448c341b4d5732550c2318,Squash commits of branch bugfix/FE-OMNI-6547:,0,0
+2023-09-25,2023-09-25T09:09:23+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0a367bdc06482c6b134295e6b04575a115513ad2,Squash commits of branch bugfix/FE-OMNI-6547:,0,0
+2023-09-22,2023-09-22T16:45:14+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,c2cbd29515b965b86b60bc88ce509add767104a6,Squash commits of branch bugfix/FE-OMNI-6445:,0,0
+2023-09-22,2023-09-22T16:45:14+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,e6544a9f585f0ba2f32df0e7aae5fbf7a08c590a,Squash commits of branch bugfix/FE-OMNI-6445:,0,0
+2023-09-22,2023-09-22T09:02:38+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,32a8c40eb4ed85644082126ecf8477949cf52e0a,Squash commits of branch bugfix/FE-OMNI-6403-price-option:,0,0
+2023-09-22,2023-09-22T09:02:38+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5c281fc4398e4dcb627382abf90d1e100abd0f18,Squash commits of branch bugfix/FE-OMNI-6403-price-option:,0,0
+2023-09-21,2023-09-21T17:06:43+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,dfa7066d5e0e4d157e0f4e9260d63e3ba59ec934,Squash commits of branch bugfix/FE-OMNI-6349:,0,0
+2023-09-21,2023-09-21T17:06:43+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,a525a75f23e0978878c11f0008247809605ceddc,Squash commits of branch bugfix/FE-OMNI-6349:,0,0
+2023-09-15,2023-09-15T15:38:25+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,006696b63cccde244dc77e2773668c60943e1cd2,Squash commits of branch bugfix/FE-OMNI-5986:,0,0
+2023-09-15,2023-09-15T15:38:25+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8c23918bda62af34542526725a002bd5595c6cd2,Squash commits of branch bugfix/FE-OMNI-5986:,0,0
+2023-09-15,2023-09-15T14:18:59+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,fc042645b6ab0243b04fd9a30fc0965a1895cb5a,Squash commits of branch bugfix/OMNI-5772:,0,0
+2023-09-15,2023-09-15T12:53:31+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,302d0c0243f8998ffc2f366c93a98731908da6e3,Squash commits of branch bugfix/FE-brand-website-cart-icon-color:,9,1
+2023-09-15,2023-09-15T12:45:13+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,09ee651d0b14283d9005007d22276cfe0cb53f93,Squash commits of branch bugfix/FE-OMNI-6195:,0,0
+2023-09-15,2023-09-15T12:53:31+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,41e321f9f3e65eede7fbc4a7748a79c752669c53,Squash commits of branch bugfix/FE-brand-website-cart-icon-color:,9,1
+2023-09-15,2023-09-15T12:45:13+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,2662c44fdbab705bdcbbf5b13b377a4c7e2dd451,Squash commits of branch bugfix/FE-OMNI-6195:,0,0
+2023-09-15,2023-09-15T11:49:38+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,03a9e576179e4d92930025a5181a159bf18b28d6,revert 9ff96c701adf1964075623931761a6c875453da9,0,0
+2023-09-15,2023-09-15T11:49:38+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ed76a658a4230318548cfa1a8d976ed13e1b18f8,revert 9ff96c701adf1964075623931761a6c875453da9,0,0
+2023-09-15,2023-09-15T11:39:40+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,411c0bbafaea59276b61af4de33f3f19ebad1740,fix updatevirtualpath,1,0
+2023-09-15,2023-09-15T11:39:40+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,9ff96c701adf1964075623931761a6c875453da9,fix updatevirtualpath,1,0
+2023-09-14,2023-09-14T09:44:05+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,5410add3ca85b9c96c3ae13333abf4663297bd7b,fix checks on logged,0,0
+2023-09-14,2023-09-14T09:36:25+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8cadee1def7048fdb4ccc3ed219fb3bf0d8e2b00,Squash commits of branch bugfix/FE-load:,0,0
+2023-09-14,2023-09-14T09:44:05+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,2045bcb56c2d5967b8cf6bf7cdf3fc622699585d,fix checks on logged,0,0
+2023-09-14,2023-09-14T09:36:25+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5f7fcde56a4e6bebc9af11b1488de10768835498,Squash commits of branch bugfix/FE-load:,0,0
+2023-09-13,2023-09-13T17:16:57+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,7c0c815153059d11650f7def76f8319817395d64,Squash commits of branch bugfix/FE-OMNI-4931:,0,0
+2023-09-13,2023-09-13T17:16:57+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,1004c719ae8ae21a516804183243f80d9060cec5,Squash commits of branch bugfix/FE-OMNI-4931:,0,0
+2023-09-13,2023-09-13T16:00:06+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0d2e87b3b99cded64f9c50f96279cdbc7d810d3f,Squash commits of branch bugfix/FE-remove-duplicated-loader:,0,0
+2023-09-13,2023-09-13T15:59:35+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,713efb12c516ea01a3ea4376e141eb43018ffba3,Squash commits of branch bugfix/FE-OMNI-5819-fix-bis:,0,0
+2023-09-13,2023-09-13T16:00:06+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5697e496a0b550dfea718c961c16f4fab22e4799,Squash commits of branch bugfix/FE-remove-duplicated-loader:,0,0
+2023-09-13,2023-09-13T15:59:35+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,cf71d0b99a809bad02dea3a02b400de31cd2f096,Squash commits of branch bugfix/FE-OMNI-5819-fix-bis:,0,0
+2023-09-11,2023-09-11T11:03:01+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,680998a0871e62a0483073c6d38b5f119c7bf3e4,Squash commits of branch bugfix/FE-utils-mock:,0,0
+2023-09-11,2023-09-11T11:03:01+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,04c13c7f1a1a13dafeb1bd906dafb0b250a80bde,Squash commits of branch bugfix/FE-utils-mock:,0,0
+2023-09-08,2023-09-08T17:11:08+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d393e996fef4f37f47f575eba364900b2b4a4e28,Squash commits of branch feature/FE-OMNI-4533:,0,0
+2023-09-08,2023-09-08T17:11:08+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b068b5c6048ebf7d368000959330a611e950b1d8,Squash commits of branch feature/FE-OMNI-4533:,0,0
+2023-09-08,2023-09-08T16:25:37+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,ce6ca7bea0f359a518b1cbcb7292bb90961125f3,Squash commits of branch feature/FE-OMNI-3213-fix-form:,1,0
+2023-09-08,2023-09-08T16:25:37+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,25378a059d7d05f56d64cf8f0a7de6d67ea6c2fb,Squash commits of branch feature/FE-OMNI-3213-fix-form:,1,0
+2023-09-07,2023-09-07T16:56:54+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,6c266dc12023a5df7749a52649d075240516b8a4,Squash commits of branch feature/FE-fix-codesplitting:,0,0
+2023-09-07,2023-09-07T16:56:54+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,4a0872b1c35e04ac9e17a0589e4174176c52b4b8,Squash commits of branch feature/FE-fix-codesplitting:,0,0
+2023-09-07,2023-09-07T12:15:08+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,fe1618bef5595e04fd5a225b33e96397eeac9bb5,Squash commits of branch feature/FE-OMNI-6014-fix:,0,0
+2023-09-07,2023-09-07T12:15:08+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,46aec3cf1fccf696d6c2f7e22f00592c88df1fc9,Squash commits of branch feature/FE-OMNI-6014-fix:,0,0
+2023-09-07,2023-09-07T11:04:14+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d512229abd2f2755e84ef45b3526a5d77c0d3fb3,Squash commits of branch bugfix/FE-fix-code-splitting:,0,0
+2023-09-07,2023-09-07T11:04:14+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b206461d084d399c4ff215e4225f4d2409e3ec00,Squash commits of branch bugfix/FE-fix-code-splitting:,0,0
+2023-09-06,2023-09-06T16:50:05+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,02a8ea82a5180742ae9ca6af8aa3784bb3e8d6bf,Squash commits of branch feature/FE-OMNI-6014:,0,1
+2023-09-06,2023-09-06T16:50:05+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,51ed0a45ca423bc1a52a9d91666469c74a069743,Squash commits of branch feature/FE-OMNI-6014:,0,1
+2023-09-06,2023-09-06T16:37:53+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0d3ac9c4a6cb8d65ba5fca811ecb3341762b2f58,Squash commits of branch bugfix/FE-restore-mocked-translations:,9,0
+2023-09-06,2023-09-06T16:37:53+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,e5660d29c207d60505f7c0c21d6f2834f4f9547c,Squash commits of branch bugfix/FE-restore-mocked-translations:,9,0
+2023-09-06,2023-09-06T10:05:23+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,1ed613697d46ae623438533188c0e4581d5e7f68,Squash commits of branch bugfix/FE-OMNI-6059:,0,0
+2023-09-06,2023-09-06T10:04:26+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,cdc5d88707dd3f6c9325a41a66ff42214c4faea5,Squash commits of branch feature/FE-OMNI-4533-fix-price:,0,0
+2023-09-06,2023-09-06T10:03:31+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b662cacf0d62eec90f8b8544b3d791811bc41935,Squash commits of branch feature/FE-OMNI-4476-addinterval:,2519,33
+2023-09-06,2023-09-06T10:05:23+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,76e952eba9332e75854fcce64cd2717893048e21,Squash commits of branch bugfix/FE-OMNI-6059:,0,0
+2023-09-06,2023-09-06T10:04:26+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,54761922e937bdf54f57e8e066bae796c500b321,Squash commits of branch feature/FE-OMNI-4533-fix-price:,0,0
+2023-09-06,2023-09-06T10:03:31+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,25acafb974638de8c44c0ee75d1a43b8f5de008d,Squash commits of branch feature/FE-OMNI-4476-addinterval:,2519,33
+2023-09-04,2023-09-04T13:23:39+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,621b90cea843960d826ed8ad2ff8ceea96d4c1cb,Merge of branch bugfix/FE-CSYNC-sprint29-fixes into fast_develop,0,0
+2023-09-04,2023-09-04T13:23:39+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,f9251d5c82987d91dbc6ce09cb6f24edef5f4f3f,Merge of branch bugfix/FE-CSYNC-sprint29-fixes into fast_develop,0,0
+2023-09-01,2023-09-01T16:48:10+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ac44f8df36211009b95abe4dbc05210c38d8e7f0,fix circular dependencies,0,0
+2023-09-01,2023-09-01T16:24:57+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e893f905ef932446a8896f387fa2b0491e5c4e5f,Merge branch 'slow_develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into slow_develop,0,0
+2023-09-01,2023-09-01T16:23:42+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,6091c0034cf0e7393c320152e8c400fa32bbe6cd,fix typedefinition,0,0
+2023-09-01,2023-09-01T15:24:10+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,29cf6da3009ab2e9f6fc882886939416de9d1ef2,Squash commits of branch bugfix/FE-OMNI-5532-deploy-fix:,0,0
+2023-09-01,2023-09-01T13:01:20+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,60473ae155aceb06d65d631d8a3d040adbbad990,Squash commits of branch bugfix/FE-OMNI-5532:,0,0
+2023-09-01,2023-09-01T15:24:10+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b9d41276bdd0ca15b4411778b89f4ff58b9f0fc6,Squash commits of branch bugfix/FE-OMNI-5532-deploy-fix:,0,0
+2023-09-01,2023-09-01T11:56:58+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,6d2a4ea0558369e35d24005bbb9efa56339e3d42,Squash commits of branch bugfix/FE-OMNI-5532-FIX-TYPINGS:,0,0
+2023-09-01,2023-09-01T13:01:20+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,ecff276f2547659780681680d1b73db1bc864118,Squash commits of branch bugfix/FE-OMNI-5532:,0,0
+2023-09-01,2023-09-01T11:21:51+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5e7ae31c350a5a38f454a893a474598a871b6f76,Squash commits of branch bugfix/FE-OMNI-5532-checkout:,0,0
+2023-09-01,2023-09-01T11:56:58+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d0dcb67287a52ccbc72a2f8b0a8b7ba97e53b36a,Squash commits of branch bugfix/FE-OMNI-5532-FIX-TYPINGS:,0,0
+2023-09-01,2023-09-01T08:33:42+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,e428332fc4fe7329b275f1ac6245a55393a63580,Squash commits of branch bugfix/FE-OMNI-5677-FIX-DEPLOY:,0,1
+2023-08-31,2023-08-31T16:54:47+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8b8094e3e3ebd553c0e0eec068d0ca68597dec9f,Squash commits of branch bugfix/FE-OMNI-5672-MAX-HEIGHT:,0,0
+2023-09-01,2023-09-01T11:21:51+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,a484f6c9f5bef74251257da3b072742e4ccaf1b9,Squash commits of branch bugfix/FE-OMNI-5532-checkout:,0,0
+2023-08-31,2023-08-31T11:14:37+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,10ad7b7bed57428dfa1cc1c2c38a57cff30a13ef,Squash commits of branch feature/FE-rework-codebase:,1248,43
+2023-09-01,2023-09-01T08:33:42+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5bf7a75996f6d3c34eef8a68b597abc3cc4a900d,Squash commits of branch bugfix/FE-OMNI-5677-FIX-DEPLOY:,0,1
+2023-08-31,2023-08-31T16:54:47+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,70e4fb87f45ea228928ff08982645e82aa967dd7,Squash commits of branch bugfix/FE-OMNI-5672-MAX-HEIGHT:,0,0
+2023-08-31,2023-08-31T11:14:37+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,71f2a3bb451cad7733f8575ea554b3057a3b24ed,Squash commits of branch feature/FE-rework-codebase:,1248,43
+2023-08-25,2023-08-25T16:37:00+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,fd609edc849e1a18fa438ce955a6626d4f860f4b,Squash commits of branch bugfix/FE-OMNI-5672-fix-image-crop:,0,0
+2023-08-25,2023-08-25T16:36:38+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,f18ba3387241fe2251407d2f6621500caeb2b52a,Squash commits of branch bugfix/FE-OMNI-5819:,0,0
+2023-08-25,2023-08-25T16:37:00+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,e3048ab91cdaefa5eaeebf802bb511c5429fea38,Squash commits of branch bugfix/FE-OMNI-5672-fix-image-crop:,0,0
+2023-08-25,2023-08-25T16:36:38+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,e1f23b7fc1c3d429628d14fc316a1c15f86e6b12,Squash commits of branch bugfix/FE-OMNI-5819:,0,0
+2023-08-24,2023-08-24T17:24:50+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,40893a49a98e1954cefd4f3ea2829866cf4b4249,Squash commits of branch bugfix/FE-fix-checkout-login-flow:,0,0
+2023-08-24,2023-08-24T17:24:50+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8c8216ef57735d03ed268661e76f31e97e57bcf0,Squash commits of branch bugfix/FE-fix-checkout-login-flow:,0,0
+2023-08-24,2023-08-24T10:48:48+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,01c17d76b2a842ec5b5deeca0aa86d1d53272eb4,Merge of branch bugfix/FE-OMNI-5703-fix-blank-page into fast_develop,0,0
+2023-08-24,2023-08-24T10:48:48+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,f42b747b7e71741a677db6ea9387280dcb68683d,Merge of branch bugfix/FE-OMNI-5703-fix-blank-page into fast_develop,0,0
+2023-08-23,2023-08-23T17:01:37+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b25ba54e2fe393180875edb5746d2acbf4bd5cb2,Squash commits of branch feature/FE-OMNI-5598-adapt-for-fe:,0,0
+2023-08-23,2023-08-23T17:01:11+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,273cc41dc97f217784b8b6646ebcf48927f94d24,Squash commits of branch bugfix/FE-OMNI-5275-fix-convert-guest:,0,0
+2023-08-23,2023-08-23T17:01:37+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,ae3b72999ddfdc04bf68ea66a427bc8a57082fed,Squash commits of branch feature/FE-OMNI-5598-adapt-for-fe:,0,0
+2023-08-23,2023-08-23T17:01:11+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,26b87d646ffc14e20fdda1c9505c812cb0386b14,Squash commits of branch bugfix/FE-OMNI-5275-fix-convert-guest:,0,0
+2023-08-21,2023-08-21T15:32:46+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,fcee8fb18e4b6e96322cbfd66736fc111f9b7ff6,Squash commits of branch bugfix/FE-OMNI-5007:,0,0
+2023-08-21,2023-08-21T15:32:46+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,2de0d061ea4dac8b62a8d2f7323dce1b0f1cc76c,Squash commits of branch bugfix/FE-OMNI-5007:,0,0
+2023-08-21,2023-08-21T12:35:45+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,30ec0b19635ad394e496712104e7ed3a086dc13a,Squash commits of branch feature/FE-OMNI-5394:,0,0
+2023-08-21,2023-08-21T12:35:45+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,61e9c2f40bd61ec1806b62c34fdcd05dacdca5a5,Squash commits of branch feature/FE-OMNI-5394:,0,0
+2023-08-04,2023-08-04T16:13:38+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0e6a0db76a8976a2ea966df2918942bcb8087069,Squash commits of branch feature/FE-OMNI-5007-tagging-plan:,2,0
+2023-08-04,2023-08-04T16:12:42+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,80c3a5966a81f701d1f9886763276b6dd6de4021,Squash commits of branch feature/FE-OMNI-5394:,1,1
+2023-08-04,2023-08-04T16:13:38+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,422bfd9ab872b5721d46d363686629c1f90f3d3a,Squash commits of branch feature/FE-OMNI-5007-tagging-plan:,2,0
+2023-08-04,2023-08-04T16:12:42+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,87e471ba40362629705a7db4b210fffab7e6c4b2,Squash commits of branch feature/FE-OMNI-5394:,1,1
+2023-08-03,2023-08-03T10:16:29+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,bb590ff61768c15aff84697ba793b868009c7921,Squash commits of branch bugfix/FE-OMNI-3919-opts-fix:,0,0
+2023-08-03,2023-08-03T10:16:29+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9f73787e54d23218366816c53897860dc73de96e,Squash commits of branch bugfix/FE-OMNI-3919-opts-fix:,0,0
+2023-08-02,2023-08-02T16:58:35+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9dd5d44197cd0281dcf366f58934d8cd95734f89,Squash commits of branch feature/FE-OMNI-5007-tagging-plan:,0,0
+2023-08-02,2023-08-02T11:46:56+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,7c48aa357cb0f53f5a78d42e728db1555f0137c4,Squash commits of branch feature/FE-OMNI-5394-fix-white-headers:,0,0
+2023-08-02,2023-08-02T11:38:23+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,c5b7da3df789452ceeb58b8d5543588873255da4,Squash commits of branch bugfix/FE-OMNI-5568-OMNI-5567:,0,0
+2023-08-02,2023-08-02T16:58:35+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,dab81eeff139242f4bb2969de3a975019f2b751e,Squash commits of branch feature/FE-OMNI-5007-tagging-plan:,0,0
+2023-08-02,2023-08-02T11:46:56+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,4e88289ddfde575a00109a1f652f981e5c785fa8,Squash commits of branch feature/FE-OMNI-5394-fix-white-headers:,0,0
+2023-08-02,2023-08-02T11:38:23+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,c56e6c9560b94a77227c52223e9ad723276bcc7f,Squash commits of branch bugfix/FE-OMNI-5568-OMNI-5567:,0,0
+2023-08-01,2023-08-01T15:00:50+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8fa44320ec59ab6c6a708c71d3f7cd213702fdd2,Squash commits of branch bugfix/FE-OMNI-4350-last:,0,0
+2023-08-01,2023-08-01T15:00:50+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0be1eed92e6019e950fc8cc9c04ee21386e418d6,Squash commits of branch bugfix/FE-OMNI-4350-last:,0,0
+2023-07-31,2023-07-31T11:13:03+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,ce9b7823771345a34a6995223ec89be5d37018fc,Squash commits of branch feature/FE-OMNI-4533-fix-fin-prod:,0,0
+2023-07-31,2023-07-31T11:13:03+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,cefa09234366c1ba20f7c6a33bee120778fe82a9,Squash commits of branch feature/FE-OMNI-4533-fix-fin-prod:,0,0
+2023-07-28,2023-07-28T10:57:29+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,a6ee7d50043cbdea9d6862a99078adf17256fc90,Squash commits of branch bugfix/FE-CS-wishlist-modal:,0,0
+2023-07-28,2023-07-28T10:57:29+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0a5b915c8e229e6a3e735a0e4ee391f7b4d3d9c9,Squash commits of branch bugfix/FE-CS-wishlist-modal:,0,0
+2023-07-26,2023-07-26T16:54:13+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,f02ad10048fa2980f94b01e09be85462feab4e5d,Squash commits of branch feature/FE-OMNI-5394-5395-finalize-ext-lib:,0,0
+2023-07-26,2023-07-26T12:24:58+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,f4020fb6860865f1fcbf5bd77d5f24396ec860cb,Squash commits of branch feature/FE-OMNI-4476-finalization:,16,556
+2023-07-26,2023-07-26T11:30:11+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,207f809588615d20cc9edd30137074986551bd48,Squash commits of branch bugfix/FE-post-review-s27:,0,0
+2023-07-26,2023-07-26T11:29:36+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,08ae1b03a563aaccd55657b5f57f604be0d6324d,Squash commits of branch bugfix/FE-opel-be-lu-fix-loading:,0,0
+2023-07-21,2023-07-21T12:37:20+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9009f9876c262ef09ba9779c0690a2c95a958372,Squash commits of branch bugfix/fix-thankyoupage:,0,0
+2023-07-21,2023-07-21T10:11:30+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,c8dc1104d7d34dce69b20708426604706bbc784e,Squash commits of branch feature/FE-OMNI-5091:,0,0
+2023-07-20,2023-07-20T17:09:01+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,6d1a9975ae6941b9a771bd1e4a3c339f3819eef9,Squash commits of branch bugfix/FE-offline-prices-livechat:,12,284
+2023-07-19,2023-07-19T16:53:26+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,f4d62b4cf26bfd01a5e6d66fee6c7b6839e88605,Squash commits of branch feature/FE-OMNI-4539:,0,0
+2023-07-19,2023-07-19T13:02:52+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,cc5b088e1f0090e609e10e2def668143bd4f0a14,Squash commits of branch feature/FE-OMNI-4474-fin-ext-lib:,25,25
+2023-07-19,2023-07-19T11:12:50+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0e0e0aa7944b78f90a6d2af7233bb9360debfd2e,Squash commits of branch bugfix/FE-fix-checkout-login:,0,0
+2023-07-17,2023-07-17T14:47:07+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d510c69b75611c5395e0f55755edb9ffcebbaebb,Squash commits of branch bugfix/FE-cart-sync-align-prices:,0,3
+2023-07-10,2023-07-10T14:47:24+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,740dd1ad34e9ad0f91e506e6cdedc331181826cd,Merge of branch bugfix/FE-OMNI-4420-fix-mapping-brand-code into fast_develop,0,0
+2023-07-07,2023-07-07T16:48:08+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d24a8cbd8337ffaa4a0f7f0f74d1663ebefc4764,Squash commits of branch bugfix/FE-fix-check-mainsincom-dealer:,0,0
+2023-07-07,2023-07-07T16:37:19+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8804a8cdff5fb6bce69adefa80aa408886e4c1e2,Squash commits of branch feature/FE-OMNI-4476-fix-init:,13,14
+2023-07-07,2023-07-07T12:49:49+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,59568b7dd377cbc158250d533939054616040af9,Squash commits of branch feature/FE-OMNI-4476-fix-init:,0,0
+2023-07-07,2023-07-07T09:23:37+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,265b0c0d4e70afb68358394f3dc7fb22895d129f,Squash commits of branch feature/FE-OMNI-3640-tradin-redirect-on-wrong-usr:,0,0
+2023-07-06,2023-07-06T16:48:57+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,7da18a2ff56a6e887f6c3afce6827f99e880945a,Squash commits of branch bugfix/FE-autologin-mainsincom:,2,0
+2023-07-06,2023-07-06T16:48:23+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,3c2cf5de3d7db0cb7cea82be84e60912b526cf7e,Squash commits of branch feature/FE-OMNI-3917-financial-disclaimer:,0,0
+2023-07-06,2023-07-06T15:26:33+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,30f5f05e14322b00f9c5caaeaef87eb64caf5326,Squash commits of branch bugfix/FE-ui-circular-dependencies:,1,0
+2023-06-30,2023-06-30T09:19:24+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,60814da585d56a0d6d8b57e509698f7eb0c14e51,Squash commits of branch bugfix/FE-OMNI-3932-list-price-not-displayed:,0,0
+2023-06-29,2023-06-29T16:33:41+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,52455b8bd0c4e62f86eed09211df77ce611a6ff5,Squash commits of branch feature/FE-OMNI-4476-external-lib-cart-badge:,838,0
+2023-06-29,2023-06-29T10:48:58+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d019afbb755b3815e5353db949a49d067363d3ff,Squash commits of branch bugfix/cs-configured-api:,0,0
+2023-06-29,2023-06-29T10:42:30+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d8d4e5d90d52f4c33ca13c64b47418d72735062f,Squash commits of branch feature/FE-OMNI-4541-company-name-fiscal-id:,0,0
+2023-06-26,2023-06-26T15:52:00+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0e7b0eb972b188e85bd54e6bbdb7af1357f432d9,Squash commits of branch bugfix/OMNI-FE-3643-fix-redirect-and-style:,0,0
+2023-06-26,2023-06-26T15:00:09+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,480939c3683f7687564a8bace4d6af222d794a4a,Squash commits of branch bugfix/FE-OMNI-3859-fixes-registration-form:,0,0
+2023-06-26,2023-06-26T14:59:27+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,f6ab601415655f40086bdc79877272312f7ca655,Squash commits of branch bugfix/OMNI-FE-3859-fix-form-links:,0,0
+2023-06-23,2023-06-23T16:39:49+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,2240ea8cbf9a54ea0bbd126079de10aef48749ae,Squash commits of branch bugfix/FE-leaser-mm:,0,2
+2023-06-23,2023-06-23T13:03:08+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,389f4c0df45c14d6ef4c4ce0ac8e2cd5a80087f0,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,0
+2023-06-23,2023-06-23T13:02:31+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b2e22177cda6cd624498f49bf637b62b937ce3a1,fix fin name,0,0
+2023-06-23,2023-06-23T12:58:49+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,01dba9230023a209b31eb737e6de6de4ff2ee848,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,5,0
+2023-06-23,2023-06-23T12:58:16+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,56b99dc8e36c11c452f00bd0cf7678d4e4b9986b,fix pfin,0,0
+2023-06-23,2023-06-23T12:08:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ec1799249771b335f77783358d848a07e80a4c1a,fix checkout creation,0,0
+2023-06-22,2023-06-22T18:27:27+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ea79f94273a5c1aa4636a19845d13bd55145f3c1,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,4,0
+2023-06-22,2023-06-22T18:16:18+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,50db2900e430c91a06d6c9375d7f306476882e80,fix cart badge,0,0
+2023-06-22,2023-06-22T16:34:55+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,445ff4620d8bc20e54082fae214c59e4dddd8855,Merge of branch bugfix/CSY-12 into develop,0,1
+2023-06-22,2023-06-22T13:12:55+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,423672b9ab1246fb899b970421a3b4a8a48362fe,Squash commits of branch bugfix/FE-CSY-11:,1,0
+2023-06-22,2023-06-22T09:24:56+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9342b2835253e8a77b9f387216aa38239f2cabec,Squash commits of branch feature/FE-complete-lite:,2,0
+2023-06-21,2023-06-21T17:20:21+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,37da5ad3b426da7e0a06d65c4354588fee4271be,fix build,0,0
+2023-06-21,2023-06-21T17:16:24+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,86e66d29ecf8e1ad0cfe1e5da64b973a5d9ad7b3,Squash commits of branch bugfix/sendtodealer-cta:,1,0
+2023-06-20,2023-06-20T17:09:56+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b49153c82867d5b33b7777e39c23a9e572d5cfd9,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,0
+2023-06-20,2023-06-20T17:09:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,70b04a511541de9f927a6a3e78e6084f83e2a9d2,fix types,0,0
+2023-06-20,2023-06-20T16:51:41+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,2ad8d92a6cf1eb0c19e822a1bc861e2f2af82cce,Squash commits of branch feature/FE-OMNI-3771-CRM-Picklist-blank-spaces-Telephone-number-format-fixed:,0,0
+2023-06-20,2023-06-20T16:51:05+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b36eeb1047f9b0cafddc1318b414ce1c1e56927f,Squash commits of branch bugfix/FE-BAsket:,0,0
+2023-06-20,2023-06-20T13:20:20+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,39388754e209729294ed8394abacf8572c8b0a60,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,0
+2023-06-20,2023-06-20T13:19:41+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,99c12e7d6fb24e0e5fa62841edb490fa17e54904,regDisclaimerIdGSDP,0,0
+2023-06-20,2023-06-20T08:59:40+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,be117dd2f2eca470f064f409f2d2298c928c32a4,Squash commits of branch feature/FE-OMNI-3277:,1,0
+2023-06-15,2023-06-15T18:01:33+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,94df3f93799330f332d05e7fdbd0d070ceeace15,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,0
+2023-06-15,2023-06-15T18:00:26+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,093b476155a63f9c3a838f230aa0fb1aaea47af9,fix reg source,0,0
+2023-06-15,2023-06-15T17:01:54+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,f618f5ff780c9a8b2b69a153818881c3992c172d,Squash commits of branch feature/FE-OMNI-3643-CTA-to-save-basket-as-unlogged-user:,2,0
+2023-06-15,2023-06-15T15:33:23+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0d470ee2041c71e3be59f3498544dd1ece0f5190,Squash commits of branch feature/FE-OMNI-3859:,4,0
+2023-06-14,2023-06-14T20:44:35+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,115cc390bbeb1fe55301b1c0ad4a3757c6832c2f,Squash commits of branch bugfix/cs-pagination:,0,0
+2023-06-14,2023-06-14T17:44:32+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,db6c22e4b6c81325abd5f782778eaea643d715c8,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,3,0
+2023-06-14,2023-06-14T15:57:24+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,5b69e2b39f58cbbe9efe378299eae74c6a6c13b9,fix regsource 2,0,0
+2023-06-14,2023-06-14T15:53:22+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,021fbfc5e531dee61ac8c44a259207653be12b62,fix regsource,0,0
+2023-06-13,2023-06-13T16:04:33+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,fcb57e9d109c9012c4f09df514515205d34f7b8b,Squash commits of branch bugfix/FE-BC-s24:,5,0
+2023-06-12,2023-06-12T17:26:00+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,1ae57738098bbb95ba7c2f6b1e603b79ac1448eb,Squash commits of branch bugfix/FE-CSY-s24:,0,0
+2023-06-09,2023-06-09T15:30:56+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b55a87404933d39f7aae50007d4ecc052a623a23,Squash commits of branch bugfix/FE-BC-CSY:,1,0
+2023-06-09,2023-06-09T10:42:54+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,3b8ceeb50d7229cc58fe808a1d3179c6989f68da,Squash commits of branch feature/lite-invite-api:,0,0
+2023-06-08,2023-06-08T17:03:58+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b41f275642cef835ccf841fe06ea446cf6d86ab5,Squash commits of branch feature/FE-OMNI-3906-bis:,1,0
+2023-06-07,2023-06-07T17:03:52+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5dae180bb91315ae45a85919d8e96eb3b30db49a,Squash commits of branch feature/FE-CSY-14:,1,0
+2023-06-07,2023-06-07T09:28:14+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9623856cc1a905a4a6f77f0fc8bf74fcbaf78d76,Squash commits of branch bugfix/cart-badge-dealer:,0,0
+2023-06-06,2023-06-06T14:40:19+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,68f62196dbefd79cfef67323b57c45317348e0d6,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,0
+2023-06-06,2023-06-06T14:39:19+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,642d88af1ab10017c0841a5fea628148e74cd75a,fix style and user detection,0,0
+2023-06-06,2023-06-06T12:22:37+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,d3d20e92ce4051e0357f9421a52df852f18b4caf,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-06-06,2023-06-06T12:21:50+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,4bc8c20ec22be14634dd13fa185ee184084a5255,fix type,0,1
+2023-06-06,2023-06-06T11:34:29+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,bb9493508a0457aafc084e3d8485b100f167283f,fix check,0,0
+2023-06-06,2023-06-06T11:27:47+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,322db7ae20dbd6abba7ce351149fa8626e071395,Merge of branch feature/FE-CSY-13 into develop,1,0
+2023-06-05,2023-06-05T14:22:13+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,27269258e7f55d2cc15cf83a7eb7391b5e1a2d7b,remove console log,0,0
+2023-06-05,2023-06-05T13:05:23+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,219ed266bb9b25983852dddbe019d416cba389a0,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,0
+2023-06-05,2023-06-05T13:04:31+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,87596691cd68c553d59787dc293794f979ca23da,fix CSY thumbnails retrieve,0,0
+2023-06-05,2023-06-05T11:23:55+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,646243b9147451d1f42d4a49fac7453021627c28,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,3,1
+2023-06-05,2023-06-05T11:23:25+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,dc6edf2f60f12a90de70460871e43cb0bc622eec,fixes on registration and user detect,0,0
+2023-06-01,2023-06-01T17:53:40+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b20a4eee6b3c56ad1b5618cc66acc53b5b671ff8,Squash commits of branch feature/FE-CSY-12:,0,0
+2023-06-01,2023-06-01T15:38:38+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,61ed977125d5288e5397df933437ca37e6696896,Squash commits of branch bugfic/FE-CSY-11:,1,0
+2023-05-30,2023-05-30T12:26:13+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,3d48f98dc841bff21aa356e3a93e9792d5a5bfa1,fix checks,0,1
+2023-05-30,2023-05-30T12:18:48+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,93155ccb1a07aa67de426bd2715974bb88e7ffe8,adapt buttons,1,0
+2023-05-30,2023-05-30T18:28:21+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b25a224e4e0e774441d95197597e7f580a9cac16,fix tradin value,0,0
+2023-05-30,2023-05-30T17:54:48+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,e23258f4549a8277b8c8b935e2b7fcce7db9e026,Squash commits of branch bugfix/FE-CSY-10:,0,0
+2023-05-30,2023-05-30T10:18:43+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e34219f210fba410e774730672287480383b7b39,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,0
+2023-05-30,2023-05-30T10:18:32+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,55b237bbaf3f1260cfee709007cc62b52660a5d7,fix business check,0,0
+2023-05-29,2023-05-29T16:58:58+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,0f493af011b5e18b28e38663c692ee2d2a93c49c,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,12,1
+2023-05-29,2023-05-29T14:52:36+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,41082e6e85952c7f02e424b67a2fe8db0b42b3bd,fix gigya b2b,0,0
+2023-05-29,2023-05-29T12:55:51+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,54268b4f3a004baa00bc21f9e67fe1911e9951d3,Squash commits of branch bugfix/FE-CSY-9:,1,1
+2023-05-26,2023-05-26T16:43:52+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,5f701649cb4c59767957a7f0ae6cea6afc743eae,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,0
+2023-05-26,2023-05-26T13:42:19+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7caad952f632c5aab761a01ddf64f1a9c896ecb2,fix typo contribution,0,0
+2023-05-26,2023-05-26T13:30:01+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b4c068b21c44ec0399c514f391501ef41f3b846d,fix typo,0,0
+2023-05-26,2023-05-26T13:28:27+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,3e3255be25d91a34950244750386d04559952ee4,Squash commits of branch feature/FE-CSY-8:,2,1
+2023-05-25,2023-05-25T16:46:54+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,dd25d4d138db1e6b64136f2e6103d1e46473f8f1,MMerge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-05-25,2023-05-25T16:46:38+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c6d0adba2e1c2b057392824d7ba334fcbad87b1b,fix for thankyou page,0,0
+2023-05-25,2023-05-25T14:35:18+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,dc60079378b0968a22a939f2c45bdc9b9c2508a7,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,1
+2023-05-25,2023-05-25T14:34:03+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,8a9147710d7d8290179518d3daea1bfbc92a53b9,hotfix cart badge,0,0
+2023-05-25,2023-05-25T12:07:50+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,bd732a10e8a8d3dac029b1e738e29c0d11b47636,Squash commits of branch feature/FE-CSY-7:,3,1
+2023-05-25,2023-05-25T08:29:28+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e27ed3bd898aa72db8bfdf555e03c6c65f89ce28,revert build,0,0
+2023-05-24,2023-05-24T17:43:21+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,af6e21f0e892751abc778b699c6575435d25b97c,Squash commits of branch feature/FE-CSY-6:,1,0
+2023-05-23,2023-05-23T10:18:46+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,12195ad63f16871b31d8261bf256ee2c40046742,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,12,0
+2023-05-23,2023-05-23T10:17:22+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b94286af7d6adc227fa61e079baa28a2396e7883,fix cart-badge build,0,0
+2023-05-23,2023-05-23T09:06:31+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,915d0536db358133ac619d7a2b74810b082f554d,Squash commits of branch feature/cart-badge:,1,0
+2023-05-18,2023-05-18T09:37:10+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,e0f4d758d9ac57f4f93d6dcd87cb01c00ffae290,Squash commits of branch feature/FE-CSY-4:,0,2
+2023-05-17,2023-05-17T15:00:42+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,52f4d187b017ff5adc828d29cd36bc43057e79e6,Squash commits of branch feature/FE-CSY-3:,0,0
+2023-05-15,2023-05-15T18:04:56+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1ee7c1dea9e2204fad4f9d72b061ec2f797ade6b,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-05-15,2023-05-15T17:59:30+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,4a216b4cbdb13cefc8f3d08acfdc56d6e9425e9b,fix netprice list price,0,0
+2023-05-15,2023-05-15T17:21:14+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,f1ab8a102f510c016eb34a9763d56f33c722bec7,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-05-15,2023-05-15T17:16:26+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,174c83ba3d6d8ee6596a8c82196b19314eff2664,fix imags xp,0,0
+2023-05-12,2023-05-12T12:53:01+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,6ec37b2e606f0b676dc85a9c29e0c08c6320c59a,Squash commits of branch feature/FE-OMNI-3557:,0,0
+2023-05-12,2023-05-12T10:50:00+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,4ba1df0cf1cf37e542487a2575d3ed302410ee0e,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,0
+2023-05-12,2023-05-12T10:45:31+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,fe91b94b733d79c49cc637ed051c4d444a79c01e,quick fix on deletion cartsync UX,0,0
+2023-05-11,2023-05-11T13:59:46+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,30b39452cce107334005d50a43ec4d5ffe865034,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,2,0
+2023-05-11,2023-05-11T09:23:09+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,436540a4ced5c6587ca1bad65df25059008012b3,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,1
+2023-05-10,2023-05-10T19:18:59+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e31aff1cac95e379e1157b48b9fb136d0b179720,fix cartsync vsd,0,0
+2023-05-10,2023-05-10T14:16:54+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,625476fc1623cb53b2165d6a3ae23bbbf3d28693,fix build error cartsync,0,0
+2023-05-10,2023-05-10T11:26:13+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8f8c5a534b05241c37bb6e70afc41b0c7a215391,Merge of branch bugfix/csync-s22 into develop,0,1
+2023-05-09,2023-05-09T12:00:29+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5f06a22dc78f5f89c964aed22e4769c87fdd8b5d,Squash commits of branch feature/FE-cart-sync-login:,0,0
+2023-05-08,2023-05-08T12:56:43+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e241294c1fcd45adfc04eca2b0f77459f285fe50,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,0
+2023-05-08,2023-05-08T12:50:21+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,f8c576b288d119b6ebc133689db697ac916a427d,fix setprice list,0,0
+2023-05-04,2023-05-04T18:15:58+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,990850930f1828f5e273ceb6f87baa02c25b5a48,Squash commits of branch bugfix/csync:,0,1
+2023-05-04,2023-05-04T11:07:05+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ce97c84d908de7e3933e44488c0b8ef98ea62e4f,\Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,0
+2023-05-04,2023-05-04T10:58:56+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,3892c018ceab9bec72b60fa6ebb4e0e11318dd5c,fix trycatch cartsync,0,0
+2023-05-03,2023-05-03T18:25:02+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c3203d62251d570050c39d60f521bacc3d1a2494,fix start cart-sync,0,0
+2023-05-03,2023-05-03T18:11:23+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,73fecb282aef26eb22d2bf04fe52fad958de3d65,Squash commits of branch hotfix/FE-s21-Csync:,1,1
+2023-05-02,2023-05-02T16:59:45+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8d10e0b409696d7ab1f2cbbd9b7685d327fd5843,Squash commits of branch bugfix/FE-csync-s21:,1,0
+2023-04-28,2023-04-28T17:57:47+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,64f3ca1876d44aa9d4dd034ca7865a308271ff18,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-04-28,2023-04-28T17:40:44+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,cabe70dc446631f54349adc66e287a5a25f1f818,thankyoupage,0,0
+2023-04-28,2023-04-28T17:10:56+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,42e43ceba04c4559edf42ec57442834f6e918d73,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-04-28,2023-04-28T17:09:38+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b7798db215461f5a151787ba5b0ce6527289ff82,fix vat,0,0
+2023-04-28,2023-04-28T16:59:51+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c423da3e377db9cf47a5c9e479a41578f6bbebce,load mode,2,0
+2023-04-28,2023-04-28T16:27:15+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,504351cb6f8bd6b11a09317163c34a9f92208cb1,fix redirect gigya,0,0
+2023-04-28,2023-04-28T12:28:57+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,75d156547495bd2573f4c628f13ddb9e26df0912,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-04-28,2023-04-28T12:19:39+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7649f3df0969a75e08e49eed1bee731ac6da989b,fix offline banner name,0,0
+2023-04-28,2023-04-28T11:38:29+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d5c2419187d2c574fcab9d9e6f6151834ad97635,Squash commits of branch bugfix/FE-sync:,0,0
+2023-04-27,2023-04-27T17:14:51+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,885f50d9b82b82486876901c65ce4993bbb1f5af,Squash commits of branch feature/FE-fix-thankyou:,0,0
+2023-04-27,2023-04-27T17:00:08+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,1d4ee4ae9aafdec28758321cb1d9adda4c5dd136,Squash commits of branch feature/FE-csync-fixes:,0,0
+2023-04-27,2023-04-27T11:56:39+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,a2a8672b4fbb5b2170207ac4b4896cdfafc58a87,Squash commits of branch feature/FE-editorials:,0,0
+2023-04-26,2023-04-26T18:23:13+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,6407d026ac13457e57015c34c085068949fea363,Squash commits of branch feature/FE-fixes-cartsync:,0,0
+2023-04-26,2023-04-26T18:21:22+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,1228e882e05ed9e75f20467447d8a50f791b972b,Squash commits of branch feature/FE-gigya-fixes:,0,0
+2023-04-26,2023-04-26T11:17:29+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,3a9aae16761161ddbea387f5c7dd47816c920562,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,3,1
+2023-04-26,2023-04-26T11:16:15+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,0d9e778b869d0e1def858437d646c0e7b5e856c8,fix checks on tradein,0,0
+2023-04-21,2023-04-21T18:42:27+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0953bbf721b7b9e8232f058f9cf7a30f07a108d3,Squash commits of branch feature/FE-serialize-vehicle-array:,0,1
+2023-04-20,2023-04-20T18:32:26+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b434ef9cc9baa9821b8c7653181cbc1b61cdccca,replace %26,0,0
+2023-04-20,2023-04-20T17:55:03+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,45b6d43958b5cb63a709cc39972eb97f45a4d837,add window,0,0
+2023-04-20,2023-04-20T17:52:42+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b298ce4ab9283034bbc2189b2237c60740e42259,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-04-20,2023-04-20T17:51:40+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,9ab2730b89d3549440fa9dec3b1224776937ab0b,add SpaceSDKConfiguration,0,0
+2023-04-19,2023-04-19T16:46:15+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5e71083b57a60ade8c1af2f865935a578d4bdc7b,Squash commits of branch feature/FE-csync-s21-creation-rework:,0,0
+2023-04-19,2023-04-19T12:13:24+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,37f744dcb8727012ff2d99ae7415de3cd66c4758,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,1
+2023-04-19,2023-04-19T12:09:16+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ddb9217fcec1e11c5a57032c012474fa4e23ed86,fix supply chain call,0,0
+2023-04-18,2023-04-18T17:13:57+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c88df2c0bbc97985d7a3908d8646bb7f148482bd,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,3
+2023-04-18,2023-04-18T17:04:39+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,defd619528ab8f827f9e2e7658a6e1d2731d77b4,fix redirect,0,0
+2023-04-17,2023-04-17T17:31:22+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,fa436c2e1ad29d79890810fcd253578c91f8822d,Squash commits of branch bugfix/csync-s20:,0,0
+2023-04-14,2023-04-14T16:57:54+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,725b8923389813c133411c0924ab341cc36e7114,Squash commits of branch bugfix/FE-cartsync-s20:,0,0
+2023-04-14,2023-04-14T12:49:25+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,0cf70abbbd93cc34bc9998ad6501405b02231fb5,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-04-14,2023-04-14T12:44:21+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,f649d2475fded78f8c9e35c7ef3337ee3353c212,fix wltp values,0,0
+2023-04-14,2023-04-14T12:28:55+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,0c2ccdd6b3a5f765d1396a9512b75c2952dbdf84,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,3,0
+2023-04-14,2023-04-14T12:26:29+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,357c2285de1d182775e35284b62626fe7ebf1de3,fix  editorial,0,0
+2023-04-14,2023-04-14T11:50:21+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c1567e851eccc584aa41b0db38143d5b338d636a,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,169,3
+2023-04-14,2023-04-14T11:42:26+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c3d1c44df85ddbc8e141576b9c6e132bcaea5ade,fix build cart-sync,0,0
+2023-04-13,2023-04-13T18:48:45+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,bf7baae73c802a6f2c9b077c4320d5e675e5d2b6,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-04-13,2023-04-13T18:44:41+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b15ecf3da1fb3f1318c8b736db37aa8289792716,fix missed modal manager on thankyou,0,0
+2023-04-13,2023-04-13T18:11:53+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,cc6738c2f3a2528ed70841c1c87cdc6720a30497,Squash commits of branch feature/FE-CS-sccf-preview:,0,0
+2023-04-13,2023-04-13T17:04:33+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,6a49ef044e0786a92e9c127f37638fe8b6a20e98,Squash commits of branch feature/FE-Csync-fixes:,0,0
+2023-04-13,2023-04-13T13:05:55+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,13c011a927b77146dab7f6497174cd289798af75,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-04-13,2023-04-13T13:04:51+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,dd7ec74cef7f0afe5acb0acbf403d4a4a27a9570,fix mobile and link form,0,0
+2023-04-13,2023-04-13T12:13:50+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,fd1e564273cf5049b91dc35da0e9ee5b2f7b1a10,Squash commits of branch feature/FE-csync-registration-rework:,0,0
+2023-04-06,2023-04-06T16:40:07+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9224c2469b58af1ed49a2efa56afc06cab0da585,Squash commits of branch feature/rework-vehicle-card:,1,0
+2023-04-06,2023-04-06T10:30:47+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,546d687cb83ad1f24915c530a51c324754a6fee2,Squash commits of branch bugfix/FE-labels-csync:,0,0
+2023-04-04,2023-04-04T18:09:21+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b25924e6da2f3fad34b6338ff8a4ff0aa4d8a3fe,Squash commits of branch bugfix/csync-s19.2:,1,2
+2023-03-31,2023-03-31T13:12:23+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,f4324edb8095accc47f1f7e45fdab3996b2e2035,Squash commits of branch hotfix/csync:,0,0
+2023-03-31,2023-03-31T13:04:03+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,e22104184e7915edb3a334ad90673dff89df3f7e,Squash commits of branch bugfix/cart-sync-s19:,0,0
+2023-03-30,2023-03-30T22:23:09+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,03cae2f157b902a44082cc73398c318b46f2bfed,Squash commits of branch feature/FE-OMNI-3208:,1,0
+2023-03-30,2023-03-30T18:59:57+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,e262be773e98c2a14c2fe8f5c56ec2793fe5c323,Squash commits of branch bugfix/FE-Csync-fix-delete-quot:,0,0
+2023-03-30,2023-03-30T18:50:11+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,e5f8f182174b60e5b0d1204fa17867d8f779a331,Squash commits of branch bugfix/FE-cart-sync-s19:,0,0
+2023-03-30,2023-03-30T13:19:46+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,98694dfcd48164e43c8d9f08349705a4c6512932,Merge of branch feature/FE-OMNI-2853 into develop,0,0
+2023-03-29,2023-03-29T18:33:03+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,7bb301809dd233e06ec3ddd5b6fb7e48566a7229,Squash commits of branch feature/OMNI-FE-2850:,0,0
+2023-03-29,2023-03-29T14:08:36+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,3e300ff41e64e19f5cecbfcea2811a7ecb746c66,Squash commits of branch feature/FE-OMNI-1651:,1,0
+2023-03-29,2023-03-29T13:00:52+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,190872e983cc6d8ff114835fb93c654ac8a532c2,Squash commits of branch feature/FE-cart-sync-tunings:,0,0
+2023-03-28,2023-03-28T15:31:57+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,07c4cce5580f76fe062f0f751651d2b0e5cf08b8,Squash commits of branch feature/stock-definition-fix:,0,0
+2023-03-27,2023-03-27T17:29:05+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,c2ac1e26af08e5543a64600534e8afc533d0cbf2,Squash commits of branch feature/fix-get-wishlists:,0,0
+2023-03-27,2023-03-27T17:28:35+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9792f7f046073d1cefb989c1fb1dd756e1c0e880,Squash commits of branch fix/update-convert-guest:,1,0
+2023-03-27,2023-03-27T14:21:33+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9c7c21969ced12c2972763047b4be595758ad5d9,Squash commits of branch bugfix/cart-sync-option-details:,0,1
+2023-03-23,2023-03-23T11:47:56+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,faf084468c9958198cd485a996c29431057323ba,Squash commits of branch bugfix/checkout-modals:,0,0
+2023-03-21,2023-03-21T19:49:27+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,dcfc98ae3baf1d3b188750011b4dccc0cf7a4db6,Squash commits of branch bugfix/cart-sync:,0,0
+2023-03-20,2023-03-20T17:06:06+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,ea596b522d203d2b419b5d99cc87e8c9dd2c21d8,Squash commits of branch bugifx/csync-build:,0,0
+2023-03-16,2023-03-16T12:52:33+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,68d41a9eaeebb1a8cb0e91e879da82f16b9937eb,Squash commits of branch hotfix/build-cart-sync:,0,0
+2023-03-15,2023-03-15T16:27:24+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,3bf76afc9582f69f97247b38ef1a6df4fafc7dbf,Squash commits of branch feature/FE-remove-hardcode:,0,0
+2023-03-14,2023-03-14T16:19:01+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,9d042465c24617ccd1e5f9520ef78311012ff995,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-03-14,2023-03-14T16:13:13+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,e418c3ea98f381880f96fab1694a805079f9ed13,add trusted domains,0,0
+2023-03-14,2023-03-14T16:11:13+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,6caa61ffa7e34404fdf0fe8b99c56b62d6642edb,Squash commits of branch feature/FE-gigya-fix-flow:,0,0
+2023-03-14,2023-03-14T13:19:26+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9d732c2953a40c1f0826980e25e409f683aff209,Squash commits of branch feature/FE-cart-sync-adapt-vehiclecard:,0,0
+2023-03-13,2023-03-13T15:35:09+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,a7a5cb8272be4dc560329dec472a16154484da46,Squash commits of branch feature/FE-remove-console-host:,0,0
+2023-03-13,2023-03-13T15:34:34+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,28da35114d4c7e322e824c826dfaf150101553b4,Squash commits of branch hotfix/cart-sync-disclaimer-BE:,0,0
+2023-03-07,2023-03-07T18:10:35+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,72b1c255cbadac6b95103ce070ddd55fdfd721f3,Squash commits of branch hotfix/retail-feat-sccf:,0,0
+2023-03-07,2023-03-07T17:35:09+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,c8ac12133986c0b253e198ca6861c4ec8d802c8f,Squash commits of branch hotfix/sccf-fix-cart-sync:,0,0
+2023-03-07,2023-03-07T11:55:18+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,1f0e0fa5ea8f0e29d522297f25bedc2c7fcc2ec8,Squash commits of branch hotfix/cart-sync-build:,0,0
+2023-03-06,2023-03-06T16:58:39+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8bcda4e70a6d21df71643d358890f6211dd26b60,Squash commits of branch bugfix/fix-sprint-17:,0,0
+2023-03-03,2023-03-03T15:49:54+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0b550847c4e8228df40aee85ce4e9fef2810184b,Squash commits of branch feature/CSync-fix:,3,0
+2023-03-03,2023-03-03T09:00:35+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,64f8f0fbab45e0f2201a76c3fbc3cc09625e5fc7,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,7
+2023-03-03,2023-03-03T08:58:54+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,a7d69bd46786f63bcecb31e803135b9812a085ba,fix preview mode,0,0
+2023-03-02,2023-03-02T17:03:56+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,1dff99f9c181ce9c2780206ec138d5b3f3f6d858,Squash commits of branch feature/gigya_token_locals:,0,1
+2023-03-02,2023-03-02T15:21:24+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,05fcc6fdc927e82238fd52833820de03bc74e9be,fix themeing on storybook,0,0
+2023-03-01,2023-03-01T11:50:50+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5c6e372d27840001f00ffc4b514fc82bdeb70ab8,Squash commits of branch feature/remove-skiplibcheck:,1,1
+2023-03-01,2023-03-01T10:20:10+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,6f6ed36bdd654dcddc2e9d6726d91d2ee1f95044,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-03-01,2023-03-01T10:17:31+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,8354fa3924bb14d8383bf4182d068299d465e131,fix import,0,0
+2023-02-28,2023-02-28T17:03:10+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,3bb830e319512c97c9796b9edae164b9c5312394,Squash commits of branch feature/code-splitting:,6,0
+2023-02-27,2023-02-27T17:09:40+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,4be4d409aea1562b275c05254e62e42adab3f6b1,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,0,0
+2023-02-27,2023-02-27T17:08:45+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,00e61b7148eb051efba3c487e7c0dc1c163abf7a,fix concurrenlty missed,0,0
+2023-02-27,2023-02-27T15:21:28+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,4c3d99e668cdcf12b698466a8b553ca276925bd6,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,5,0
+2023-02-27,2023-02-27T15:18:46+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,cd313fd4630747e3d3043cee0e33967ff3926fba,revert concurrently,0,0
+2023-02-23,2023-02-23T12:05:54+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b619af2f2f4ebe25473ce1a94342119fe3c719b4,Squash commits of branch feature/mock-fin-modal:,0,0
+2023-02-21,2023-02-21T09:01:56+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5df15c965a5b4b2fe0f5ab7b681debd18a8b5220,Squash commits of branch fix/csync-review:,0,0
+2023-02-17,2023-02-17T10:41:57+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,4764316f0b31d90d1c2e87536f1614032cb6b352,Squash commits of branch fix/modal-finco-aem:,0,0
+2023-02-16,2023-02-16T17:33:05+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,8714a435d3ebf0a6516a0e57d3aa14f72428de23,fix sem ver,0,0
+2023-02-16,2023-02-16T17:17:45+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,6d88e10d36cfe2e0ddbe8d5c28a80c406ce2a052,fix missed deps,1,0
+2023-02-16,2023-02-16T16:15:09+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,d498f1ac34788382abef4bf90ab72d2cfacccc39,remove concurrently,0,0
+2023-02-16,2023-02-16T14:45:13+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,4121c1451958f40ae4b290dc89ed0e7043df0891,remove svgs,0,0
+2023-02-16,2023-02-16T17:33:05+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,af34b1194020f2d16cfd55344195e22607681545,fix sem ver,0,0
+2023-02-16,2023-02-16T17:17:45+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,a84738af11e6466d48e9d325c53947a72a0ebf6a,fix missed deps,1,0
+2023-02-16,2023-02-16T16:35:37+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,19e9da1d82b6a7ff4aebe4d9d3a1970e619d0c5b,Merge of branch feature/code-splitting into develop,0,0
+2023-02-16,2023-02-16T16:15:09+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,b703fc65b63938a771bfa502f26d1945eacbe126,remove concurrently,0,0
+2023-02-16,2023-02-16T14:45:13+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,80f8759e9918e37137b959c8f69da10e91b5dfc3,remove svgs,0,0
+2023-02-16,2023-02-16T09:26:54+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,8c05b2e1561b74998f5a3c69dbdf2afeea4c493f,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,1,0
+2023-02-16,2023-02-16T09:26:44+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,6203b2d164a57eb81071e0f0bcb01c406c49bebc,fix untrusted domains gigya,0,0
+2023-02-15,2023-02-15T17:39:51+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5a28db8df54f800e8cf9f726af354ec7885a4145,Squash commits of branch feature/OMNI-FE-2142:,0,0
+2023-02-15,2023-02-15T17:39:12+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,6302fc762ba9c55867033ad62d66bbf58d76e109,Squash commits of branch feature/sccf-adapt:,0,0
+2023-02-14,2023-02-14T14:54:05+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,42c1674d75dd950e0b9ccce2680155b0c75a9cc5,Squash commits of branch feature/fix-header-scroll:,0,0
+2023-02-14,2023-02-14T14:53:33+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,5b3548c604b7af00767a5313b65714ed618d5bf0,Squash commits of branch feature/logintoken-adpt:,0,0
+2023-02-10,2023-02-10T15:22:37+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,9150cfca0c26b4d5accbebd85006d31c748b216b,Squash commits of branch feature/fix-loginflow:,0,0
+2023-02-10,2023-02-10T09:42:12+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,ade13928c352336876cc6aa1ce3bc6a63eb91397,Squash commits of branch feature/move-price-detail:,0,1
+2023-02-10,2023-02-10T09:38:48+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,89f46d03f69179a809734ebb4aad93ffd43f1bce,Squash commits of branch feature/FE-OMNI-2052:,2,0
+2023-02-09,2023-02-09T15:31:28+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,9acc309df8b5bc621f183807b8cf6363886ca2e7,hotfix,0,0
+2023-02-09,2023-02-09T15:15:22+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8d7435f922db6b3a9743ef4200768110f206c4d1,Squash commits of branch fix/storybook:,0,0
+2023-02-08,2023-02-08T11:39:41+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,167e7ec74c06189687e210b987f8b0081491a562,Squash commits of branch feature/FE-fix-header:,0,0
+2023-02-06,2023-02-06T17:19:24+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,4c74ca421e2f03ffa743493932d4c0bb76c92869,Squash commits of branch hotfix/gigya:,0,0
+2023-02-06,2023-02-06T16:11:43+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,803186b42de9c967fd2c6d7f3e77977d6fd9bd74,Squash commits of branch bugfix/cart-sync-sprint-15:,0,0
+2023-02-02,2023-02-02T15:17:52+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,83d32a6a41e9c29ab34e413471f3332b6aacdae3,manage role in basket,0,0
+2023-02-02,2023-02-02T14:48:51+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,dbbf0afa4b146fc6e76579adb0693043cf07f798,Merge branch 'develop' of https://ci.fiatauto.com/scm/repo/git/B2C_MKT_OMNICHANNEL into develop,2,0
+2023-02-02,2023-02-02T14:42:23+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,fd9a1e0beb0f6e3dce2a73135674f05e51719a8c,fix checkout role management,0,0
+2023-02-02,2023-02-02T13:11:17+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,9117502f67c23bbbd3b02cd299d3a5795b825f47,avoid use detection on mode autor,0,0
+2023-02-02,2023-02-02T12:31:44+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,d1c0b843683f75b340153f095bb750534809698e,fix guest user end edit mode,0,0
+2023-02-02,2023-02-02T10:20:59+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,29ef052799227454a2a3b164d517c081c7ad859a,Squash commits of branch feature/OMNI-FE-1621:,0,0
+2023-01-20,2023-01-20T11:47:13+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,73124d0e82b54321e4045d6a4608dce06565e344,Squash commits of branch feature/FE-login-gigya-int:,2,0
+2023-01-18,2023-01-18T16:58:06+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,50eabb973cdb8046f5fd4be635132de2441cdbd3,Squash commits of branch feature/FE-OMNI-flow-pkg:,0,0
+2023-01-18,2023-01-18T15:14:57+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,4b7153c9b7a7734ee22d213c776e94ba00f9482c,Squash commits of branch feature/FE-OMNI-fix-summay-ui:,0,0
+2023-01-17,2023-01-17T15:51:10+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,27629c9fcb16a3c70d69fdf8b3468975a82d63bd,Squash commits of branch feature/FE-responsive-zom:,0,1
+2022-12-22,2022-12-22T13:00:55+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0eeee857c910335b2b430b6e14ced31b01633ad9,Squash commits of branch feature/FE-OMNI-1932:,1,1
+2022-12-20,2022-12-20T11:20:10+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,c9e3c5943e94f753004dc80dc1335b03649ca175,Squash commits of branch feature/FE-OMNI-902:,0,0
+2022-12-05,2022-12-05T10:37:15+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,c0253209309a24ed1609eca7c117f70a6f4dc81d,Squash commits of branch feature/OMNI-1736:,15,7
+2022-12-05,2022-12-05T10:04:39+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,3cc1e3a47ab7cf4ee643517855637c4655f4c92e,Squash commits of branch feature/FE-fix-font-rerender:,0,0
+2022-11-29,2022-11-29T18:03:07+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,52fa0e7d39ecf93163b847d26e5bb9adc6742f59,Squash commits of branch feature/FE-upgrade-tooltip-lib:,0,0
+2022-11-24,2022-11-24T09:11:27+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,bc3b19bb6868dead88aa06be0c88b66ed995e0d8,Squash commits of branch feature/utils-finco:,0,0
+2022-11-21,2022-11-21T10:40:55+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,1c25e8c82eabe37352831fb28e5fae21b855b246,Squash commits of branch feature/code-splitting:,1,0
+2022-11-08,2022-11-08T18:00:01+01:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,0c6e8c44d357e5f3c130a328c9da548f035c8b0f,Squash commits of branch feature/CustomerTypeSelection:,0,0
+2022-10-12,2022-10-12T15:39:29+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,e5f82daa050211fa1273b63bbe2dc1ca0744696a,Squash commits of branch feature/FE-OMNI-1271:,2,1
+2022-10-11,2022-10-11T17:24:59+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,d82d5abe2966efc9351fcf01ecd484e1bf6cf2ae,Squash commits of branch feature/FE-OMNI-1156:,3,0
+2022-10-11,2022-10-11T12:32:56+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,cfd696d0be065cf0202b0b9a5f71e5f6b266904a,Squash commits of branch feature/FE-OMNI-887:,2,0
+2022-10-11,2022-10-11T10:57:14+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,cc8d663c6621db8f1554163ff66caf2e673b5ae9,Squash commits of branch feature/FE-OMNI-886:,0,0
+2022-10-10,2022-10-10T17:11:45+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,1a99c1718f38e66701823fa715e66e622850902c,Squash commits of branch feature/FE-OMNI-1161:,0,0
+2022-10-07,2022-10-07T18:04:45+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,f22c72fdd7fcad2a197891249e94c25cd8a140fa,Squash commits of branch feature/FE-OMNI-tradein-banner-fix:,0,0
+2022-10-07,2022-10-07T09:09:56+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,c3f3f51df9a15aed3a283f1f4261a920b755339d,Squash commits of branch feature/FE-OMNI-cart-sync-price-fix:,0,0
+2022-10-06,2022-10-06T17:40:16+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,62925fa8dbc89beb578ee05547f06c9403bef035,Squash commits of branch feature/OMNI-FE-881:,3,0
+2022-10-06,2022-10-06T16:04:44+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,eb86f390b43026f901455b5895ece66475b3798b,Squash commits of branch feature/OMNI-FE-1154:,2,0
+2022-09-30,2022-09-30T16:51:45+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,b61f7c9a3cb0f5fd8f025c52d5d06a2cd373e7a7,Squash commits of branch feature/OMNI-FE-CS-fix:,0,0
+2022-09-30,2022-09-30T13:49:07+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c5c3a80be43e9a03f4537256b4d886a574897bc5,fix on effect,0,0
+2022-09-30,2022-09-30T13:43:59+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,04ca87b07dfbe60eebe4fdeb35843d5c8ee41523,Squash commits of branch feature/OMNI-FE-rolesrework:,1,2
+2022-09-29,2022-09-29T18:13:30+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,a0fa50ade57d0d69ff3d83d08ff22f3299fa8036,Squash commits of branch feature/FE-OMNI-976-fix:,0,0
+2022-09-29,2022-09-29T12:52:15+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,cac9b37a24e07221c46d143d1e1bca48419ffc38,Squash commits of branch feature/OMNI-FE-fix:,1,0
+2022-09-29,2022-09-29T12:51:49+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,46baf8134ac8a7d53589b3a3e6987b93256b285e,Squash commits of branch feature/OMNI-FE-976:,1,0
+2022-09-29,2022-09-29T10:30:33+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,cc900b5b647c4fcb931419a2f3aac717c187b32c,Squash commits of branch feature/OMNI-FE-1069:,0,0
+2022-09-29,2022-09-29T10:14:58+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,ec8e455c99ab2cc086e5cd7eb017b1a52c2bdfe1,Squash commits of branch feature/OMNI-FE-1076:,1,1
+2022-09-26,2022-09-26T17:39:27+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,199d11c5c1e3a9d0e24883a51ee0cff17a819618,Squash commits of branch feature/OMNI-FE-tsfix:,3,2
+2022-09-22,2022-09-22T18:31:18+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,8cd9dfe700177243b4d2b9c93beb6730aa86a546,Squash commits of branch feature/OMNI-880:,0,0
+2022-09-21,2022-09-21T10:41:55+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,2bf1420aaf6e04dff971dd788b8dbc452e1a0612,Squash commits of branch feature/OMNI-FE-fix-strint6:,0,0
+2022-09-16,2022-09-16T18:08:17+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,4e698060d44c8c9963d313ec1f5c0d9633f54cb9,Squash commits of branch feature/OMNI-FE-870:,0,0
+2022-09-16,2022-09-16T15:02:02+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,1d95f1d289b0729563ee73406a148a91fb2f9890,Squash commits of branch feature/OMNI-869:,3,0
+2022-08-29,2022-08-29T11:43:49+02:00,MARCO SIVESTRONI (EXTERNAL),marco.sivestroni@external.stellantis.com,695aaf9a70f1b6176140473f0c7458df79965072,FE: OMNI-853 fix lint-staged process,0,0

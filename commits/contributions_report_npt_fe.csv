@@ -1,4 +1,5 @@
 Date,Timestamp,Author,Email,Hash,Subject,Additions,Deletions
+2025-12-22,2025-12-22T17:25:46+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,11d4bcb49eb43c1f43d42d82ddc9e0f3996b309b,feat: add commit report generator and related scripts,0,0
 2025-12-12,2025-12-12T17:10:28+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,05563d48238f34fa71014ea68d984f2b28606b06,Feature/translations improvements (#562),59,0
 2025-11-28,2025-11-28T14:53:03+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3637e908bffbbb18e7b632252d26ff0247a14d50,Merge branch 'cert' into develop,0,0
 2025-11-28,2025-11-28T14:50:25+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9cb5ae85325ddebac9c5700cda8fe438989c72f0,bump version to 0.0.29,0,0

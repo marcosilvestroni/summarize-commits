@@ -1,8 +1,817 @@
 Date,Timestamp,Author,Email,Hash,Subject,Additions,Deletions
-2025-03-21,2025-03-21T10:29:29+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,dd5902ac905bb1891b7e6f77a7942ae6c2fbd541,Main (#235),8,5
+2026-01-07,2026-01-07T11:11:02+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,b804aa6f9021b59ccf5f2f531a42c5e3bf3f745e,fix: sonar cube refactoring (#332),0,0
+2025-12-23,2025-12-23T16:49:56+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,65d74a269c9e4434edb3f846ecb61399110c3a03,fix: update tests to validate currency and percent conversion results,0,0
+2025-12-23,2025-12-23T16:33:20+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,180248e62daa58ddf7ceb8f18edf270c14bcb717,fix input controller,0,0
+2025-12-18,2025-12-18T11:48:38+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,456ff8e7f354b82538219c66224afa1587a2ffcf,fix: improve regex patterns for BBCode parsing,0,0
+2025-12-18,2025-12-18T11:34:55+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1796dbf4b831701fd65620c93c499edc53c7f68e,fix: enhance number formatting logic in formatNumber function to use a loop for thousands separator,0,0
+2025-12-18,2025-12-18T11:17:44+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6ab31f5af3dfa8dac7bc7935d2afb329e5402d3b,Add unit tests and implement handlers for product card functionality (#330),0,0
+2025-12-17,2025-12-17T11:12:35+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d743c4e9ab658b375e86b74ebd44da587977d0a0,fix: add translations.tsx to duplication exclusions in sonar-project.properties,0,0
+2025-12-16,2025-12-16T17:41:23+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e29a887a530917645b584a178ced053513a71057,fix: correct regex patterns for bold and italic bbCode parsing,0,0
+2025-12-16,2025-12-16T17:04:37+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bb4a26dbebd69603bef60273e76af90270dfce24,fix: improve regex patterns for URL and text formatting in bbCode parser and enhance number formatting logic,0,0
+2025-12-16,2025-12-16T16:55:34+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,66ed971da50715334ba6a154565924d290203d28,fix: streamline margin-top logic in RadioButton styles and clean up PromoCode component,0,0
+2025-12-16,2025-12-16T16:45:29+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e36880a8ca02eae00c80d53a0c393005fb5e03b6,fix: correct property name for TypeScript tsconfig paths in sonar-project.properties,0,0
+2025-12-16,2025-12-16T16:30:24+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,aac28a11102b226486d1dd91bb60b9fc1da54610,fix: update TypeScript target version to ES2020 and clean up sonar properties,0,0
+2025-12-16,2025-12-16T15:29:30+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3c38f7cb4a0c2535b65a7e85f20d9c6cd6cb7997,coverage update,0,0
+2025-12-16,2025-12-16T15:27:30+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,669ce324c7950089f1b0dbb1f0c8f804234adb1b,coverage update,0,0
+2025-12-16,2025-12-16T15:26:01+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f7f741187c4f02677e4e7a70319a4dca0fb151af,fix: update import paths and clean up tsconfig.sonar.json,0,0
+2025-12-15,2025-12-15T17:09:10+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,17ffb1dc93e53f0ff6ff39e35ba029e72d138f4b,coverage update,0,0
+2025-12-15,2025-12-15T17:08:07+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c27d8a5a2aaafc99211fecfc90bf055cbbb7da33,fix: update TypeScript compiler options in tsconfig.sonar.json,0,0
+2025-12-15,2025-12-15T16:43:40+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7024203f0cccb9d86a9e012e9306c2aeb5af03cd,fix: update SonarQube branch name to target/dev,0,0
+2025-12-15,2025-12-15T16:39:42+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9eddfb9c62e82050326db20c8723b2a9a073458d,fix: update SonarQube project key and name for Leasys Finc Calc Widget Module,0,0
+2025-12-15,2025-12-15T15:48:33+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4f3a6567cc765107c19c1a7aa9995c270e0efd5e,docs update,0,0
+2025-12-15,2025-12-15T15:48:18+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2f017f38fafc9217b3302c43a47edcc4fadd6ac9,coverage update,0,0
+2025-12-15,2025-12-15T15:47:06+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e321d874b827e22f64bcd8f1e17d27b3ac5f19ed,sonar config,0,0
+2025-12-12,2025-12-12T16:01:32+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,00f39118e6cbf344a3574090414b9e81e5886216,fix: add zacq and zpaf fields to RegularPayment interface and update … (#327),0,0
+2025-12-10,2025-12-10T10:11:52+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,88f99d1ad3097b2876e4e0667ee8674dfbd64276,docs update,0,0
+2025-12-10,2025-12-10T10:11:31+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,27c96b4f3ffee8d6688dc0b9960ec76dd2cb4d5e,coverage update,0,0
+2025-12-10,2025-12-10T10:00:15+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,04dbc532165ab5f7010c916f315eee774d4cd5dd,fix: add optional serviceControls property to OtherService interface and update onChange logic in ServiceListItem,1,0
+2025-12-05,2025-12-05T09:25:16+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1547bbe3669ebc109773393e874a090cb49ca70a,coverage update,0,0
+2025-12-05,2025-12-05T09:23:38+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d63714eba071ee6dadaf1eda68d71fe381fde965,fx js error ?.zi23DealerDiscount,0,0
+2025-12-04,2025-12-04T18:30:13+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,b8dfe3d4afd0e635c0125a3ad353ff89b8a34e33,Target/ecglob 4690 error message embedded touch (#323),1,0
+2025-12-04,2025-12-04T15:09:57+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,8be4c33944fe806d78a825959e7f617faac01de0,add dealer disocunt visibility (#324),0,0
+2025-12-02,2025-12-02T16:38:04+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c463bce6098aadd27283c402a171aa497f66c08f,fix: adjust commission validation logic for ES (#320),0,0
+2025-11-27,2025-11-27T09:58:36+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f4206747e318c8bc6d20985b3f65a30c8560158f,fix: update soldToParty field to use soldToPartyBPHead in lbv payload,0,0
+2025-11-25,2025-11-25T12:29:27+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,15db05486302badd2114839b51c938ef05fb2024,docs update,0,0
+2025-11-25,2025-11-25T12:29:07+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,45c89dfd917ffabb8fac7793cda09b3b383eae5f,coverage update,0,0
+2025-11-25,2025-11-25T12:27:19+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7cba672686a95d42452a93e3339ecf7fecd9f56e,fix tests,0,0
+2025-11-25,2025-11-25T12:01:35+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e1e63be39cd65252080fb30d643f433c91354f93,refactor: streamline widget initialization and event handling in App component,0,0
+2025-11-24,2025-11-24T14:35:27+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6154007e1d0ddd8e06122c16db1bae4887e3baea,refactor: conditionally set commission fee schema based on non-zero values,0,0
+2025-11-24,2025-11-24T14:27:41+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8b163888c634ff22a5cf44d929266dfea88c17e0,fix initk registration date,0,0
+2025-11-24,2025-11-24T10:27:44+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,eeda9df48a39c299fd69b7957147ff2d529ff719,docs update,0,0
+2025-11-24,2025-11-24T10:27:26+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,edec123db6900c84f82633a17f4a9d46588fd840,coverage update,0,0
+2025-11-24,2025-11-24T10:25:01+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,73952c1ba91b17aa58d50df45c95528e75cd8c2c,refactor: update commission fee fields to be conditionally disabled based on rateId,0,0
+2025-11-21,2025-11-21T17:55:46+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d3d1ad51f43c6d6da5260c1c090f01b5bbfc3673,add initialKm and registrationDate to vehicle interface; include demo flag in parameters,0,0
+2025-11-21,2025-11-21T17:53:37+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d52f5c32f4648e1aeeff18215d59948f8747da5e,coverage update,0,0
+2025-11-20,2025-11-20T14:59:58+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1bcd4bbcf0292cddcba11b615be4414e84c008ec,coverage update,0,0
+2025-11-20,2025-11-20T14:58:07+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c15cb3dd9634de5539dfcc06a6ea3e0cb2876caa,fix tests,0,0
+2025-11-20,2025-11-20T14:29:42+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3c5d7232500c9a147481502ad95abff7b6271604,restore missed param,0,0
+2025-11-20,2025-11-20T14:26:54+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2904ebe0c4bfdd9db408ddf9af713cf3d06c05bd,Merge branch 'target/dev' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev,0,0
+2025-11-20,2025-11-20T14:24:41+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c95f93c6e6616bf6fe35d78618f35994642e8ba5,remove unused,0,0
+2025-11-20,2025-11-20T13:02:24+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d1d285faa0bbaf03ca3608a462cb33b87645dd68,refactor: streamline quotation ID retrieval logic in listByVehicleApi,0,0
+2025-11-20,2025-11-20T13:00:50+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c7cebe6404978b4e6a9ab694bb0cad1bcc9ed0db,refactor: enhance apiPayload structure to include zzServDesc and isMandatory in widgetSelection (#319),0,0
+2025-11-20,2025-11-20T10:15:36+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e2b926e1c172a95f22b11f4d83a661631184b792,"refactor: update widgetType conditions in ListComponent, SliderContro… (#318)",1,1
+2025-11-19,2025-11-19T09:35:13+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8ec6a91e95b7cd7bdc12a4282acc6f6a5e379340,coverage update,0,0
+2025-11-19,2025-11-19T09:33:05+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1a5e145dcbea4cf3cdae5ffd63e178952ed58905,"Revert ""Refactor mapperResponseWidget to simplify deletion of empty properties in regularPayment""",0,0
+2025-11-18,2025-11-18T18:07:38+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,929b96e937d1becde733f5688c835f0d74b26817,Refactor mapperResponseWidget to simplify deletion of empty properties in regularPayment,0,0
+2025-11-18,2025-11-18T18:04:45+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a1955e290e8c42cba999dfeeb0eaf72dec5beaa2,Add conditional disabling for TextField components based on commission values,0,0
+2025-11-18,2025-11-18T15:23:07+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2b08ef767e9ebc53c036d42e185f07939dbe66a0,coverage update,0,0
+2025-11-18,2025-11-18T15:20:30+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1ea6f8a4343b3d95daaae856ac0ef8197028d2b4,Refactor updateSchema to ensure default schema values are set correctly,0,0
+2025-11-17,2025-11-17T15:32:50+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e3cf926aaefde68000db98ccf768fe11d0f33b58,coverage update,0,0
+2025-11-17,2025-11-17T14:29:22+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,64e5ed11c8eb85cd224be67d6bcd557a6be90f36,coverage update,0,0
+2025-11-17,2025-11-17T14:26:13+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ac16dc9f5c422d2c1e9bde8fca2f4ced7b8a3af1,coverage update,0,0
+2025-11-17,2025-11-17T14:23:49+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a67dce7c07fbede63b1b5b9a72a4b2f089560db8,coverage update,0,0
+2025-11-17,2025-11-17T14:22:46+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8ca548565fe5f2b01a003866acf3779f8d7d698f,Refactor TypeScript configuration for consistency and clarity,0,0
+2025-11-17,2025-11-17T12:01:50+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f1146ae14e49fcbc6614474c9a5d8c7aba3016ed,Update coverage data and enhance test metrics,0,0
+2025-11-17,2025-11-17T12:00:08+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,81047d0e202256adc35722a7a561f812b8316454,Add tests for CompareModal and enhance ServiceControl tests,0,0
+2025-11-13,2025-11-13T17:24:33+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,312f34f929fb80efb3d55939f34c5dbfa25733d1,coverage update,0,0
+2025-11-13,2025-11-13T17:23:18+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,60355a38d1e7dd4aec2553f34fad5478b6a55573,increase coverage,0,0
+2025-11-13,2025-11-13T10:33:14+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d5fe4af6e0f19f448a520848ea12fab515cad8e9,update VITE_VISIBILITY_FEATURES to enable stickyBar and compare options,0,0
+2025-11-13,2025-11-13T10:31:56+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6894561261d22737784579264643f65f1a68eb41,coverage update,0,0
+2025-11-13,2025-11-13T10:31:02+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,373c3c567f083f3a179379ae7f25a8dff2028e03,add unit tests for InputControllers component with preloaded state and mock implementations,0,0
+2025-11-12,2025-11-12T15:02:42+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,29b3a71d0a3798eeeb2de414641de651f9087a6b,coverage update,0,0
+2025-11-12,2025-11-12T14:59:23+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,22f33c219202dea4c02d879f19addb0b1c3e42ea,coverage update,0,0
+2025-11-12,2025-11-12T14:58:09+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,09d16cf9e2e7dde1cd002310487e7c16fdd613ea,coverage update,0,0
+2025-11-12,2025-11-12T14:57:02+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a684f5b0152765f2ca40cd43313d1ead60560c72,coverage update,0,0
+2025-11-12,2025-11-12T14:51:56+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,fb692f978e2ab8946b262d9ca5725cf9121d21f8,docs update,0,0
+2025-11-12,2025-11-12T14:51:41+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,af25dc99883ee5c2b09b1d05ee0f52bbfe692424,coverage update,0,0
+2025-11-12,2025-11-12T14:50:35+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,47d11aca48b744e67ea6f996be77f9b0c73f783a,fix typings,1,1
+2025-11-12,2025-11-12T14:38:51+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,294e0895d252f30d55a7cce0a3223dd1a369f8bb,coverage update,0,0
+2025-11-12,2025-11-12T14:37:46+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e75e55843e286210fe5096bd039b0e2ed42f3161,delete: remove InputControllers test file,0,0
+2025-11-12,2025-11-12T11:05:39+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,929c8cad58fe0bf29b9172dc4066057d0faa0f93,coverage update,0,0
+2025-11-12,2025-11-12T11:03:58+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c287bdfc2266156403f621c3414240fa6d8c0f48,refactor: update schema mock path and enhance timer restoration in tests,0,0
+2025-11-12,2025-11-12T09:34:35+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f0df97ebbbcae97f7c8d28884c0cd49ffc3742bd,fix: update visibility features and conditionally render compare button,0,0
+2025-11-11,2025-11-11T15:15:23+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2f85969aa42c87d1573e58a0a9078b03a23245ee,Merge branch 'target/dev' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev,2,0
+2025-11-11,2025-11-11T12:44:47+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,06f85961eabea35dfeb64cd4b5bd02c5a8c603a4,fix test,0,0
+2025-11-11,2025-11-11T12:39:50+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,dec6aff1a4cdf8ce64a24078e8700cd68a82349e,"feat: move tests for InputControllers and SliderControllers, and enhance validation schemas",0,0
+2025-11-11,2025-11-11T12:23:00+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,687fa926da3c28d938d3c4f2133be80a2a142379,Feature/compare calculations (#314),0,0
+2025-11-11,2025-11-11T12:22:29+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,34d5da90bcb262a6d40ea484928f105c121c7795,Feature/increase test coverage by prompt (#315),0,0
+2025-11-11,2025-11-11T10:41:45+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5fd4d272c66c23fa9bc5999d1c8b5e8556ad5088,coverage update,0,0
+2025-11-11,2025-11-11T10:40:32+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f076d70432afb879cbd06e14f3ea01a57cf3d7ee,fix: streamline regularPayment handling in mapperResponseWidget to remove unnecessary fields,0,0
+2025-11-07,2025-11-07T17:35:42+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,22add9bae72a7efe12a54724b3c85831eaa6bbfc,fix: update translations and enhance SliderControllers to handle no downpayment scenario,0,0
+2025-11-05,2025-11-05T18:20:34+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7f4bdaaaa22a217006203fedfe930e5818fab5ab,coverage update,0,0
+2025-11-05,2025-11-05T18:19:55+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,75814b409ce2864dab81bc755f343b608f48aa60,fix: enhance pre-push script to skip checks for specific branches,0,0
+2025-11-05,2025-11-05T18:11:31+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7c1a1968dd9e96c961c0903263c96ef21b407c64,coverage update,0,0
+2025-11-05,2025-11-05T18:10:10+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f79225dfda1a859ad851700f0cd4e7cded6223a5,fix: update financialCalculator to use regularPayment fields for yfboPrimeCee and malus values,0,0
+2025-11-05,2025-11-05T15:29:36+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6bb2c76c220cea0981b9aa0ca6f875d85904e872,Target/hotfix touch infos fields fr (#313),0,0
+2025-11-04,2025-11-04T16:58:13+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bbab69303470bba63018aa2387a733484517a9a9,coverage update,0,0
+2025-11-04,2025-11-04T16:55:03+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,88c306e7e24d6510aa8ae71bc61b680d01534e49,coverage update,0,0
+2025-11-04,2025-11-04T16:53:54+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bf49cf93182a23595a40cc2c40e0d2b0ef64da8c,docs update,0,0
+2025-11-04,2025-11-04T16:53:36+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,631511b27ebd3720bdd14b2cd79b789854bde62a,coverage update,0,0
+2025-11-04,2025-11-04T16:52:36+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0d560573ec5c5e707e6caaf0c72133256b773093,feat: enhance montlyRateCalculationApi to format numeric fields with fixed decimal places,0,0
+2025-11-04,2025-11-04T12:00:34+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,565982a6a0525c6fca103f2453f941f0338427d6,"feat: add translations for MalusCO2, MalusWeight, and PrimeCEE; refactor InputControllers for cleaner rendering",0,0
+2025-11-04,2025-11-04T11:46:29+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8520bcc5507785995151c28c3dbfd7ef251fdacc,Merge branch 'target/dev' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev,0,0
+2025-11-04,2025-11-04T11:45:48+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8761c04c21b02cbbda7da4b00f333143b5e78a52,feat: dispatch custom event for unavailable widget in listByVehicleApi and update Title component styling,0,0
+2025-11-04,2025-11-04T11:45:44+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f4e6549bb6d21ad5788aceb67c2d33b947e480cd,feature: fields (#311),0,0
+2025-11-04,2025-11-04T10:18:31+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,fdc8709c41af9b364e7fb516553d21d44e06b611,coverage update,0,0
+2025-11-03,2025-11-03T18:07:16+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0b3509d357b49629743d17e773e58e80f023a822,coverage update,0,0
+2025-11-03,2025-11-03T18:06:18+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b586ba23fe74f8fbb0d530282c7c52fc7b79172d,review colors on touch version,0,0
+2025-10-31,2025-10-31T17:57:21+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9038264bab086fc0ccdbe6c91a01da5936519854,"refactor: update color scheme and improve styling for Accordion, DropdownField, ServicesListItem, and Services components for SOL (#310)",0,0
+2025-10-31,2025-10-31T16:54:35+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f587beeb716a76cd61c29bcc84916a3433c729ca,docs update,0,0
+2025-10-31,2025-10-31T16:54:15+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b0bbecc30908e7e18f8f467166f1bd7c878dc4ae,coverage update,0,0
+2025-10-31,2025-10-31T16:52:42+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,954673a0ccf52741e3473dc4bf9fc76d3facab77,feat: add new fields to RegularPayment interface for yfbo and zfmlwg malus handling,0,0
+2025-10-28,2025-10-28T12:48:52+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,39fbfca5f84d8075c00f6a2d2d372b638025c407,docs update,0,0
+2025-10-28,2025-10-28T12:42:16+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d64638842b18253573ca81719a61ce04c6727909,fix: correct typo in zTaxGroup type definition in ServiceSummary interface,0,0
+2025-10-17,2025-10-17T11:05:53+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b4d1ce250c8be5a93f3664a9e479708cb7f567f7,coverage update,0,0
+2025-10-17,2025-10-17T10:50:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4afb12200d7fa0bcabc6aa75ef109f513b9cca77,feat: add unique ID suffix handling and improve service selection logic in financial calculator on retrieve quotation,0,0
+2025-10-16,2025-10-16T11:51:58+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,82a096439495b1bc4b6771451ce91bc2e2b3c118,coverage update,0,0
+2025-10-16,2025-10-16T11:50:14+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,858f18da224f6e30b5d1c5df3ba3d02acf3aa8ba,feat: integrate master agreement info into input validation and schema updates,0,0
+2025-10-16,2025-10-16T11:40:36+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,414a181b6cb1a12c72196c667ae370ed31f7d78b,feat: implement retrieveMaInfo API for master agreement data retrieval,0,0
+2025-10-16,2025-10-16T11:32:43+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1da200730cf86e10cce937457445e5924b97dfb0,feat: enhance service handling and data retrieval in financial calculator components,0,0
+2025-10-15,2025-10-15T11:01:31+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,7298a6715408a634ace66f63812de4ee1c9695be,fix: reorder rendering logic for product name and short description i… (#309),0,0
+2025-10-14,2025-10-14T09:09:28+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9f2ccdc25527acd262c305b8546e0fa0cbf1641f,coverage update,0,0
+2025-10-13,2025-10-13T18:27:49+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,dc414f845fe161761e94c29ed553ee58a5cfb3fc,"feat: update market specifications to include Germany for VAT, thousands, decimals, and currency symbol handling",0,0
+2025-10-13,2025-10-13T18:11:36+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,88267affa46f7e3200ba3e0106de4529ebb9c52d,docs update,0,0
+2025-10-13,2025-10-13T18:11:25+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,adbfa61f6c0b00995f0af173e77d11fd812754e1,coverage update,0,0
+2025-10-13,2025-10-13T18:00:23+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,877acfea4d901581ceac926b384a583bc373db2b,feat: integrate updateSchema for mileage and month validation in InputControllers,0,0
+2025-10-13,2025-10-13T17:26:24+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c31dc3e4d625cd01e880aec96e8865edf6fb760b,feat: update visibility features in environment files and implement visibility checks in components,0,0
+2025-10-13,2025-10-13T15:08:01+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2055d9d7d91503d5b3c85a44e6e73c551571b299,fix: update devLogger to use localStorage for debug mode,0,0
+2025-10-10,2025-10-10T15:50:47+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1e1ff8a363677a489bf2972d3d71e8f80e000bc7,coverage update,0,0
+2025-10-10,2025-10-10T15:49:49+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,769e883df8291d60422522d6b75ff22387b9573d,refactor: move parameter validation logic into item useEffect,0,0
+2025-10-06,2025-10-06T17:56:49+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,fa5d0dea8b98e517414791e0fc1711c23b7a22dd,coverage update,0,0
+2025-10-06,2025-10-06T17:55:25+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,24b8853909a894af233343f6e7919b935337fd41,feat: add categorySelected prop to ServiceListItem and implement sub-service selection logic,1,0
+2025-10-06,2025-10-06T11:19:13+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5a112a9d7126624f7791da8e7e6128a4259c04ac,fix service control selection issue,0,0
+2025-10-03,2025-10-03T09:40:57+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4316bafc05e00754f17f790896dcf15d628595ea,coverage update,0,0
+2025-10-03,2025-10-03T09:40:15+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6ffaecacfb50f784a01e013ad3957bc51c590bc1,fix test,0,0
+2025-10-03,2025-10-03T09:18:28+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d508a0020c464f324d2bc150aad9f51f4404572b,fix missed loader and added wltpCo2Emissions in playground,0,0
+2025-10-02,2025-10-02T17:41:36+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7083b5f2f3f75d78f60c665c42a21810003259ce,refactor: adjust service addition logic and improve state management in ServicesListItem component,0,0
+2025-10-02,2025-10-02T11:22:47+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,78b48dabfd1d8dc27d73a40b1ee9ed4aeebc7387,refactor: update conditional rendering for selectable items in ListComponent,0,0
+2025-10-02,2025-10-02T11:17:35+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2404da897fff9ea4b7e7f6645e6ac5ad6cea6de5,coverage update,0,0
+2025-10-02,2025-10-02T11:14:44+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b43f41f117c73156490308d544d06f101c5f4e3b,refactor: improve short description rendering in MaCardSelector component,0,0
+2025-10-02,2025-10-02T10:58:53+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,dd3864734dd4a2fb1acf80ee08d518b90c6cd3f0,refactor: streamline service ID mapping in financial calculator and update Accordion behavior,0,0
+2025-10-02,2025-10-02T10:25:28+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e5c11c0a8e3a624b5b5243542137516b28173b7b,refactor: add Wrapper styled component for financial calculator legal note,0,0
+2025-10-02,2025-10-02T10:23:56+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1508de15d272c7f40a9d1775974709f4360078c8,reshape a tag styles,0,0
+2025-09-30,2025-09-30T12:03:31+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,cb89661d8de8bd6bed9a3c1227d5a14343cccf5e,add bbCode parsing for service descriptions and tooltips (#307),0,0
+2025-09-30,2025-09-30T12:03:19+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,992d32aaf312e089b554a1150a9c6ec6a830fc03,remove unused cmsData mapping in listByVehicleApi (#306),1,0
+2025-09-29,2025-09-29T11:16:58+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f47f2ad9d7224742787759262f25182375c783e3,coverage update,0,0
+2025-09-29,2025-09-29T11:12:26+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e3223ff4c6b7d651537d9bb40eb472723cf1afc8,add market specs,1,0
+2025-09-26,2025-09-26T09:56:23+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,15bb3353089b8b4a59f569a22031bbf8a635d8ab,coverage update,0,0
+2025-09-26,2025-09-26T09:55:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b29d1be27f706f7b7988df26ddee5fdcd14c1a6e,bindedTo fix 3,0,0
+2025-09-25,2025-09-25T17:38:34+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,00da6fac1032ebed2c12e534805aceded3d83737,split allservices arrays,0,0
+2025-09-24,2025-09-24T18:09:43+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,80c5f40b34aacdbd971dc51de77c527f5b413ac9,docs update,0,0
+2025-09-24,2025-09-24T18:09:25+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,32a358bda829331cd3ce904ddf18712f4bd67172,coverage update,0,0
+2025-09-24,2025-09-24T18:08:37+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,cf61271904d70091a75af7af04e17f569b89fb8d,refactor: remap services with IDs in retrieveQuotationIdData and retrieveMaInfo,0,0
+2025-09-24,2025-09-24T15:12:07+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,978506632e0b61016eb494720fefb1148938f015,fix build,0,0
+2025-09-24,2025-09-24T14:59:16+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9d188d4ae91e5408c83a4ed89e5731abacb1f3bc,feat: add zzJatoPowerTr and zzVehicleType fields to financial calcula… (#305),0,0
+2025-09-24,2025-09-24T14:46:00+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,27b9c6bda8cc4d23cbec9909a4df5ab4552dfd03,coverage update,0,0
+2025-09-24,2025-09-24T14:37:11+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4bde64af59672bb91331c4666f2f294a894fb099,docs update,0,0
+2025-09-24,2025-09-24T14:36:56+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,275d72049928dea49a8521abed2fc10d6b39f1d1,coverage update,0,0
+2025-09-24,2025-09-24T14:35:53+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,64638c2e16304e6344fc752d6e6d91dc84fef515,fix test,0,0
+2025-09-24,2025-09-24T14:30:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7fa3a0164095cb6179019d6591d5f1ec0007d092,fix bindedTo on subservices,0,0
+2025-09-22,2025-09-22T17:27:06+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,fe459af20d79067d33463662ad189e0293ec980d,upgrade yarn packages,0,0
+2025-09-22,2025-09-22T16:17:30+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f1e1758d1272618cc1ade1523ab2802312121c07,filter isvisible in otherservices,0,0
+2025-09-22,2025-09-22T15:23:45+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,2d258e8a1ba1cf87c044c83ca2855b9e075e913e,fix: update translation for 'Fees' to improve clarity (#304),0,0
+2025-09-18,2025-09-18T14:45:23+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,97614c69c559a1f2b7fd5779271f1896d1d89f2c,fix: update labels in InputControllers and Title component to include asterisks for clarity on currency and VAT indications,0,0
+2025-09-18,2025-09-18T14:47:29+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,5deee6703c35947f34f6424e924d0e0c0dbebbb4,refactor: restructure Title component layout for improved readability; update price and VAT display logic (#303),0,0
+2025-09-17,2025-09-17T16:13:25+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3178a2f80e3ace9c12bde4fe62b8ea99645425c6,refactor: enhance PromoCode component to set promo code from parametersItems; fix value handling in ServiceControl and ServicesListItem; update Title component to manage saved quotation parameters (fix tyres),0,0
+2025-09-17,2025-09-17T14:45:21+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9c8760327cfa7681cabb4035b844b16db11473ad,update translation for 'Save' to improve clarity (#302),0,0
+2025-09-16,2025-09-16T18:16:55+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d3150b424780886295a3461c95666b17ef04a739,coverage update,0,0
+2025-09-16,2025-09-16T18:11:42+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e8114ebbfb925d0807ee71f1fc79c0769129ad76,fix mandary service category selection,0,0
+2025-09-16,2025-09-16T12:31:28+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4852a7b4164b8cab3cc945c394c65c5362a47ebc,update yarn,0,0
+2025-09-16,2025-09-16T12:26:05+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,825f69a591c1e4961b97e905084ae4914ffc15f7,fix bindedTo,0,0
+2025-09-16,2025-09-16T09:55:25+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c766e8755810b09b53f2d086fe4053449ea7ed2f,enanchement for duplicated services,0,0
+2025-09-15,2025-09-15T16:59:29+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,09ba7bdf5b4f0cb331b6afb08110cbf2f83bfc2d,Fix Title component: format price correctly and update VAT label display (#301),0,0
+2025-09-15,2025-09-15T16:58:05+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,a46dba49e04b14b3dd977f838615f41d3524bc54,Add German to supported languages in i18n configuration (#300),0,0
+2025-09-15,2025-09-15T16:26:55+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ce399fd7a15bf141213aa4167959f76aece6fd2b,coverage update,0,0
+2025-09-15,2025-09-15T16:25:11+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,809705bb0a58d031f2fcf171011acb4746bb36e7,fix save button pt. 2,0,1
+2025-09-11,2025-09-11T16:32:29+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5bf987b996aebd8df961c1a9b14f20f1334a58b5,Refactor MaCardSelector: update return statement for conditional rendering and adjust border styles in RadioButtonBox,0,0
+2025-09-11,2025-09-11T15:32:31+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6ac7726f87e0fc31f4bf0bc4e07faefcaebf4d25,docs update,1,0
+2025-09-11,2025-09-11T15:32:17+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,94e2ccca5d34a77c03aae7e4e5dd5429f9ac7708,coverage update,0,0
+2025-09-11,2025-09-11T15:31:41+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,aac582689966267ab55d0b6c8209021e8ad1e009,Merge branch 'target/cert' into target/dev,0,0
+2025-09-11,2025-09-11T15:25:04+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c42fa3e33b380056167a8a5aa512b6c0bb0e4410,Feature/accessory remapping (#297),0,0
+2025-09-11,2025-09-11T12:42:20+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c4059cf63f2b3ed7cb4cb44dd557f832b4089405,Enhance service binding logic: add preliminary check for existing cat… (#296),0,0
+2025-09-11,2025-09-11T12:38:42+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f121533c03c2b3d64c28b9f08ef2846c7afa40d8,Update Downpayment label to include currency symbol based on country … (#294),0,0
+2025-09-11,2025-09-11T12:38:17+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,a58d9e96f2d4e1cac928f16ad53f31a6dafb196c,Add German translations for various terms and messages in i18nResources (#295),0,0
+2025-09-10,2025-09-10T10:18:56+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0e9bd43ff28f620acbd4d0fc8cf3704b163d6643,Target/dev (#293),0,0
+2025-09-09,2025-09-09T18:03:10+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,06216674b0e1d5de3ceda6eaeb92e8b8c59a3159,Target/feature services binded to (#292),0,0
+2025-09-09,2025-09-09T17:45:45+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c8bcfaf696dbc15f98d30e9805c432aa1395d505,Enhance Title component: add masterAgreementOfQuotationId to state and optimize compliance checks,0,0
+2025-09-05,2025-09-05T16:01:01+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2bbd3da9428490f80de58087584a16ef06970421,Merge branch 'target/dev' into target/cert,1,0
+2025-09-05,2025-09-05T15:55:06+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b068039ec1f15111d2b9714036f25842729f2852,style fixes on legal note link,1,0
+2025-09-05,2025-09-05T15:27:42+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,85876a8be6b5e853f0e6eb3328ad60d956f302b2,fix card selction serviceControls and disabled select when service is not selected,0,0
+2025-09-04,2025-09-04T15:59:45+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8d2c32df5fbeed6102f5b2c6fd3c88bc7e7c79a0,Merge branch 'target/dev' into target/cert,0,0
+2025-09-04,2025-09-04T15:55:31+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4d6f57d4f173d1ee1df04e89156b871197212215,coverage update,0,0
+2025-09-04,2025-09-04T15:52:37+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,51783877d1a36402a6e0b20c9499b2d7504ec0e4,disabled on missed downpayment,0,0
+2025-09-03,2025-09-03T11:02:33+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c06080ce1e1b6ea3bcbe161fcaa1cd66e617bac7,InterfaceError,0,0
+2025-09-03,2025-09-03T10:42:04+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,34b9077081360639838082653a78d089a93f7916,conditionally render Divider based on widgetType,0,0
+2025-09-02,2025-09-02T10:17:47+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,dbd46e69f504645d0946a5cd030a1fb89455abc4,Merge branch 'target/dev' into target/cert,1,0
+2025-09-02,2025-09-02T10:16:40+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0385ceb7242fa38b6b30fa56340a46c24b02b2f6,coverage update,0,0
+2025-09-02,2025-09-02T10:15:22+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,712464bad1176b6ad5b413f4fdb47cb525158dbb,max downpayment and add DE salesOrg,1,0
+2025-09-01,2025-09-01T11:39:26+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,86ea4a78a47283a5ccb589fd3be1f38addd11859,Merge branch 'target/dev' into target/cert,0,0
+2025-09-01,2025-09-01T10:39:15+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a106c726c411b1195967c73d755b5c3b60c91367,coverage update,0,0
+2025-09-01,2025-09-01T10:38:11+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,76a5860e6aa6977148a5dca4b8ccf1bc55d81c7d,keep state zi24,0,0
+2025-08-28,2025-08-28T10:36:34+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,adef718d0550a5d3f8398df6bc8f2305ecec65d6,Merge branch 'target/dev' into target/cert,1,0
+2025-08-28,2025-08-28T10:07:53+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,a316379ad4783869d9735bf6945608a48033d433,Target/fix error validation promocode (#291),1,0
+2025-08-27,2025-08-27T14:51:10+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,64f2fd90aeb46633a4913fe4ef71e65e4d9c6368,Merge branch 'target/dev' into target/cert,0,0
+2025-08-27,2025-08-27T14:47:36+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b4a38c6062160a3ba5102a8b13f360ac51a7afb0,coverage update,0,0
+2025-08-27,2025-08-27T14:45:50+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5dc40438d6974e82e563bba649193391c1232bbc,add error management lbv and mainfo,0,0
+2025-08-26,2025-08-26T15:47:39+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,476e80f8babc2f341a1bd23681d8a26bb1f5c2a6,Merge branch 'target/dev' into target/cert,0,0
+2025-08-26,2025-08-26T15:44:01+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8564e28087f52d5a0e50ae049de97413e4df275e,format,0,0
+2025-08-26,2025-08-26T15:41:42+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,48b42e5219f9782895c80eb36c0b2b55549368c6,fix inital annualmiliage,0,0
+2025-08-26,2025-08-26T11:11:37+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,148b7b88dd1cef7796076fdd283940e02ee2816e,Merge branch 'target/cert' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/cert,0,0
+2025-08-26,2025-08-26T11:11:26+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,789dd4b88607999fc72092b03bf06111679a5862,Merge branch 'target/dev' into target/cert,0,0
+2025-08-26,2025-08-26T11:09:55+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8ae183846ed6272ad1751b6df9075bc3ce8f3e6b,coverage update,0,0
+2025-08-26,2025-08-26T11:08:35+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7bba4d0f0a595d30e0c46b085f7da6ae33c9a3bd,Merge branch 'target/dev' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev,0,0
+2025-08-26,2025-08-26T11:07:09+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,37eb9ae98c1ab1959ce938fc422ee371f06e8704,fix initialization zi24,0,0
+2025-08-25,2025-08-25T17:03:47+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,d8aa27549748ccc304c8d741cf1ad4a2a79a525b,Target/dev (#290),1,0
+2025-08-25,2025-08-25T17:03:22+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,8b0a10af816d9cc107c77a3c6e535e181d09ccf1,target/feature margin card wrapper (#289),1,0
+2025-08-25,2025-08-25T15:58:42+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0b1c81fc841a4cdd23cca561585222d5231d3933,target/implementaio API CMS (#287) (#288),0,0
+2025-08-25,2025-08-25T15:58:24+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,fed0e087faba7cfd98f71750c8f2b12bbfa8ea87,target/implementaio API CMS (#287),0,0
+2025-08-22,2025-08-22T10:40:19+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7370be128486859c2a3b5e94f19b34efd51354fc,Merge branch 'target/dev' into target/cert,0,0
+2025-08-22,2025-08-22T10:37:29+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,83de6ae5327bcb096cafead3db01e16cbbf47cd3,maintenance lbv,0,0
+2025-08-21,2025-08-21T17:59:16+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f5515e86178c7e3fccccdb9d9a18de9cdc106089,Merge branch 'target/cert' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/cert,0,0
+2025-08-21,2025-08-21T17:57:44+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,11ff375b26bde35908b9037c10e19ef634ca8d01,Merge branch 'target/dev' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev,2,0
+2025-08-21,2025-08-21T17:56:35+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1c37afe17172ba79c1c5431d910c799ff11ffbf9,switch to Lato font,0,0
+2025-08-21,2025-08-21T17:40:08+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,8d1ba0154e402330d27c481411d7d44c56a45a0b,Target/dev (#286),0,0
+2025-08-21,2025-08-21T17:39:26+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,bec28f0d6966722cb59eda6fb547be4945f22748,Target/feature/select multi selection (#281),2,0
+2025-08-21,2025-08-21T16:44:17+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e78fb3e4df2f3cb3e064cca4a8b7871d38bab4be,docs update,0,0
+2025-08-21,2025-08-21T16:43:17+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,72ba1261e827c78168b76b6ac534a539fb872f08,financProduct,2,0
+2025-08-21,2025-08-21T16:36:30+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,27b1aaed83ad114dfc102379e990285a345c4503,coverage update,0,0
+2025-08-21,2025-08-21T16:34:35+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9b9002409e829d895fd81b952b8788663d4372b4,ECGLOB-3644,0,0
+2025-08-21,2025-08-21T15:59:50+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,79ac555cb46e13702c409a6b57a9076c59e28904,ECGLOB-3680,0,0
+2025-08-21,2025-08-21T15:13:12+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,b4e8f49e6dfa16922198bba9b198cb5050998480,Target/dev (#285),0,0
+2025-08-21,2025-08-21T15:12:06+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,66246ad37ce0d2b048bd2f9aa131f9973ba98d7f,Merge branch 'target/cert' into target/dev,0,0
+2025-08-21,2025-08-21T10:52:47+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,d23202c3cc1da37a8f9fe5c83de0612d1421f313,Target/stycky bar improvement (#284),0,0
+2025-08-20,2025-08-20T15:16:49+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ab87c395afcc9a01ae71ceab419b20a62fac035c,target/added carteGrise and registrationRegion to montlyRateCalculation (#279) (#280),0,0
+2025-08-20,2025-08-20T15:15:54+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,594659947a9b15592e5bc9d5e6b0f7699558be67,target/added carteGrise and registrationRegion to montlyRateCalculation (#279),0,0
+2025-08-01,2025-08-01T19:33:43+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,439fbd034647646068cbd9311a720e32f304a069,docs update,0,13
+2025-08-01,2025-08-01T19:33:28+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,dfa250018e13b34c33a60cefb52fe7821aefaa63,coverage update,0,0
+2025-08-01,2025-08-01T19:32:31+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d51aa9571d87d86d09f671717e716b931ec8c91c,remove old management,0,0
+2025-08-01,2025-08-01T19:30:24+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,cea80575f4043e5ed9abb42140cb78a530c70f8f,coverage update,0,0
+2025-08-01,2025-08-01T19:29:31+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7648e8c5b5584d4f08eeb6089780cb60e4291a67,fix prod issue,0,0
+2025-08-01,2025-08-01T19:23:10+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b7124f284340fff08b16b1ccb438c11e201ce303,coverage update,0,0
+2025-08-01,2025-08-01T19:22:13+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b330b1e6aee5f9ec29b8b010ad1f8a5deff1913d,remove flag to enable devtools,0,1
+2025-08-01,2025-08-01T19:18:00+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d9e708338f19ab819f71df3ae222a0013b434827,Merge branch 'target/stage' into target/prod,0,0
+2025-08-01,2025-08-01T19:17:45+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7ce192791467a012af99d05d90125ab4c8a7ca3b,Merge branch 'target/cert' into target/stage,0,0
+2025-08-01,2025-08-01T19:17:11+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2ac7626ff6e5b758f35707ddaf26fd7a08e26ac5,Merge branch 'target/dev' into target/cert,0,0
+2025-08-01,2025-08-01T19:15:22+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b05e6361701dba890789286060588a6ae405dbb7,enable devtool prod,0,0
+2025-07-25,2025-07-25T18:58:04+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a5e1d60a4cca6ae11089ef7be83b2d954ea815fe,Merge branch 'target/stage' into target/prod,0,0
+2025-07-25,2025-07-25T18:57:29+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7d709cdb8aa04adb665e4a49361cb1954d58e599,Merge branch 'target/cert' into target/stage,0,0
+2025-07-25,2025-07-25T18:56:40+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2340a23bfb851a60fc60600be66195e11d412b1a,Merge branch 'target/dev' into target/cert,0,0
+2025-07-25,2025-07-25T18:55:54+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a12bb9854ad4c212b9cf1688d24d0dffbe78582c,refactor: simplify max downpayment calculation in InputControllers and SliderControllers,0,0
+2025-07-25,2025-07-25T18:44:14+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0f977f93ea4e006b4ad57bab8a44f249d9111821,refactor: streamline rendering of optional and recommended services in Services component,0,0
+2025-07-25,2025-07-25T18:32:43+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,318c62bb98d90a8949a9a952c62c70f34675f588,Merge branch 'target/stage' into target/prod,0,0
+2025-07-25,2025-07-25T18:32:18+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,aa5cdc8511f461dd667a56af5e0e0a99311b18ee,Merge branch 'target/cert' into target/stage,0,0
+2025-07-25,2025-07-25T18:31:56+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,58f00a89955a5de5fde5544ae9890f4f8057b09a,Merge branch 'target/dev' into target/cert,0,0
+2025-07-25,2025-07-25T18:31:10+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7f5e887ab59563c7888a2362cd3fa3d8fc3d4b81,update error message for master agreement and enhance quotation ID check in SliderControllers,0,0
+2025-07-25,2025-07-25T14:29:35+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e663c62499b19276bc527c164e22629f11857f33,Merge branch 'target/stage' into target/prod,0,0
+2025-07-25,2025-07-25T14:29:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0cfd3e2f85bf737985b91c060bd8979449d5a83b,Merge branch 'target/cert' into target/stage,0,0
+2025-07-25,2025-07-25T14:27:43+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4e897f1cc55c5239cfc128683c1fb40b51d6ecc1,Merge branch 'target/dev' into target/cert,0,0
+2025-07-25,2025-07-25T11:36:33+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,efedafd008ae5304b5335a04c1b3c3c4799e507d,update envs,0,0
+2025-07-25,2025-07-25T10:32:55+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e371bd70c9007a938756998a314251f14141b409,Merge branch 'target/stage' into target/prod,0,0
+2025-07-25,2025-07-25T10:30:29+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e0dd3913492967ce4cddbdc763c041649752362f,Merge branch 'target/cert' into target/stage,0,0
+2025-07-25,2025-07-25T10:30:04+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d613dc5e5ac54fa265fa4f1c7dc33553d48f7e25,Merge branch 'target/dev' into target/cert,0,0
+2025-07-25,2025-07-25T10:19:45+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,42537f8dc520f90412f8d9d00d320f1fa14ec996,docs update,0,0
+2025-07-25,2025-07-25T10:19:32+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7714af833dbb3d420796d418702b4792d3b8f394,coverage update,0,0
+2025-07-25,2025-07-25T10:17:00+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0820baf2b3c2d8e0f2baf98c4b5f9d3725ed5950,zi24ExtraDealerDiscPer zi24ExtraDealerDiscVal,0,0
+2025-07-25,2025-07-25T10:10:01+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b68ad2d3c6948fda9bdc3ebc8a07e10f110a1b53,fix downpayment,0,0
+2025-07-24,2025-07-24T18:03:25+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0e2ba09dcb172d3225fcfc144a7a606a85a64daf,Merge branch 'target/stage' into target/prod,1,0
+2025-07-24,2025-07-24T18:02:25+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5fec4219b69586f7a614d2a71de00c56e9c02813,Merge branch 'target/cert' into target/stage,1,0
+2025-07-24,2025-07-24T18:01:51+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8973d5e940405c9a6daaafe2a19aae4a168e517c,Merge branch 'target/dev' into target/cert,1,0
+2025-07-24,2025-07-24T14:34:46+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e6681d82e45157b7ba4bc058bfd441b447a50542,coverage update,0,0
+2025-07-24,2025-07-24T14:33:40+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f83b6ab3323b57b0d9035ffe440fc250787565d1,residual value,0,0
+2025-07-24,2025-07-24T12:45:00+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,253f313f64c077768c56596a556a90a8a327534a,coverage update,0,0
+2025-07-24,2025-07-24T12:43:25+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4910ea08e11cb41a0ceada0f18873f104f984871,refactor: remove unused dependencies and update validation schema,0,0
+2025-07-24,2025-07-24T10:47:10+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,164f35bd440437a94fa4203d2f612af2f2a74490,docs update,0,0
+2025-07-24,2025-07-24T09:37:52+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,32ad7682676bf41c05fb81e4c4b7102331edd515,fix renaming,0,0
+2025-07-23,2025-07-23T18:11:58+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3021e3640a9fc3482827b4dbffe3753e60ca7714,coverage update,0,0
+2025-07-23,2025-07-23T18:10:24+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bc131de4ba4aeacc829f51bdecdbf76516767f6f,fix renaming and validity date,0,0
+2025-07-23,2025-07-23T17:51:30+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8aa5c678113e8c4a5aee70588c0b4bb9261ac7b9,docs update,0,0
+2025-07-23,2025-07-23T17:51:14+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,44f126e775b0c19e648cb6834137b859942a77b2,coverage update,0,0
+2025-07-23,2025-07-23T17:49:57+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7e5b1e68db298ce6ed083f1ed2dea0236876aed5,fix test,0,0
+2025-07-23,2025-07-23T17:46:22+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5f7cc48604aa14755a9571c22c84655fc2bd8ac0,remove test,0,0
+2025-07-23,2025-07-23T17:41:07+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b79d8bd2fe253b0af24935729aaab8d8f1c95b31,fix build,0,1
+2025-07-23,2025-07-23T17:40:04+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f3666a89f84d9b0e444efc9979abce0d0d01dfb8,error handler and maintenace mode,0,0
+2025-07-23,2025-07-23T15:58:40+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,87b21a0957e99c998193af274726d4b32b914a32,fix test,0,0
+2025-07-23,2025-07-23T15:33:50+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,36b134a3d3abb1a4df4523ec3f27e86fd4ac7403,coverage update,0,0
+2025-07-23,2025-07-23T15:31:19+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ff6092e255f0f3ac9a64be4dfb6e073013fa1d1a,Enhance financial calculator with master agreement handling and response mapping improvements,1,0
+2025-07-23,2025-07-23T14:38:16+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,82879d288d0e6ee45ba17dc85e0e8395a89d8d2b,fix test,0,0
+2025-07-23,2025-07-23T14:33:57+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,281fe0738e72dd2c097dcc99511948a457b1ac68,Enhance logging and VAT calculations,0,0
+2025-07-23,2025-07-23T11:11:27+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ae86c9e1e48569037503cfb24c232d336883aee0,ECGLOB-3602,1,0
+2025-07-21,2025-07-21T18:27:08+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f39aaac7c4eda418ad00f4c320bed57f957de97e,fix post build,0,0
+2025-07-21,2025-07-21T18:26:21+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6f0a545ba26ed236052059c62b627b6f7bdbf270,fix build,0,0
+2025-07-21,2025-07-21T13:51:15+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e1a1e34a65fa93ec077d31fbb28abecbd2085023,Merge branch 'target/stage' into target/prod,0,0
+2025-07-21,2025-07-21T13:50:52+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c5277bccc197eb2872e1de3d32bad9ecead7c990,Merge branch 'target/cert' into target/stage,0,0
+2025-07-21,2025-07-21T13:50:25+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2d5da02258fba320c0e789bf508854f7a0e8c577,Merge branch 'target/dev' into target/cert,0,0
+2025-07-21,2025-07-21T13:49:49+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0f6ad721613ca0aa1e94118104895b4cb87b77cf,coverage update,0,0
+2025-07-21,2025-07-21T13:49:19+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1fd4069d736eda3bceed717c202ce8065c4a9e8c,coverage,0,0
+2025-07-18,2025-07-18T17:20:53+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7a5f9ad74bfe0fa0761a6e6d236fbb05878433a6,lock,0,0
+2025-07-18,2025-07-18T17:18:07+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,17d25d6702f86a6f085693a0ad8254e300fc6a16,Merge branch 'target/stage' into target/prod,287,6
+2025-07-18,2025-07-18T17:08:54+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,981d727b744cb382673e7ee85b816696ad018cb1,Target/cert (#278),12,3
+2025-07-18,2025-07-18T17:08:29+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,68a3bb9e114e80eae29998d3a26563da30b248eb,Target/dev (#277),0,0
+2025-07-15,2025-07-15T15:00:31+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7750f8766a7957e284f0e8c9affdd1fa5926565a,fix letterspacing,0,0
+2025-07-15,2025-07-15T12:43:23+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,871818fc3984a42e59d75a60097ae9a38f266046,Target/dev (#276),1,0
+2025-07-15,2025-07-15T12:42:29+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f0ce9be1ab17adaa1c2bddd85718b186ca1e6974,coverage update,0,0
+2025-07-15,2025-07-15T12:41:02+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,852006e6a0e195dbdce7175b7c65fb97e6d60e0d,remove test dropdown,0,0
+2025-07-15,2025-07-15T12:39:19+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,20f7121924f10fdac74437f68a14966cdc9b6dc0,fix: add value prop to DropdownField tests for better rendering validation,0,0
+2025-07-15,2025-07-15T12:31:29+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a7e85487c6f2f677a0d3272b2efc7236fd64b385,update retrieveMaInfo to calculate cash deposit with optional VAT,0,0
+2025-07-15,2025-07-15T10:21:06+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8fa0fa6e2561cefbbf5d1f5d84bb1c81b77c253a,increase coverage,0,0
+2025-07-14,2025-07-14T12:54:03+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,278d9a163ceb5e1a4eb5bac09cf163af926d66aa,remove unused React import from Button styles,0,1
+2025-07-14,2025-07-14T12:39:25+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,095f08fe779eb78ebfd3afb5c266157689f32fc2,increase code coverage,2,0
+2025-07-11,2025-07-11T16:40:42+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5c2f9750c8756f7e8ac5e983362e8fc1cf905794,update retrieveMaInfo to calculate cash deposit with VAT based on widgetType,0,0
+2025-07-11,2025-07-11T15:38:06+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,098a50b9db3c1a60a3a8d96c67b15e2bcb09e9d4,docs update,0,0
+2025-07-11,2025-07-11T15:37:53+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2ae6c748efeac33f045b2149cc3ac77b02e27c8f,coverage update,0,0
+2025-07-11,2025-07-11T15:37:01+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3b7006f20a8d4a1934987ca2a22f1db6fd088a84,"bolloMax,  bolloMin,  bolloType,",0,0
+2025-07-11,2025-07-11T14:32:20+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,00d34d975c5f300d44ccba406a1455f5c4f7d0c8,update montlyRateCalculationApi to include widgetType check for form validation,0,0
+2025-07-11,2025-07-11T12:15:39+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,cc1bc4c159afaaf87722e068c143f223cdee4a12,coverage update,0,0
+2025-07-11,2025-07-11T12:04:28+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c4a131ed41899f638e03b86ea3975898d050de22,update InputControllers to enable zi24ExtraDealerDiscVal and add checkValueCommissionAllFees function,0,0
+2025-07-11,2025-07-11T10:53:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6829d47eb7911a7025714e82c534f1e02d2e002d,coverage update,0,0
+2025-07-11,2025-07-11T10:52:20+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f440d64f59ec3ed088a1a839b2f0b5794c6cc2fb,fix zi24 min max,0,0
+2025-07-10,2025-07-10T17:59:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,da0e8320623b57426a2563bbbb4e8e329b9a75d3,fix lock,0,0
+2025-07-10,2025-07-10T17:57:50+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f03f3f7d9dd3cff6c254ab103094f2ebee761d53,Merge branch 'target/cert' into target/dev,0,0
+2025-07-10,2025-07-10T17:51:58+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1fe55d3ba88ecf03c1420ca1cb8bd073df8f88ed,fix build pipeline,0,0
+2025-07-10,2025-07-10T11:11:08+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,d5968f2806863ce16e1248b786b0707d1eb661cc,Target/dev (#274),4,0
+2025-07-10,2025-07-10T11:10:33+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b1200d8e94d8ce859424ff317a4cc8394ee6d41a,docs update,0,0
+2025-07-10,2025-07-10T11:09:44+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,97c6422ddb50da19d66faee60d1e98e9017f6298,Merge branch 'target/cert' into target/dev,0,0
+2025-07-10,2025-07-10T10:27:42+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,819085f16bc08dcd81dc46f9428d174dda8dbc33,coverage update,0,0
+2025-07-10,2025-07-10T10:26:41+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a35a80a18223c200f01cc2eff9697e754a65bc3d,fix: refactor selectedLabels calculation in DropdownField for clarity,0,0
+2025-07-09,2025-07-09T17:00:59+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a362ba115a724f956dcbd534b2afd4854f21de70,coverage update,0,0
+2025-07-09,2025-07-09T16:46:33+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2dda8dcc7892c483506aa5af2109a6fc303139e6,fix: update onChange call to include selectedOption in ServiceListItem,0,0
+2025-07-09,2025-07-09T16:26:15+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,93eda518a426d79c5aac80e82c786e872129f8fa,fix: update dependency array in useCallback for selectedOption,0,0
+2025-07-09,2025-07-09T15:39:11+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,31f9409cbba0ebc9944dd201dd75f68da85c15d1,coverage update,0,0
+2025-07-09,2025-07-09T15:38:00+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,265ab9c9b08aa91f3c6070938c7b538fe1acbcb5,add isMulti prop to DropdownField in ServiceControl component,1,0
+2025-07-09,2025-07-09T15:36:49+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7b3144b815e5beaa86860ffb0064783a963b10f7,update search.exclude settings in VSCode configuration,0,0
+2025-07-09,2025-07-09T15:22:34+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a29cc94461369078798bc557f868c62360bae35d,coverage update,0,0
+2025-07-09,2025-07-09T15:21:58+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a01f3a448e7f0a07491936a2f5b1d3bd8c44db45,fix build,0,0
+2025-07-09,2025-07-09T15:21:24+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bd3a8fa9bcef6b3abbadfbbbb9aa2a8f50d0892b,fix build,0,0
+2025-07-09,2025-07-09T15:14:16+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d2a170e8cb593992f5120216bee73c59596e6b88,coverage update,0,0
+2025-07-09,2025-07-09T15:13:51+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7c05ed544cc65970f83c44d34703df337d69e164,Merge branch 'target/dev' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev,0,0
+2025-07-09,2025-07-09T15:12:46+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,71baa75c71d1396b1a23e286116a429d0a102416,target/feature/multi-selection-select and handleClickOutside (#273),0,0
+2025-07-09,2025-07-09T15:05:58+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,472315420157480d5fb78ab93f6cafb0854817ac,feat: enhance financial calculations by adding new fields for dealer discounts,0,0
+2025-07-09,2025-07-09T09:46:38+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7c4db2d092016626f0b32191a4abf15a873a2434,update husky,1,0
+2025-07-09,2025-07-09T09:45:38+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4333f6056b3451b9643e17d711b0a2e17f2a8827,update husky conf,0,0
+2025-07-09,2025-07-09T09:33:28+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1dc24058d7663d60b62531d343de4f055ff294bf,coverage update,0,0
+2025-07-09,2025-07-09T09:32:58+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,497eb1a1d8b25ccca17308c535385cd8225b849e,update deps and docs,0,0
+2025-07-08,2025-07-08T11:31:52+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,84b3496707725b56e74068a0b82737837f4a5139,refactor: update price calculation and format display in Unselected component,0,0
+2025-07-07,2025-07-07T17:38:49+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,117b98f674f885cdd9a64ad3db45a6c08eddaccf,Target/dev (#272),1,0
+2025-07-07,2025-07-07T16:41:51+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,815d644324061c3c041f8bbae2357ab3f1070aa3,docs update,0,1
+2025-07-07,2025-07-07T16:41:33+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,fd621880514f1425a4bafe125cc52cea7f6c8ca8,coverage update,1,0
+2025-07-07,2025-07-07T16:06:48+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c477795ac5953dc6434f1766bba1c5061ace34c5,add perc val,1,0
+2025-07-07,2025-07-07T15:51:22+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,dda573931ad05f1f24744f3f150712130591b02c,mandatory fields,0,0
+2025-07-07,2025-07-07T15:50:50+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,79f836959f0e84e1404b8ef40aba2e08005f16dd,legal notes fix,0,0
+2025-07-04,2025-07-04T17:01:28+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,aff19242b9462a474e5f86a5420a77743129f280,Target/dev (#271),0,0
+2025-07-04,2025-07-04T17:00:31+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e06d75aa938e4c1bfb38272b82f9939f46b9046f,Merge branch 'target/cert' into target/dev,0,0
+2025-07-04,2025-07-04T16:32:51+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a4c8f878819f96992feb132d7134da8c5715f2f3,fix bug on retrieve quotation,0,0
+2025-07-04,2025-07-04T13:03:39+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,03a73477ff4bf6db6d1a384f039ff96d5b1ae9ff,Target/dev (#270),5,3
+2025-07-04,2025-07-04T10:20:35+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9d8670f2b1cdc69d2d99d6ed617cc139429a9abc,update coverage,0,0
+2025-07-04,2025-07-04T10:19:42+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b0d8b2e36df43d87bf389f3538a470b252736ed8,remove coverage from versioning,4,3
+2025-07-04,2025-07-04T10:07:39+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4e2d8867602f8c5d38741253bd6c11825a9d4e7b,docs update,0,0
+2025-07-04,2025-07-04T10:06:15+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1ffe552872399dace912aa86be49790bb591185e,improve unit test,0,0
+2025-07-03,2025-07-03T16:16:10+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5df9a3b6a089bb48a8e430bef9dda0d2797cd22e,promocode fix,0,0
+2025-07-03,2025-07-03T11:57:13+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a0d7d39c120b6a8dc3f66662635bd765efda17e4,solve issue on description,0,0
+2025-07-03,2025-07-03T11:07:28+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e9a08e745aaf3d42edb1912fe1e5d99184429202,fix calculation on quoation scenario,0,0
+2025-07-02,2025-07-02T14:57:31+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,dc7d6a978a2bac8155133b9b41df9a1c5b5a8004,docs update,0,0
+2025-07-02,2025-07-02T14:55:16+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8e908c03f189317bc6f56383b8fd5784950dd338,fix save retrieve,0,0
+2025-07-02,2025-07-02T13:08:45+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e0d069103ec214f10269e5db664b1e0c5fc5b017,fix button disabled,0,0
+2025-07-02,2025-07-02T12:13:07+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,87d6e403520b6b605f9b47b20ecb7a04ae48a6c3,fix retrieve services seletion from quotation,0,0
+2025-06-30,2025-06-30T13:02:43+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a2e78927928992768efb82d0a66f1264078e72e3,Update VAT calculation logic in montlyRateCalculationApi based on widget type,0,0
+2025-06-30,2025-06-30T12:26:26+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e457c6ba35ffc80acfcd40760e5a0bf85171fae0,Remove redundant condition for displaying extra dealer discount field in InputControllers,0,0
+2025-06-30,2025-06-30T12:14:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0033ef5171d4802e76592fa5427bd3f059658416,docs update,0,0
+2025-06-30,2025-06-30T12:12:57+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,97a4ed31dea09b277e5610a82f32135c221a8155,Add isStock property to retrieveMaInfo and rename site_code to siteCode,0,0
+2025-06-30,2025-06-30T12:10:07+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,77ebd43f2b72142ed1b39d12a51c680fefaee672,Add zchgRVChangePerc and zchgRVChangeVal to ParametersItem; refactor InputControllers to handle new parameters and improve state management,1,0
+2025-06-30,2025-06-30T10:46:27+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bf35033e57d87c68349bff2aad3cdaff52527f68,trycatch,0,0
+2025-06-27,2025-06-27T16:10:55+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d22368c82412f7e59cf53c46b738a3c03841552a,fix missed paramenters issue,0,0
+2025-06-27,2025-06-27T11:48:15+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7f3147685de9e7f9498e2f2791c46ec24045bf4f,fix switch perc/amount,1,0
+2025-06-27,2025-06-27T10:09:37+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3f763aee1153a37d9bd0291658c4eb3cdcf30bf8,Merge branch 'target/dev' into target/cert,1,0
+2025-06-27,2025-06-27T10:08:44+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2c035824ab4bc7b35f36282c50f010ced687ba10,docs update,0,0
+2025-06-27,2025-06-27T10:07:52+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b9230a02eed3d6e24177d3933b4374fee081df2a,Refactor InputControllers and SliderControllers to improve state management and input handling; add isNotValorized utility function for value validation.,0,0
+2025-06-26,2025-06-26T18:29:39+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5cb0cc9c41a627f540aec29424e681c5e0f35f15,extraDealerDiscount,0,0
+2025-06-26,2025-06-26T18:25:36+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f7dc9187cebafdb212989364dc95f31f7a879dbb,add demo param,3,0
+2025-06-26,2025-06-26T17:10:01+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b8aebe0a446f578d14d90febf59144af1cf528e1,"   mainCat,      mainProdGuid",0,0
+2025-06-26,2025-06-26T12:58:15+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c3217d6fa2ed3fb2487254a7401165a9a8c2ee8a,fix playgrond,0,0
+2025-06-26,2025-06-26T12:46:01+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,00d3d5abf67dd69826b44200573e330cb808f26d,Refactor ListComponent to streamline selectable items logic and improve state management,0,0
+2025-06-26,2025-06-26T11:31:29+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5af7838a8abe8947d379d89da79771e80657cc96,Refactor conversion percentage calculation for precision and update regular payment reference in InputControllers,0,0
+2025-06-26,2025-06-26T11:27:58+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,83fee82b6701ad4d9021407d695e223629a4d1aa,docs update,0,0
+2025-06-26,2025-06-26T11:27:24+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d47aa40449b495ce793ab27cfaf690d41a52fe05,"Add custom payload input and handling for modal, embedded, and touch widgets; improve conversion percentage calculation",0,0
+2025-06-26,2025-06-26T10:26:49+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1050839c9368757b3c9ed9a339b2dc9c2c9eb06c,docs update,0,0
+2025-06-26,2025-06-26T10:26:32+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a10a9090b23e55ffe9d1f80f04b9dbbd1297f03c,coverage update,0,0
+2025-06-26,2025-06-26T10:26:05+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c1c417fc897b8becf885a273273a7f0a4c9c7cc2,fix input,0,0
+2025-06-26,2025-06-26T09:34:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,437cef60c09adede12a0e556ef545c5c398fc36d,renaming fields,0,0
+2025-06-25,2025-06-25T17:50:10+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,135349bf10ddfe2cc30cc1346f3fed7f00a7f68c,Merge branch 'target/dev' into target/cert,0,0
+2025-06-25,2025-06-25T17:37:33+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,32c9b0eea0c6d6ee1a2cc45181195252efa75e03,fix missed vat,0,0
+2025-06-25,2025-06-25T15:53:43+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,abde672682d1bb7738b419ff8950298af546a97e,fix: enhance validation logic for ZI24ExtraDealerDiscVal and ensure default values for commission calculations,0,0
+2025-06-25,2025-06-25T15:19:00+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ba9947634eb1565fc213f8f1c17cdce36dcb977c,fix: update default values and validation logic for commission calculations,0,0
+2025-06-25,2025-06-25T10:42:48+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d04880e7772945a5b8049e7329b50b5ccbca75a6,docs update,0,0
+2025-06-25,2025-06-25T10:42:13+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8778e6d24037e142bd510303e61c5097c4851278,fix: update checkValueCommission to validate min and max values for commission calculations,0,0
+2025-06-25,2025-06-25T10:02:06+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,84d98f711d25c0e295b70978815d76bf145d60ba,fix: update SliderInput and ServiceControl to handle default values and improve VAT calculations,0,0
+2025-06-24,2025-06-24T18:15:29+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,fe0e8a52b09db97d3a6cc4eef092b3a3b3f4b61f,fix paramenters,0,1
+2025-06-24,2025-06-24T17:15:31+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,97091b8ad85646e42e910bc9c69ce90447b837aa,zi24,0,0
+2025-06-24,2025-06-24T15:01:30+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c00ef2f874dca5438bb290228f11d40ed8872dd0,Merge branch 'target/dev' into target/cert,0,0
+2025-06-24,2025-06-24T14:59:53+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6b2656306f25cb8f81e88c70d9db2b2fc197385c,fix: replace initialValue with customValue in SliderInput and update related logic,0,0
+2025-06-24,2025-06-24T10:36:21+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,69e06c58e846f922ee083b043a099e42fa1b1d15,Merge branch 'target/cert' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/cert,0,0
+2025-06-24,2025-06-24T10:35:13+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,4e20e900346f8c9cba68d762ba9d17448ef4168c,Target/dev (#269),0,0
+2025-06-24,2025-06-24T10:32:51+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,032cfee64b77ffd9915d2f7869f9d9d8a89e4b01,Target/fix quotaiton retrieve (#268),0,0
+2025-06-23,2025-06-23T11:58:47+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a6bf121b6adf26ae3c148bd4e5624e2a893e4bd1,Merge branch 'target/cert' into target/dev,0,0
+2025-06-20,2025-06-20T15:06:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ef125abd09f24a0e30b1539f379ce8d278f9cae3,fix trigger on tyrenumber,0,0
+2025-06-20,2025-06-20T10:26:01+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,d35d2bf0bd38c60311bf3e073607b5a40093ebef,Target/fixes (#265) (#266),0,0
+2025-06-20,2025-06-20T10:25:39+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,41612f8d8634a75e028623bbd3de1369b64d80cc,Target/fixes (#265),0,0
+2025-06-19,2025-06-19T11:42:51+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c589de8cd6c56f725b849eb350dfb34f0138d357,fix: remove unnecessary string replacement in payloadForSave,0,0
+2025-06-19,2025-06-19T11:02:03+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3ca678da823e9a315aa9c227c9f1790fa7c3c086,docs update,0,0
+2025-06-19,2025-06-19T11:01:23+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1e27a02cb1d96420423002925aa30d5e293cc110,feat: import getAnnualMileage utility for mileage calculations,1,0
+2025-06-19,2025-06-19T10:59:03+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,145eb6d7df8994d6b0e1be6331fa013a2d646908,Merge branch 'target/dev' into target/cert,0,0
+2025-06-19,2025-06-19T10:56:09+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,eb45e3f8fe1925493d72b17ddf0ef16df94d2717,docs update,0,0
+2025-06-19,2025-06-19T10:55:29+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1c3c05ea0e7df6a13836c5d61050030367c23ce0,fix: replace errorOnInitParameters with genericError for improved error handling,0,0
+2025-06-19,2025-06-19T10:51:23+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,15633dde30ded3d628a85f48562692512944a8b7,refactor: replace error handling with generic error state and update mileage calculations,0,0
+2025-06-18,2025-06-18T15:19:56+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,4635405274417787796aee750089c280671e3206,Target/dev (#264),0,0
+2025-06-18,2025-06-18T15:15:25+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,94933c43800f1fa0a1c0850c1fa5d0809046d0a4,feat: add translations for 'Pack Services' and update labels in Unselected component,0,0
+2025-06-18,2025-06-18T15:08:01+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0cad35fabccc35968cd745b9310064af9e3c7002,Feature/init parameters (#263),0,0
+2025-06-17,2025-06-17T15:31:55+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bb372ae469fb751e17fe9894083ac3838024782e,fix on services rateid and service controls change,0,0
+2025-06-11,2025-06-11T16:00:43+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e03fd81d0790402bc19e289510ee0aaa932096b4,Merge branch 'target/cert' into target/dev,0,0
+2025-06-11,2025-06-11T15:53:10+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,db2b0b1a4594a0f235fabed2c28ca05cb58ac289,docs update,0,0
+2025-06-11,2025-06-11T15:52:19+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c2bf4bd45e49344dfdc10cc35571e381bcee9e16,refactor: update ServiceControl options mapping and adjust response mappers for array handling,0,0
+2025-06-11,2025-06-11T15:23:11+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3889128d528791943b42545bf8f1af956c2c8bbe,docs,0,0
+2025-06-11,2025-06-11T15:20:40+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bb16a839ada7b2b1b4af2bb734c316a60354099c,response,0,0
+2025-06-10,2025-06-10T17:57:20+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,70b20a862b3264dfe49f5d7a41d7cce98e794310,Merge branch 'target/dev' into target/cert,2,0
+2025-06-10,2025-06-10T17:56:26+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3d9d89297c78de45bd33ae80606888a220a92088,remove sticky,0,0
+2025-06-10,2025-06-10T17:51:14+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,718d3c68f82992b43ad6b99c6807c3934bd8875e,add taxgroup and centraliza remapper func,0,0
+2025-06-09,2025-06-09T10:46:13+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,27525a138912ee36c556798d8937e62bf6c34576,docs update,0,0
+2025-06-09,2025-06-09T10:45:27+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d949778b589c3ee766e9831109214c3317679d45,Refactor listByVehicleApi to simplify digital client handling and improve readability,0,0
+2025-06-09,2025-06-09T10:29:14+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e7d36ef1e698b7351beb51e653c82bef1d141837,Feature/target remapping out (#261),2,0
+2025-06-09,2025-06-09T10:04:44+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b7991cfad52408e9aea83e71e00624e8bebb7ef1,Reorder properties in RegularPayment interface for consistency and add new fields,0,0
+2025-06-06,2025-06-06T17:58:15+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,233ef2f657a606a47315651df4072387cd447c2c,Target/dev (#262),0,0
+2025-06-06,2025-06-06T17:38:08+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,74684394517f397fc613075492be57c2b6dcff52,Add currency symbol utility and update components to use dynamic currency symbols (#260),0,0
+2025-06-06,2025-06-06T17:36:06+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6b9f0799892ff52e0526ce23dc8ad8f81445c1d2,Update SliderInput customValue calculation to prioritize minimum value,0,0
+2025-06-06,2025-06-06T15:10:28+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3de7b734f974b7f74d6593812000d128181e25ff,Refactor widgetType handling in App and MainView components for improved event management and data retrieval,0,0
+2025-05-30,2025-05-30T18:48:02+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,75b591a169198f2db55f2dfe7e1324078c5c1eb8,Add digitalClient field to Context interface and update montlyRateCalculationApi to handle it,1,0
+2025-05-30,2025-05-30T18:36:34+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2e359fe1585f24fda65d47b18c2f93d41956484c,fix,0,0
+2025-05-30,2025-05-30T17:59:32+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,353ec306baa46b0ef9479e65d5dbc9cd0d84126e,Merge branch 'target/dev' into target/cert,0,0
+2025-05-30,2025-05-30T17:56:11+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5638158f14e5300f5043443e47f59efd1deddc5d,Fix user context handling in MainView to ensure proper payload assignment,0,0
+2025-05-30,2025-05-30T17:53:18+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,74b9c98adc6841063bc2d87c0637672c3a6c369f,Refactor MainView to utilize ListByVehiclePayload for improved type safety and user context handling,0,0
+2025-05-30,2025-05-30T16:33:06+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f5120b542c52c6146e9eba820faf3b9f97cee94a,Target/dev (#259),1,0
+2025-05-30,2025-05-30T16:20:54+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0ae2a88097cfb13b5261c1800854dc83b7fb6fa1,fix mrc,0,0
+2025-05-30,2025-05-30T12:11:31+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7fe48e7db350b1da9821234f4794daa5c0007103,Add processType to InputControllers and SliderControllers for improved parameter handling,2,0
+2025-05-29,2025-05-29T14:51:38+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5bcb477a5e9612e8a43fdb66ddba83682bff3a9e,fixes,1,0
+2025-05-29,2025-05-29T11:35:54+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9505fd4ab256e54793586cb98fa0ecf84e0c2c86,Refactor Services component to conditionally render TitleWrapper based on widgetType,0,0
+2025-05-29,2025-05-29T11:33:39+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4add8412bd8ce15dbc0a636d1da959e3af3aa826,Add translations for 'CloseAll' and 'OpenAll'; implement toggleAllServices in appSlice and Services component,0,0
+2025-05-29,2025-05-29T09:31:31+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,07415585c7dcf8b3d61deea04143979c13496f0e,Add free month options to ServiceControls and update InputControllers,0,0
+2025-05-28,2025-05-28T18:15:28+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,01eb72a686b35567a938457aad0d4e24a93f7e6a,Target/service controls (#258),3,0
+2025-05-26,2025-05-26T15:13:03+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e859096310d8a631df46dfcaa0d6a2a9282330ca,build fix,0,0
+2025-05-26,2025-05-26T12:23:40+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b315de651fa5e137474b183639401a5e4a357c5b,recomeded pre selected restore wrog service controls,0,0
+2025-05-23,2025-05-23T16:47:55+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,477d9ddd7b7557644238c937d95f7a42247f643d,docs update,0,0
+2025-05-23,2025-05-23T16:47:43+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a2170927d41105baac4b5c79ce08ae30efe944ee,coverage update,0,0
+2025-05-23,2025-05-23T16:45:35+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4de0ef468d8c1b83531db17e76fb76062ca2985f,unmount,0,0
+2025-05-23,2025-05-23T16:41:51+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a2dc1294f33229e18e0722dc65ce3117c9fe1a70,fix init,0,0
+2025-05-22,2025-05-22T17:41:20+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,edf6605d2d32f6b7a91b0f886a8e28ccd3e53b5a,switch perc amount,0,0
+2025-05-22,2025-05-22T16:56:44+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5110d80c3f4d76ac56efcb482b1dbb8e2ba63295,add js event to notify update,0,0
+2025-05-22,2025-05-22T15:09:23+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c9d19936511ac82a9a4ecfc647f5e1c9d4256b79,Target/feature commissions hide (#257),0,0
+2025-05-21,2025-05-21T16:09:36+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,b027df86f3546388c1477a4f8affdd37c25f4a5e,Target/ecommerce fixes (#256),0,0
+2025-05-20,2025-05-20T10:46:10+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,bba96247b1a31ecc5e93aeba993e61e739d3ed42,Target/service rework (#255),0,0
+2025-05-16,2025-05-16T15:19:18+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b569f274fcd0f4b38deb54c4567bc30173a216d0,fix build,0,0
+2025-05-16,2025-05-16T14:55:14+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ab349415bb942a2e9e4f7003211211983cfcbf60,remove unused,0,0
+2025-05-16,2025-05-16T14:51:35+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ec12c3306210a1619e183632fae8acd452e5494d,fix types,0,0
+2025-05-16,2025-05-16T14:45:00+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,08b51667de0c6354775b8b57d2b5b14427b3f216,rework ui dropsown textfield grid form,1,0
+2025-05-16,2025-05-16T11:58:47+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,59e202489476e50b0de518c505d03d615301aca9,fix validation debounce,0,0
+2025-05-15,2025-05-15T17:27:34+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0c4bedb88ad1efbf20d743da0b1ba75266206a41,fx types,0,0
+2025-05-15,2025-05-15T17:24:57+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6816d301e81b3b88fc34e31718d4de08460c3ed4,"Revert ""fx types""",0,0
+2025-05-15,2025-05-15T17:20:04+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4de41daad6e2cb8f6892db05da35bf0ebd7ec59d,fx types,0,0
+2025-05-15,2025-05-15T17:17:05+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d5984d97b5ca8fe957951a87920a9b07f7158270,fx types,0,0
+2025-05-15,2025-05-15T17:04:21+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5a51448fd9ffa7c5226d1ac80a766d6b59371dc7,ui fixes,0,0
+2025-05-15,2025-05-15T15:26:40+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c7c8d5b793db1dd600060ce944b2d96229d02cf3,fix unselected,0,0
+2025-05-15,2025-05-15T15:14:07+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b3d3575344f981d336c1e8bcb10bcc783ead2fd1,Merge branch 'target/dev-save-rework' into target/dev,2,0
+2025-05-15,2025-05-15T15:12:57+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,86c79bffa074a0225fa28ad874ecde4ef59d6aa0,Merge branch 'fix/css-fixes' into target/dev,3,1
+2025-05-15,2025-05-15T14:58:09+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bce6115716ce2947b937088b7b9cfa098ccfe098,docs update,0,0
+2025-05-15,2025-05-15T14:57:14+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,149dfc5735832b3447aa30d9b483690094086c14,add freemonths,2,0
+2025-05-15,2025-05-15T14:28:18+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,10c055fb1a0d1beb39c95bfbd072900dcacd5794,docs update,0,0
+2025-05-15,2025-05-15T14:27:48+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d209d2d6bd0e994fd28f4db9fa7b2f999cecb37b,price formatter title fixes,0,0
+2025-05-15,2025-05-15T11:07:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d9d2bbc5c53efe1628211864ec4c93f961649e14,refactor: clean up ProductCard component by removing unused hooks and simplifying Title rendering,1,0
+2025-05-15,2025-05-15T09:55:22+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7e6c7c9e53722fef0dc99dc06be28ab91d27e1fa,loading fix and disabled feature,0,0
+2025-05-15,2025-05-15T08:55:23+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bd22c46ede39f8d440daeacdc03485828e5ac1fe,title fix,0,0
+2025-05-14,2025-05-14T18:40:40+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a5fce2807d5cd8efb149c244a5a2bd08132b63cb,docs update,0,0
+2025-05-14,2025-05-14T18:39:44+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0795eef116d6820b705afe9ed1051b80cb97fab6,feat: enhance output handling and state management in financial calculator,0,0
+2025-05-14,2025-05-14T17:01:56+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c062a461abe78ca914bac686dba9d4f36aeccd4d,fix style,0,0
+2025-05-14,2025-05-14T15:57:53+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,9d4e2811a6e1aba703e52c6accdc0a398035f5fe,Target/dev form commissions (#253),0,0
+2025-05-14,2025-05-14T15:56:50+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,507cf438929f072c645b04c76345664f1cfd37f7,default ma,0,0
+2025-05-14,2025-05-14T15:15:29+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,44909916ecfbf2563f179eee7e35f177849f6593,Merge branch 'target/dev-form-commissions' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev-form-commissions,0,0
+2025-05-14,2025-05-14T15:06:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,57384d61c39b388a2e483f5531f6eae066117e47,Merge branch 'target/dev' into target/dev-form-commissions,0,0
+2025-05-14,2025-05-14T14:53:50+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e0158d8b6ea4b2c4a729111571485b9ec7f1e4cc,microfixes,0,0
+2025-05-14,2025-05-14T14:20:58+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,5789037a2bbb2966f7a6e7dcb6f1d71fb959b750,feat(unselected-rework): reworked unselected card (#252),0,0
+2025-05-14,2025-05-14T14:20:29+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,b7e5275b20e7033137698090e2f07203d2036d1f,some fixes (#251),0,0
+2025-05-14,2025-05-14T11:55:22+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8b31f6daa9240678f5a81797fa75b9d1a2537d6a,refactor: simplify state selection and enhance validation error handling in InputControllers,0,0
+2025-05-13,2025-05-13T18:41:45+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,100e175907c9383e243f3232e91085cbef574633,debounce,0,0
+2025-05-13,2025-05-13T18:23:59+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9b10ba4941fddf86eebec063939646ed1524a3f0,total fee wip,0,0
+2025-05-13,2025-05-13T18:14:09+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bbfe8f73cd7a16efe270678da257ff4a135b1b42,feat: add initialKm input field to vehicle form,0,0
+2025-05-13,2025-05-13T18:10:57+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9c620dfcab61a7ddc0d139c5d968b82e50b9a927,docs update,0,0
+2025-05-13,2025-05-13T18:10:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,db665870ba1471a8d8ba13c041e4ca21950f8465,feat: enhance financial calculator with additional commission fields and validation updates,0,0
+2025-05-13,2025-05-13T12:09:17+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,adb66acba563e73b703952be6d0bc9680587388f,Merge branch 'target/dev' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev,0,0
+2025-05-13,2025-05-13T12:08:08+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5bb5de24aeea219bf0b65c8f8dad1e50a79f9b34,fix digitalClient check,0,0
+2025-05-13,2025-05-13T12:04:25+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6a549353ae6ec62d428f45cc5f9c758581b969a6,feat(product-card): added sticky header on scroll (#250),0,0
+2025-05-12,2025-05-12T17:38:38+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,db4ac150b3e0fb731570162b1c91691a107d1fba,per la gioia di Lorenzo Ceglia,1,0
+2025-05-12,2025-05-12T17:30:03+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7401cd39c1263c368f81f2df56e271782c23ca0f,refactor(InputControllers): clean up unused imports and streamline state management,0,0
+2025-05-12,2025-05-12T16:45:56+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,fa29b653f8df28127901b7b4ba0794b5b7c402e5,fix: remove amountInclTax calculation from regularPayment in mapperResposeWidget,0,0
+2025-05-12,2025-05-12T16:41:31+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b52016c8c10a978d121dd4d11d8dfee59870dfe4,feat(i18n): add new translations for buttons and titles in multiple languages,0,0
+2025-05-12,2025-05-12T15:33:38+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,cef97e14a2d29bedb3081ac12ca6e82765d0f1db,Merge branch 'target/dev' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev,0,0
+2025-05-12,2025-05-12T15:32:14+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,820e89cb64e65240d5f52068c9b15f3347760a42,fix: update event listener logic to exclude modal widget type,0,0
+2025-05-12,2025-05-12T09:57:19+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,7d40f3a0510dbeb88bd84b1cb28d5c24725d6752,feat(dropdown-component): fix dropdown component with react portal (#249),0,0
+2025-05-09,2025-05-09T17:52:52+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d64f0e73027d373cb56a95e9ff7ae1d1d34e3ef0,fix: add missing mapping for FR in salesOrgMapper,1,0
+2025-05-09,2025-05-09T16:22:59+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1cf806c2ea9e326da4c28b86b9649ba6d4f499a5,fix: add zzServDesc to montlyRateCalculationApi parameters,0,0
+2025-05-09,2025-05-09T16:15:02+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,21bcd06d8ad40c0f8324c8ec26084c813be13b07,fix types and update docs,0,0
+2025-05-09,2025-05-09T12:55:04+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ea63152752149749f947b4fd24a96dc53df83229,fix payload length,0,0
+2025-05-09,2025-05-09T10:49:03+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,870d6d5ac76a0a23dd16c51843ec51825a35a7ab,ts fix,0,0
+2025-05-09,2025-05-09T10:47:37+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f777e61daa95de763e94d130d1dae927916a3ef0,fix: update form values and improve removeUnused function for better data handling,0,2
+2025-05-08,2025-05-08T18:42:38+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3f6de1a2fd9da6a63dce79ca6a24fab409dc917e,fix tslint,0,0
+2025-05-08,2025-05-08T18:41:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3765deaf193cb4230f0fec76c50bf4bd2819c1f7,fix tslint,1,0
+2025-05-08,2025-05-08T18:34:57+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6344a1e08125998a232c22e2d21e845980ef9594,fix: restore km and month properties in LegalNotePayload and update ProductCard to use typedItem,0,0
+2025-05-08,2025-05-08T18:16:02+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,d2c6b5002d636c26d89c2cde01b548c974e8e0a7,feat(dropdown-component): added dropdown component (#248),0,0
+2025-05-08,2025-05-08T17:21:19+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5cde44d71d2dd25df487ea5a0572bd00c7a157cd,coverage update,0,0
+2025-05-08,2025-05-08T13:03:23+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0cba4a99dec2f65df5245bb41c99e1550c77e0d8,fix: clean up HTML structure and update form field values,0,0
+2025-05-08,2025-05-08T13:01:12+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a3362281a0cfa358e3cb6ec471813e5ac5454aba,fix on new lbv API,0,0
+2025-05-07,2025-05-07T17:17:52+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6bad25f36d7357a30c895ca9be1e9e098df3c794,Merge branch 'target/dev' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev,2,0
+2025-05-07,2025-05-07T17:13:03+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,db032a96485ea52502388ca72d5d5b59ce214699,fix: ensure gap in InputControllerFlexBox is responsive to pxToRem conversion,0,0
+2025-05-07,2025-05-07T17:11:43+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e461e3c13b55cf9c434918fafd042b9459358834,Feat/form validation (#247),2,0
+2025-05-07,2025-05-07T15:48:36+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,35252707ef96e12c8269b7241f81a18cdf978b78,docs update,0,0
+2025-05-07,2025-05-07T15:48:26+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6c9325deb927e6f7c116420733c92742e196cd53,coverage update,0,0
+2025-05-07,2025-05-07T15:30:10+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8df957dd767a56da61e32f37ee9c59f683b70688,update lbv payload,0,0
+2025-05-07,2025-05-07T12:19:00+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,191e4da8c20f8ca0c4e0d4a208b0081b0e2dddb9,add support for new init params and fallback to digitalClient,0,0
+2025-05-05,2025-05-05T15:29:08+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a79ca836639f6960ef256665a1ff8f358406ded8,fix: add support for opentype font format in mapFontFormat function,0,0
+2025-05-05,2025-05-05T13:02:38+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4a19e44a1d00ae840e45408d9dffb90799351a85,fix: update grid column size in SliderStructure and ensure service descriptions are uppercase in ServicesListItem,0,0
+2025-05-05,2025-05-05T12:01:17+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,729254157c39dfbd628017c8aebbfeb531258565,docs update,0,0
+2025-05-05,2025-05-05T12:00:49+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,86389bdb724e54d725754a622658089c691ff60e,Merge branch 'target/dev' into target/cert,0,0
+2025-05-05,2025-05-05T11:58:54+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7e0f2f702c86fc4b8888ceeb50f8e99b2d065714,refactor: extract font format mapping to a separate function in useLoadFonts,0,0
+2025-05-05,2025-05-05T11:31:38+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,517b264f6aa1f832a67f2621620ca5e4c36a9e5d,docs update,0,0
+2025-05-05,2025-05-05T11:30:42+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c435aa67a06fbca7972f15dd754aadc99b4d3d65,feat: integrate bbCode parsing for legal mentions and notes in ProductCard,0,0
+2025-04-30,2025-04-30T18:24:45+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,eacc9be6a4f5da5297447856d8f1eb31ee96a7b1,Target/dev (#246),5,1
+2025-04-30,2025-04-30T18:16:50+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3c727695911ad35517a291f44a76010490ef165a,docs update,0,0
+2025-04-30,2025-04-30T18:14:56+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2281d94178dbe7365338fad61da73e10ac55e678,refactor: move clearIntervalTokenRefresh to index.tsx and clean up App component,0,0
+2025-04-30,2025-04-30T12:36:47+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,158723a56e3a52d558def4823e0a7b7938998341,Feature/layout card (#245),1,0
+2025-04-29,2025-04-29T15:31:52+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,70a5350f46082fd36d4a5d0351e6966daed19cfe,Target/touch version (#244),4,1
+2025-04-29,2025-04-29T15:17:46+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,32f9afc027487e9e65c3c5eb35be6249f381f7e3,docs update,0,0
+2025-04-29,2025-04-29T15:17:03+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,eca3707e306bfe898a7d3b20572df41c64746837,refactor: add optional fields to TouchInfos and Customer interfaces,0,0
+2025-04-29,2025-04-29T12:50:26+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e8509f3bdf8ea7b5210ce213fd2e29fbf47a53dd,Merge branch 'target/dev' into target/cert,0,1
+2025-04-29,2025-04-29T12:49:28+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,dd5cc032a707559662ed28e630ef42dd92463141,coverage update,0,0
+2025-04-29,2025-04-29T12:45:34+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2a034bbf0cd2f707556b8ba2b1432ba24209c7e1,refactor: update ServicesListWrapper layout to use grid for better responsiveness,0,0
+2025-04-29,2025-04-29T12:31:00+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f44a81b9376f1bd5188f68a79afa806ada158512,refactor: update PromoCodeContainer and ServicesListWrapper styles for improved layout ecommerce,0,1
+2025-04-29,2025-04-29T11:28:57+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7fa0761dbaf0531ce05641049c56391cc62bc1e9,refactor: remove unnecessary quotes from font-family declarations,0,0
+2025-04-28,2025-04-28T15:32:39+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f6c967f6c0135ff90b207dc4f7dd7020005ab1d5,Target/dev (#243),23,4
+2025-04-17,2025-04-17T11:12:11+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,fce52f0084e826bae2ec6c5e5674036b18c1c541,update docs,0,0
+2025-04-17,2025-04-17T11:09:43+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3d8a15a2cd70b870671c841966dee2aed486f434,fix,0,2
+2025-04-17,2025-04-17T11:08:29+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b2f99d1b850c5c2f8eb280f93f1801ae8a88c618,improve declarations for leasys touch,0,0
+2025-04-16,2025-04-16T18:44:58+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,63a5afbde459e795ca30549bef5585fab856c167,Feature/ecglob 3013 (#241),1,0
+2025-04-14,2025-04-14T17:37:22+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6f3b04819a0f68bd008d95e1ba211fb5bd7d0887,TestCoverage  (#240),19,4
+2025-04-07,2025-04-07T10:30:38+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,875bee80af30a87f942844320e103bf0b76877a2,init error management,0,1
+2025-04-03,2025-04-03T10:24:48+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c7eaaf210b9cb2ef04580e4af8135ebcf920cf52,fix prepush,0,0
+2025-04-03,2025-04-03T10:21:43+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,26db4b86180670fb88da140d6d026f5812a39ceb,docs update,1,0
+2025-04-03,2025-04-03T10:21:00+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2c0608be12b455aacfba8894c317035e0d044e7f,feat: enhance SliderInput component with WebTarget support,0,0
+2025-04-03,2025-04-03T10:07:03+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,70796f23739d957d3d02a48ab5ee03a7d7b2a86f,feat: update encryption keys in environment configuration files,0,0
+2025-04-01,2025-04-01T15:09:43+02:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,5ab1e3540707347449601ea131171dde263b3d8f,update deps,0,0
+2025-03-28,2025-03-28T17:45:03+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,192d9f3547615e96fa30894811b3874404154afe,feat: add encryption functionality with public key support and update environment variables (#239),0,0
+2025-03-27,2025-03-27T17:46:09+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9a3888bd28ab95d9a563fe81727138bbc9332204,docs update,0,0
+2025-03-27,2025-03-27T17:45:42+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8796b1a24f4579aabadb0b0a121538e2d1fc1ba5,feat: add category fields for options in form and update financial calculator logic,0,0
+2025-03-27,2025-03-27T10:34:44+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,0ed074062894ea2faf75f024863c219590a9477a,fix types,0,0
+2025-03-27,2025-03-27T10:31:33+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,480957bcf1c6f9bc0c5ef56b0d7c26707abd0b71,fix: update ThemeType to use correct imports for icons and improve type definitions,0,0
+2025-03-27,2025-03-27T09:43:43+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,86a83f50194b18418ce16b80985f9ae5e07d36fd,test import.meta.env for environment variables in fonts,0,0
+2025-03-27,2025-03-27T09:23:10+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e04231bcb80fe7dc758ba39c0b66460a7a6c9894,Merge branch 'target/dev' into target/cert,2,0
+2025-03-26,2025-03-26T18:20:18+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4bb385a564df5cfb2fa56bfb843e023d55560eb3,fix: update SliderInput components to use rest parameters for props,0,0
+2025-03-26,2025-03-26T18:18:53+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c82190c33d3af368d76da499e2b2823d0949792c,fix: update SliderInput components to use destructured props and improve styled component indexing,0,0
+2025-03-26,2025-03-26T18:11:11+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c4823d2a47909e222d80fa1b2f9ff2084cfb1dd7,fix: update productKey mapping to use masterAgreement if available,0,0
+2025-03-26,2025-03-26T18:08:56+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6a610189c748e7477a3fe37b7b84a17bd92af114,feat: add preview script and enhance environment variable handling,2,0
+2025-03-26,2025-03-26T17:17:08+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e4bc983a35f43822cc85ee5ebe7963e2aaee155f,feat: implement useLoadFonts hook for dynamic font loading,0,0
+2025-03-26,2025-03-26T15:24:59+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e4939fe658e4f1093ab202934aa32a10f0aeaf30,Merge branch 'target/dev' into target/cert,0,0
+2025-03-26,2025-03-26T15:23:18+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c001eb07c2167d00c5281e03cd54d9b1111d778c,fix: include VAT in regular payment calculation,0,0
+2025-03-25,2025-03-25T11:53:59+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,986f4f07a219e8d5e877ce2de57e343201f05bd4,docs update,0,0
+2025-03-25,2025-03-25T11:53:53+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f7390b37a8afe1226795697c86697e1e730f1c4b,coverage update,0,0
+2025-03-25,2025-03-25T11:53:46+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,db6e718bd8078ebe64c5111ac10bfa981cdd542f,Merge branch 'target/cert' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/cert,0,0
+2025-03-25,2025-03-25T11:51:18+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bb57bd072ab5e75af3063b2dd8d4c75b6afb199b,docs update,1,1
+2025-03-25,2025-03-25T11:50:59+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,78a89da056b33a97840dd92b7478cb5836c150de,fix export,0,0
+2025-03-25,2025-03-25T11:44:13+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1c9f713059b6c99630f5242f42fe1038abe7b839,refactor: update WidgetInitType to WidgetInitNamespace for better namespace clarity,0,0
+2025-03-25,2025-03-25T11:17:53+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,7ad51b88a39ea1d8ad2468112909545ca4a32569,Target/dev (#238),1,0
+2025-03-25,2025-03-25T11:17:17+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d106d90ea90845f789b6af27fe47cf2da1fd8193,docs update,0,0
+2025-03-25,2025-03-25T11:14:45+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d1bc5dbb3d5b893be37f6ded46c889b51797dbfc,Merge branch 'target/cert' into target/dev,0,1
+2025-03-25,2025-03-25T11:12:22+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,61702b5eca6eb5c7e991b7bb394993bdd421e219,docs update,1,0
+2025-03-25,2025-03-25T11:11:13+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,6799639b5c155bfa51d61e174575e9c978d9481f,add EmbeddedOutput type and update response handling in App component,0,0
+2025-03-25,2025-03-25T10:44:18+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,33c133f81284734dc6cd059d1b31017a6a275b09,Target/dev (#237),4,3
+2025-03-25,2025-03-25T10:43:44+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f3cba017f1fdc43e84ea900b057887c11e76c5c2,update docs,0,0
+2025-03-25,2025-03-25T10:41:08+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9e2759feb027977f8704fa3c345c5ab0f76a5d3f,docs update,0,0
+2025-03-25,2025-03-25T10:40:56+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ccc871a96204c94ac993e12deadc19df77781df5,Merge branch 'target/cert' into target/dev,0,0
+2025-03-25,2025-03-25T10:31:13+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1f083789baa5b04631efd02f6672b760971ca28b,refactor error handling in manageErrorAndDispatch function,0,0
+2025-03-25,2025-03-25T10:22:05+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0dc2c5e9d01202004b674b60c541cf4a374d704b,Fearure/ecglob 2902 (#236),4,3
+2025-03-20,2025-03-20T10:24:28+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,8858a5a345af3e1fdec576e48c0a5aba438eb0af,refactor vehicle interface and update offer submission request structure (#234),0,0
+2025-03-14,2025-03-14T18:15:29+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,180b7ce76500d02912bf1d50b816cc3d16ba45ff,Target/cert (#232),285,31
+2025-03-14,2025-03-14T18:15:12+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,acec0c9e0ead1109934c4e97ce18dcbe4149a4db,Target/dev (#233),0,0
+2025-03-14,2025-03-14T18:14:20+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c970f0520c080934deec573e2fd285ee613469af,Merge branch 'target/cert' into target/dev,0,0
+2025-03-14,2025-03-14T18:11:47+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4551a291ba3a4d33659653421d32fcfabd6f6e40,Merge branch 'target/cert' into target/dev,0,0
+2025-03-14,2025-03-14T18:11:21+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,90fcc9c5251abde45bdae8efae9e9e8aed25b983,update CDN URLs in production and staging environment files,0,0
+2025-03-13,2025-03-13T16:21:54+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d71b1d638e1aa71387876d29635f047b7c7bd38b,fix verify,0,0
+2025-03-13,2025-03-13T16:20:27+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,d706d5caeac7c5b250147bf2ece0afc36a3239ad,docs update,0,0
+2025-03-13,2025-03-13T16:20:15+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b95dcd268cd181187ead132d2ca3e99cf17b21e6,remove temp coverage,0,0
+2025-03-13,2025-03-13T16:19:19+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4c059f45d7414e482d442007bc4c4b9d953a7e31,update title and hook,0,0
+2025-03-13,2025-03-13T15:46:10+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2e6f47fc808e015796cef78b9b552d42b59fde6a,docs update,0,0
+2025-03-13,2025-03-13T15:44:48+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a860a801dbc9d42036def8add344b3cd6d28b06b,fix replace 3,0,0
+2025-03-13,2025-03-13T15:43:03+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,14e9c9609b9e1990e2fda785aa7a2084607d3038,fix replace,22,0
+2025-03-13,2025-03-13T15:39:39+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,cc5d27c9fe7ad90740c5286d9fb08969434e8791,coverage update,0,0
+2025-03-13,2025-03-13T09:17:35+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,7226923e030485fdee79e47c71d870976ba412d4,Target/dev (#231),0,1
+2025-03-12,2025-03-12T15:19:21+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,60ced3edc7d3b81be9c878b4f34cbcc84cd4d560,docs update,0,0
+2025-03-12,2025-03-12T15:19:11+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,66d1c1ce7b115fdabb319339017a28a4af0d42d4,increase package version,0,0
+2025-03-12,2025-03-12T15:14:31+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f89a11b8642b1c280271c8c3a451de21f3d01e00,fix preprush,0,1
+2025-03-12,2025-03-12T15:13:44+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ba472cab8bddfc5846a8b828892d71341cafd479,docs update,0,0
+2025-03-12,2025-03-12T15:13:32+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8050488b585cb6171b966144ca6f98ac2303edd0,fix preprush,0,0
+2025-03-12,2025-03-12T15:11:25+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ef7cd177d3989357a2942bc53349d9e72e5d1998,fix types,0,0
+2025-03-12,2025-03-12T14:37:21+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1abece7c0851cdce53deb9d0920655c0a910f23a,restore lint staged,0,0
+2025-03-12,2025-03-12T14:35:40+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3c94ac281c95fc0c14a690f5256cce25e2d0cc35,remove lint staged,0,0
+2025-03-12,2025-03-12T14:34:42+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,bfe21ece6406d0a2978e1cf637ef29e4c4c22e58,remove lint staged,0,1
+2025-03-12,2025-03-12T14:33:20+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f2dfe5710f79f6ea959cf3f92c514f205c6a17dc,remove lint staged,0,0
+2025-03-12,2025-03-12T14:28:57+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7f0f7d095f2ea9110997ce76476411ab806bb1b9,update types,0,0
+2025-03-12,2025-03-12T14:22:28+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,175d0de24a05f787150ec679396971656c957465,chore: update pre-push hook to include documentation generation and remove unused typedoc plugin,0,1
+2025-03-12,2025-03-12T11:28:41+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b7e05a8766997dedd68955ad13fa999e50c2f6f3,Merge branch 'target/dev' into target/cert,9,13
+2025-03-12,2025-03-12T11:26:22+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,54df546be2cbff7e88bc742dd5855d6b3bb3fbc6,fix congiuration envs,0,0
+2025-03-12,2025-03-12T10:52:56+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8f02e7709ef7e9e6a0cbddbc3c73ae25e09ba4db,update docs,1,0
+2025-03-12,2025-03-12T09:48:53+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,29e863d99a55e4b7740dff3e25bfd1179440d787,refactor: update documentation assets and dependencies (#230),10,3
+2025-03-11,2025-03-11T15:58:18+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,281b66f4a16e34c619fe1e80623ca740c20070cd,fix tests,1,10
+2025-03-11,2025-03-11T14:42:45+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,cee7876e0971c65e8cb48642e378b0b9203cec1e,Merge branch 'target/dev' into target/cert,0,0
+2025-03-11,2025-03-11T14:36:36+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,53616de69eadc865ae52ca0338de134070fa4ad1,fix services selecton,0,0
+2025-03-11,2025-03-11T13:21:48+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1d76ad400a1872b33246ea50036a2b69130c414f,Target/dev (#228),59,38
+2025-03-11,2025-03-11T13:21:24+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3ea5dd7b6a6170ec239deb9cb575aad8569b7aab,Merge branch 'target/cert' into target/dev,0,0
+2025-03-11,2025-03-11T13:19:33+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1b153fd48ec35518344b25dacfaffbf306df5da7,Feature/ecglob 2865 (#227),1,0
+2025-03-07,2025-03-07T12:49:15+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0a41de84726761cbfd3097948421e22072e94b33,refactor: clean up imports and adjust PromoCode placement in MainView (#226),0,0
+2025-03-07,2025-03-07T12:49:06+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,39f691b3cf8ff0d73ad74ae8a8c669ab38e01a4e,Add conditional check for siteCode in masterAgreement filtering (#225),0,0
+2025-02-28,2025-02-28T17:47:57+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,8cd385e383ebf5ba25555c9c29a0e17f79713f78,Feature/ecglob 2842 (#224),47,37
+2025-02-28,2025-02-28T14:11:48+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e6139c7a3e887fbfddf53c36301441d25cc0da6d,Target/dev (#223),1,0
+2025-02-25,2025-02-25T17:57:30+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0843b0dd67877143bd13245616469f5a7fabd223,PRomocode restore (#222),0,0
+2025-02-21,2025-02-21T11:48:44+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ebccd7f2e854a25e9483cae5bd8efe2dfeed965a,restore legal notes (#221),0,0
+2025-02-21,2025-02-21T11:36:50+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,a22a9f42a176eea510912b5e7954b23f7ccae2ac,Target/retrieve quotation (#220),1,0
+2025-02-19,2025-02-19T17:15:10+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,d7de241df91ae312c3a0a334e58e8af3fb15be86,reasdme (#219),0,0
+2025-02-19,2025-02-19T17:05:22+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,edfa8b5fdd506609b9df9cc4042a94403b55b129,Merge branch 'target/dev' into target/cert,0,0
+2025-02-19,2025-02-19T17:03:14+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,3d99f7607119c2a78b5955137dcc5b53c05f85e0,show optionals,0,0
+2025-02-18,2025-02-18T15:10:53+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2b334abd8eabf094072b38d48a434192fcd0dda0,Merge branch 'target/dev' into target/cert,0,0
+2025-02-18,2025-02-18T15:10:41+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,70049c24dda68287da571d5cb9f7d1feb342c86e,fix unselectd downpayment b2c,0,0
+2025-02-18,2025-02-18T12:14:05+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7043d8f92cf471487ce2c8a4ac77dab402d12fab,Merge branch 'target/dev' into target/cert,0,0
+2025-02-18,2025-02-18T12:09:42+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,44700b0adc5c14bae560fb903828e394815b0c13,fix calc and selection,0,0
+2025-02-18,2025-02-18T10:29:39+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,2570266cdbb3cf6939c588aeec349f7493ce79b6,rework logic on downpayment selection,0,0
+2025-02-18,2025-02-18T10:19:19+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ee91983a088b16cf73b7df56ed8a66e3a6dcf01f,unmount and reset,0,0
+2025-02-17,2025-02-17T18:41:22+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,430b073fef548f0c983b1ef496e901f090338f4b,Merge branch 'target/dev' into target/cert,0,0
+2025-02-17,2025-02-17T18:41:05+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9490f7202d4c68f415666fa82ad5eebb12a570be,fix slider rebounce,0,0
+2025-02-17,2025-02-17T18:17:01+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7d4d26d831a291c5f7ca88f549d69abf26a90d95,fix montly rate calc,0,0
+2025-02-17,2025-02-17T18:01:12+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,1d265f6d247b9a9725726c636d41ac4ae253a4e8,remove unused and madattory on manufactured code,0,0
+2025-02-17,2025-02-17T17:27:41+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,268c5cf2755d7524d26ce2184bbe382889a5edac,Merge branch 'target/dev' into target/cert,0,1
+2025-02-17,2025-02-17T17:27:24+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b8c6c399158a56d74ee260c65947c23c71c2516c,fix build,0,1
+2025-02-17,2025-02-17T17:01:53+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,373123ff9ba8db4324cba8eb80939725d2c0f482,Target/dev (#218),1,1
+2025-02-17,2025-02-17T17:00:54+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,26fcca750df3c36506631737fcb0b81c80fed0f9,Merge branch 'target/cert' into target/dev,0,0
+2025-02-17,2025-02-17T14:37:31+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,922f4ee86fe164e24ecd59d359f11411c88a0ae9,fix unselected,0,0
+2025-02-17,2025-02-17T12:56:21+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4098b9639f4bfd45471b677224f015cddad1f91b,remove color codes from montly rate calculation api payload,0,0
+2025-02-14,2025-02-14T15:00:00+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,61301110aa9a08c3c895ebc5957047584e55578d,fix montyl with abort controller,0,0
+2025-02-13,2025-02-13T16:13:13+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,1ffa058b9a65b4aab7f4cabcb167e63f9a35067a,Target/preselect (#217),0,1
+2025-02-11,2025-02-11T11:18:42+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3e27668771107a84492e48f093a0f9823a182a78,Target/dev (#216),0,0
+2025-02-11,2025-02-11T11:18:31+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,b13b569f72a70ca14c0c6cf2198c910a1d00c556,Merge branch 'target/cert' into target/dev,0,0
+2025-02-11,2025-02-11T11:02:39+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,727ea78caa011cca6d2c13ae3b14d7c3eb69be22,add fallback for missed payload (#215),4,0
+2025-02-11,2025-02-11T10:31:03+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,8a69ddbda134f720d1b0fa7985539f46f79c1ba4,fix missed params,0,0
+2025-02-11,2025-02-11T09:53:53+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,8af5a2dddc23b956096d6ecda3d37aa9c0a7278f,Target/quotationid (#214),0,0
+2025-02-11,2025-02-11T08:27:13+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c2b4b3c691594a7f006018afa20ed0d18a6ec270,Feature/cateory services (#212),0,0
+2025-02-05,2025-02-05T10:04:22+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,72e54e54e0081b0077d0d6c0dc0393008611e1fd,update to target/dev (#211),0,0
+2025-02-03,2025-02-03T09:14:45+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,7d829c0a43fbf3b179ab96e7cf3044157f9dec30,fix startup calc,0,0
+2025-01-31,2025-01-31T15:42:17+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6cdfc9de552e70db3bd064eeae7f08aaa124a0c7,services open (#210),2,0
+2025-01-31,2025-01-31T15:41:21+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e66d84bd70c50324273240f9a92c0a44225408d4,Merge branch 'target/dev' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev,0,0
+2025-01-31,2025-01-31T15:05:12+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e074b3c178ee49cb156e24e72a1d518897e45edb,services open,2,0
+2025-01-30,2025-01-30T10:08:09+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,cd9188412993e1eb99b23f0d83398c87d42e10eb,sol 1 (#209),0,0
+2025-01-30,2025-01-30T09:58:30+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ba8d3332f3f902bd3bffabdc06db26f2471cabed,FIX BUILD,0,0
+2025-01-29,2025-01-29T12:55:54+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,858e4f865a68cdbc9da3c27c29f190c25da3b1db,Feature/service list fix (#208),0,0
+2025-01-17,2025-01-17T18:12:32+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,9a79eea99dc2c01395ece16767835dade8fdeccd,ui fixes,0,0
+2025-01-17,2025-01-17T17:32:06+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,41bae6ba1295348a871118b8e2771155c1f99689,fix build,0,0
+2025-01-17,2025-01-17T17:30:48+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,12435fa922840a46858a5aff81c8723c779f4247,fix warns and logs console,0,0
+2025-01-17,2025-01-17T16:21:10+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,18fb450b836b918f84b052fa664ff57d99b54b56,add translations,0,0
+2025-01-17,2025-01-17T16:08:17+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,a63401f690427c7b0babdedb47380329980590d7,fix list array sliders,0,0
+2025-01-17,2025-01-17T12:54:48+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4fb023dec957a600dad5ddd1c3ba10b724740eca,fix options,0,0
+2025-01-17,2025-01-17T11:41:06+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,ee54c618f305d71475e179a9678b3b5904855d8f,set rounded values,0,0
+2025-01-17,2025-01-17T11:19:43+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,19455fe4d61aeb2d5990588e867ccf41bfdbe357,fix prices,2,0
+2025-01-17,2025-01-17T10:39:24+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,e9b55ac946d1fbc771a68140f0d2893cc6697b6a,mileAllowKm,0,0
+2025-01-17,2025-01-17T10:20:22+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,f3432cc1c4c4bf80225d1e7fc7488536b8c6e23d,remove services,0,0
+2025-01-17,2025-01-17T09:38:20+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,c2a541b56d004956ec69d848b582a01f5d66c2c2,extra fix,1,0
+2025-01-17,2025-01-17T09:31:47+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,07f2617456f6d82c34999b42bb4cf3099e1a1792,fix update on annual miliage,1,0
+2025-01-17,2025-01-17T09:14:50+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,4e906f3d2fada7e7665f004a6656b652793fa8f2,fix error,0,0
+2025-01-16,2025-01-16T18:54:05+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,5085a3b7a06b70e371947212153a8f1e07fb713c,montly rate calculation integration (#189),2,0
+2025-01-16,2025-01-16T10:27:42+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,0c050a7a367788e024871e0fb90efabafbff5ff8,Target/dev visuals and services cache (#188),1,0
+2025-01-13,2025-01-13T14:58:21+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,64aed207d2a3f6e1713701d1e24f9f0c3b4fe210,add mappers and testable vehiclecode,0,0
+2025-01-07,2025-01-07T11:27:41+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,b693711190dcffdbf4906c2ee31e1336d88971d1,fix typo,0,0
+2024-11-29,2024-11-29T12:40:37+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,5723f8291605dcdbb906c76927586a281afccd5c,Merge branch 'target/dev' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev,1,0
+2024-11-29,2024-11-29T12:39:46+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,f7b6ec355c6b34e65478d6406f744d000035bc10,Merge branch 'develop' into target/dev,0,0
+2024-11-19,2024-11-19T12:54:46+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,6a60c32ee0964d4df0f379e7a678065e41bcf7e6,Merge branch 'target/dev' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into target/dev,0,0
+2024-11-19,2024-11-19T12:51:50+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,d18103c64efe3408f21815a73011a3d76fc377d2,fix build,2,0
+2024-11-14,2024-11-14T11:15:50+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,53e5788d5c75d78b8f5ee2d6227671700536ce33,fix extra options selection (downpayment),0,0
+2024-11-13,2024-11-13T10:04:22+01:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,4414a6c7556e0e46809bba5ebb4d865340fb16c5,Feature/ecglob 2410 (#180),0,0
+2024-10-29,2024-10-29T10:26:43+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,fb4f0ce84518500ce99669bb6fa94123c6922fd1,fix translation FR,0,0
+2024-10-25,2024-10-25T14:57:41+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,08c81adea013534511d1b0cec3666a6b3b8a96b2,Bugfix/ecglob 2296 (#176),0,0
+2024-10-21,2024-10-21T16:25:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,06a7dc9124f83b3b8ee312eb376bfdd68f2d97e4,coverage update,0,0
+2024-10-21,2024-10-21T16:20:04+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a4ea247667669d7b0f70ec25f2e2cc6ce6b2c830,ECGLOB-2277,0,0
+2024-10-16,2024-10-16T12:58:21+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,24177cc47ec24e22ceb7786e80d3b8b621195417,Feature/ecglob 2276 bis (#175),0,0
+2024-10-16,2024-10-16T12:30:58+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,29dc2a035708ad020d7201e3876a96af6b78de74,Feature/ecglob 2276 (#174),0,0
+2024-10-14,2024-10-14T17:42:28+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,260f8c40bbe2e0bb9d5c80682a177196c5b5b961,Feature/ecglob 2248 (#173),8,0
+2024-10-14,2024-10-14T17:04:33+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,5e586ce239a17d22bc19f473708e142eb8bc2b31,Feature/ecglob 2235 (#172),2,0
+2024-10-02,2024-10-02T15:27:28+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,fd2d99114222a4119621d28b60714838f601b231,update coverage,0,0
+2024-10-02,2024-10-02T15:21:24+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a62ce6de414636e6d7bc369dde6e724cd3d1c0d6,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,0
+2024-10-02,2024-10-02T15:20:12+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,dae1687c3239ab8f433998658714555ce4ae8e7c,add promo to cert and stage,0,0
+2024-09-26,2024-09-26T09:21:02+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a572caedb83483b32a443c158fee3d15f07daba3,coverage update,0,0
+2024-09-26,2024-09-26T09:20:14+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,60fa78a4b32dedd3455902fe2e70af7a068a90c4,ECGLOB-2142,0,0
+2024-09-26,2024-09-26T09:19:19+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,10aceb20abfef4e37d4cc8d1dde0ff63b5f43767,coverage update,0,0
+2024-09-26,2024-09-26T09:17:21+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c78586f7028b5d135088aa93584ee3e29dae8afd,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,0
+2024-09-24,2024-09-24T11:45:37+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,2a320e48a85c240fe72cafdd2edacd1bfa1c94d6,styles,0,0
+2024-09-23,2024-09-23T11:18:57+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c6e21dc98ae835fb6eeb6b16b2f110adb7fc459d,Feature/ecglob 2092 (#170),0,0
+2024-09-09,2024-09-09T12:12:25+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,86c3afcb0b30cf050079fb626d55d44dad658124,coverage update,0,0
+2024-09-09,2024-09-09T12:10:03+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1e83d78d0812086524f596bdc2b0e23c6779ae92,promocode pre-sets,1,0
+2024-09-09,2024-09-09T10:59:50+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,d6b66c1af72596f3ccc0c79e87ce4ed72b018e06,fix async tests render,0,0
+2024-09-06,2024-09-06T17:29:50+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,4cfb6854f5273e16fd615fa9a59b1ce9b0f9a6aa,Feature/promo code fixes (#167),1,1
+2024-09-05,2024-09-05T18:22:47+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,248329abffe3d3d2547061c6f3e31fda5e28d3c3,fix local and html,0,0
+2024-09-05,2024-09-05T18:01:43+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,f4f9bfb36a3a509fd9ddcbde82331c24a134aac6,Feature/align branch single config (#166),2,0
+2024-08-27,2024-08-27T18:12:00+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c16d704b015664f97ac045661397349087d2a84e,fix hook,0,0
+2024-08-27,2024-08-27T18:01:04+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,146d752d514c119b1f84d93d6b09dcbd4b4ca6fb,coverage update,0,1
+2024-08-27,2024-08-27T17:59:28+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,c730fb59781460016f3763034ef35b73c89c6ff2,"increase coverage, change hook",1,0
+2024-08-27,2024-08-27T14:20:30+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,58781c3992b73d46fe47257b5746ca39d060085d,coverage update,0,0
+2024-08-27,2024-08-27T14:16:39+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,8a12fd9d89b927e7cc2f882ee47222f13719cce3,remove comments restore test,0,0
+2024-08-26,2024-08-26T16:05:08+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e679823c8e4c8c33476b483be57a6769e3ff3ab5,fix on FR cashdeposit,0,0
+2024-08-26,2024-08-26T14:59:39+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,28d9c06736b04dc2a7da0c5cf6ae2d13a6df4d09,coverage update,0,0
+2024-08-26,2024-08-26T14:48:03+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a6720f314cbd363b460d6c28ba9308acd4779667,fix issue on inital reopening,0,0
+2024-08-02,2024-08-02T18:16:23+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,738f6bd2b9b82e332ed764e9640d09071fa5e492,fix color on opel,0,0
+2024-08-02,2024-08-02T17:53:57+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,95aabd36d56c75e4effac952c162161a4dd3fff0,coverage update,0,0
+2024-08-02,2024-08-02T17:51:26+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,fcc5191b24c1ec02a0065edb5a76468ac8c1927d,coverage update,0,0
+2024-08-02,2024-08-02T16:37:06+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,6e89caf1a44589c448766ce7da68e058d09a2e3b,fix interval/timeout,0,0
+2024-08-02,2024-08-02T16:26:13+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7564a50217bd4b6e5d67a8520298ebbdcb0ba63d,fix refresh token,0,0
+2024-08-02,2024-08-02T12:56:16+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,6336cff6f3bc17511dbc9a1a548698db6b6ce988,coverage update,1,0
+2024-08-02,2024-08-02T12:50:22+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,393f39e8aa9dd7572be6c0f1710306e3f7a6cd08,Hotfix/token 2 (#152),0,0
+2024-08-02,2024-08-02T12:13:15+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,b061df9fd0e61585e6452653ac929b24482fa971,add expiration check (#151),0,0
+2024-08-02,2024-08-02T12:12:46+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,cec09c71fc9983f4a0f2c6b10774e79850e22bc1,Feature/ecglob 1909 (#149),1,0
+2024-08-01,2024-08-01T15:22:14+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3c3234f8583db75816836da08a31fada798a0373,Feature/ecglob 1772 (#147),0,0
+2024-08-01,2024-08-01T11:45:03+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,158a0ebd9d21213eff919c49cfacc7eb9c862ec8,hotfix brand mapping,0,0
+2024-07-31,2024-07-31T16:26:18+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,26c897f09eabaa8c5c61d98741a6acaec8090cb4,extra fix on s,0,0
+2024-07-31,2024-07-31T14:56:16+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,075a771f7bbe2152cdfc9469276b9726ee76c429,add extra key,0,0
+2024-07-31,2024-07-31T14:47:55+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1dfb6672e874547ebf8de346661163fd5a79b913,ECGLOB-1893,1,0
+2024-07-31,2024-07-31T11:44:44+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,766e605710a4442285ff51e4ce955307f7924014,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,0
+2024-07-31,2024-07-31T11:41:28+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,128883b2f2bc0f907c6e2c05866d61fcc5dc9614,fix double call,0,0
+2024-07-31,2024-07-31T11:33:29+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,4226a93bc4a8a050253529b18b083f9517ae8121,Feature/ecglob 1909 (#146),0,0
+2024-07-31,2024-07-31T10:07:35+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,c08000e19452edb67e3765e16d99f09189608608,Feature/ecglob 1909 (#145),0,0
+2024-07-31,2024-07-31T08:46:42+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a71949bbd76645a2ff8a150c7d3e8a0ae418f975,fix downpayment 2,0,0
+2024-07-30,2024-07-30T16:37:18+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,39d70ba0dd2889d8e7fc4b832614d1239fc8d1a8,hotfix downpayment,0,0
+2024-07-30,2024-07-30T15:51:54+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,f5ec4ace712f1607b9ef39b235c31b9e02714d13,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,0
+2024-07-30,2024-07-30T15:46:04+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,d6e56bf5759ab27fcdbde461a6813af60cac0444,sonarqube,0,0
+2024-07-30,2024-07-30T13:04:00+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,ff27118ecbb4d138d2753b714f8b6f5375b48100,coverage and main view (#142),0,0
+2024-07-29,2024-07-29T18:40:31+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,aa352902c70ec85d97d260274927ae75bc822387,main view,0,0
+2024-07-29,2024-07-29T18:07:49+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,43fa23f57ecab5c87c54d15b3ac0bdb701a94263,improvements on sonarqube,0,0
+2024-07-29,2024-07-29T16:18:14+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,eb0f6deb018d18b1157c3ecc4f3302f5b70859a2,update coverage,0,0
+2024-07-29,2024-07-29T16:15:43+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,adfbbde9fa018086e6fccb77d0f5551eecee4a5b,fix sonarquobe fixes and reduce spinner on modal version,0,0
+2024-07-26,2024-07-26T11:30:43+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,4f7a4631790969ead20d658ece755f5e3100c8bf,fix handle parameters,0,0
+2024-07-25,2024-07-25T18:10:23+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,fa1cca4da36b366ca17d583b33f7bf682ad621d6,decrease complexity app.tsx,0,0
+2024-07-25,2024-07-25T16:49:40+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,df1d9d26aefcf58f38342b69159de11190796d3b,update coverage,0,1
+2024-07-25,2024-07-25T16:45:47+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b3101b0a1675f52ab9280858ad2be9526baa27d6,sonar fix,2,0
+2024-07-25,2024-07-25T16:40:28+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,69472717b33f017ef001ef57ce0afafd98a01976,fix downpayment,0,0
+2024-07-25,2024-07-25T12:38:56+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e932032b4b705f6d73a2ab802c1864c593298950,remove coverage,0,1
+2024-07-25,2024-07-25T12:20:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ee34d2a263ea82559a3683127bdd7f86fe0a839e,add coverage,1,0
+2024-07-25,2024-07-25T12:02:54+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b3f9300c9053d9ff8fb4c9907b337e69b36e733f,fix sonaqube,0,0
+2024-07-25,2024-07-25T11:29:44+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,e81cd0f5ed3fc1a85ba84bdebb2c079c00997b16,separators for UK (#139),0,0
+2024-07-24,2024-07-24T16:13:38+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,162e7172c9cd04998cc23410b541a2641d641497,update token expiration logic,0,0
+2024-07-24,2024-07-24T15:07:45+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,89ae78edeadfc711f4f0e6c175706541fc0a8a50,update service list order,0,0
+2024-07-24,2024-07-24T14:48:49+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,2e1696ba77371a3dc8dc5f73f117c1873ccdea49,delete coverage,0,0
+2024-07-24,2024-07-24T14:44:57+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,26c3692a008967580f71a0424bdc092b747accac,fix build,0,0
+2024-07-24,2024-07-24T12:24:24+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,024a1d7ca9f69702d235b9a15e56d2e4be15364a,Merge branch 'cert' into develop,0,0
+2024-07-24,2024-07-24T10:04:41+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,61eee796c98c7e08ff4529b911f3dc16798b3c84,fix styles,0,0
+2024-07-23,2024-07-23T18:37:40+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,cdaf3d99fec4b1aa99b53232129453d547f5e0ef,fixes on styles,0,0
+2024-07-23,2024-07-23T15:53:21+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,0e881c5a6aecb2f92d7be1a6b6df5bc38ac8014c,fix build,0,0
+2024-07-23,2024-07-23T15:46:59+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,7eb253551330a4d2c2b203022c11dda8f28b41ad,fix formatters hide vet inclu (#137),0,0
+2024-07-23,2024-07-23T15:46:59+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,b529d49cc3753f2e20aa4f8e0b08b86aeb8c8e35,fix formatters hide vet inclu (#137),0,0
+2024-07-23,2024-07-23T13:32:27+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,56eb9473788c2b2483d3d70fbff323152a905bfc,styles (#136),0,0
+2024-07-22,2024-07-22T17:20:40+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,499333f19ddff39bbe335c97c38c3782ac4fdb7e,update error handler miles,0,0
+2024-07-22,2024-07-22T16:08:30+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,784b509ee06d18fb64eacdb23acf2cdd70b2d4db,add miles integrations (#135),0,0
+2024-07-23,2024-07-23T13:32:27+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,827f4b731f5bd2b95ed510d1654490add088ae7c,styles (#136),0,0
+2024-07-22,2024-07-22T17:20:40+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,6683eec3ebdeddb9b969830c17e1871d08c734bf,update error handler miles,0,0
+2024-07-22,2024-07-22T16:08:30+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,88b208098843d9d8d5ea91e9544115167ffc581b,add miles integrations (#135),0,0
+2024-07-22,2024-07-22T11:46:32+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,3f636a6792bc16fa2cc5b3569db23445771634b4,fix button type,0,0
+2024-07-22,2024-07-22T11:46:32+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b1cde49169a539ba6c7c5280943e594b5e27b646,fix button type,0,0
+2024-07-19,2024-07-19T17:48:13+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,9653af7b1428499bd0aa081ad93f38d015e081e3,fixes on reopening,0,0
+2024-07-19,2024-07-19T16:19:44+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,475875363a0bc5bc595dbdcdc028c58d32515056,fix for paramenters,0,0
+2024-07-19,2024-07-19T15:41:29+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,9f10f0ec0a49b17cc1e5c5c0bb52ec1fd4095c84,fix cert,0,0
+2024-07-18,2024-07-18T18:03:05+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7efce996e815bbf2ca63b6440f4c58b40288d29a,Merge branch 'stage' into cert,0,0
+2024-07-18,2024-07-18T17:53:16+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,2b5b3ecbfe8bc991935b419a47a49543a2131e09,fix tooltip behaviour (#130),0,0
+2024-07-18,2024-07-18T17:53:16+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,8425dd9c5bc77898c80b7c70c8d8b807cde76d4d,fix tooltip behaviour (#130),0,0
+2024-07-18,2024-07-18T16:34:49+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,30c4f116d261faf66fead6a53841e83541d7280d,fix custom parameters behaviour (#129),0,0
+2024-07-18,2024-07-18T16:34:49+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,99b2eed11bf68d4b04cbc1ee9cabc86a95a33d1b,fix custom parameters behaviour (#129),0,0
+2024-07-18,2024-07-18T10:35:22+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1a9560e9bb08e243a45b233e3be8c6e91deafe33,coverage ignore,1,0
+2024-07-18,2024-07-18T10:17:14+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,98455a4150aac4fe2b943e368a6dff24538c40a2,remove coverage,0,2
+2024-07-18,2024-07-18T10:07:50+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,7a3ede3bdaf10c54d65cd6de6ee0dda0cabf9825,Cert (#127),1,0
+2024-07-17,2024-07-17T17:53:43+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,52c10c65ec38973e8146a483b116ec6905ca7e56,fix parameters setted (#126),0,0
+2024-07-17,2024-07-17T17:31:36+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,4a96daeeba8f97e68ebba2100befc2df9923778e,Bugfix/ecglob 1816 (#125),1,0
+2024-07-17,2024-07-17T17:53:43+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,39f771098467b9040674b2fc5b04367a1b4595f9,fix parameters setted (#126),0,0
+2024-07-17,2024-07-17T17:31:36+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,72f1ee935888327663dae01ed93c45ba23b9e430,Bugfix/ecglob 1816 (#125),1,0
+2024-07-17,2024-07-17T16:35:51+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,28c6fd25b81d42dbe84b3f1f6c60eb86badecf9b,update coverage,1,0
+2024-07-17,2024-07-17T16:32:12+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1ef8dc715218a651914e86d3ff61fda3ceb065d5,update git ignore,0,0
+2024-07-17,2024-07-17T16:31:48+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7dfdc31dcab660ecb198f36b9eb6604e15eff8fe,remove coverage,0,2
+2024-07-17,2024-07-17T11:50:10+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,9f2d004570e42e73eb61e94e1c910cd8289466d6,remove coverage,0,0
+2024-07-17,2024-07-17T11:33:04+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,aac610206b2afdf5f4e5af16d09a80c625c1dcbf,Feature/ecglob 1810 (#124),0,0
+2024-07-17,2024-07-17T11:33:04+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,60944b9c0d2eaee22297d4cf34189c8d2b6e8452,Feature/ecglob 1810 (#124),0,0
+2024-07-05,2024-07-05T17:53:24+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,fe450f07ed71ded4d67bdeff969445037b8b7b23,version coverage,2,0
+2024-07-05,2024-07-05T15:51:32+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,8f5f530a8b78fae918312d83bf295f003436d684,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,1
+2024-07-05,2024-07-05T15:48:17+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,44d6680c657ff4736ee75cd45da53a79c79e45f8,add Textfield,0,0
+2024-07-04,2024-07-04T17:47:31+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,655acc9db138f4ae88ded75bc09589e23dea92ff,fix build,0,0
+2024-06-28,2024-06-28T12:25:59+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,40ccc1727fe4bf3d37f33bd58187dff151a4584f,Merge branch 'cert' into stage,0,0
+2024-06-28,2024-06-28T12:25:36+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,ffb168d0653606fce11ebfa2bad8ce322bc52a8f,Merge branch 'develop' into cert,0,0
+2024-06-28,2024-06-28T12:24:57+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,cd824e035c0509531666cba902414327c98d078d,fix devtools 3,0,0
+2024-06-28,2024-06-28T12:20:35+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,38261de8c139b9a5b6b585ce829362049f1c055b,Merge branch 'cert' into stage,0,0
+2024-06-28,2024-06-28T12:18:24+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,43b41e760f3eb0b04457ef96b35e00a20810e121,Merge branch 'develop' into cert,0,0
+2024-06-28,2024-06-28T12:17:20+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,dc434be772b6ba5e6ad8c4fead9e18fb0a0f5b98,Merge branch 'stage' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into stage,1,0
+2024-06-28,2024-06-28T12:17:08+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b055a376171ca81a869eeb7f4bd7bfe22e2bfc33,Merge branch 'cert' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into cert,1,0
+2024-06-28,2024-06-28T12:13:12+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,82726d05e9abd71bc66c15254d47c18ac68b72ee,fix dotenv,0,0
+2024-06-28,2024-06-28T12:02:08+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,6a0bf3c342f0b95bc4bf0f429491dcc54b978bcc,Develop (#114) (#115),1,0
+2024-06-28,2024-06-28T12:01:45+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,2384155f7a4b508158225ad5d158170f3fc88763,Develop (#114),1,0
+2024-06-28,2024-06-28T11:53:53+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,9409055b7bee78621bbe8348bdc8db7b49eea450,devtools prod,1,0
+2024-06-28,2024-06-28T11:24:55+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7e368ec52cb787b650d35a808ecf45c3e8a9673c,move selected item logins,0,0
+2024-06-28,2024-06-28T10:01:20+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,6f2a797cd8c18c55370a436983b2d2419daf3e71,fix downpayment,0,0
 2024-06-28,2024-06-28T09:13:43+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,26d38acbca1adc28e7d44c10d2683f6677b65b7c,Merge branch 'develop',0,0
 2024-06-27,2024-06-27T17:22:16+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,761194fe475d4479f2bb47f0321d9306abf88b93,Merge branch 'develop' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module into develop,0,0
 2024-06-27,2024-06-27T17:13:46+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7cf3e18b0526576c13c931e5e886d209c66cd658,Merge branch 'main' into develop,0,0
+2024-06-27,2024-06-27T17:13:12+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,d424d623b79d5c481ec99620514dc4558469a9fd,Merge branch 'main' into cert,0,0
+2024-06-27,2024-06-27T17:12:55+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,8aa6fac8ad520751b9d5d6d2f3965236b65d565c,Merge branch 'main' into stage,0,0
 2024-06-27,2024-06-27T16:49:57+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,90f99ceb4a48690026ee30ac1d773de917708a9d,remove parameters from default,0,0
 2024-06-27,2024-06-27T15:42:07+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,947afd31f7be47b987d0eaa4b71e64cb83de6ac5,fix base path,0,0
 2024-06-27,2024-06-27T14:57:56+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,1102aaf4b651b711fec5c84fb7cda3be7b0c7c8f,fix buket link,0,0
@@ -10,11 +819,19 @@ Date,Timestamp,Author,Email,Hash,Subject,Additions,Deletions
 2024-06-27,2024-06-27T11:06:40+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,087bca8956b024fd7d0ce6a02cc18562ee593a54,Merge branch 'main' of https://github.psa-cloud.com/nls00/leasys-finc-calc-widget-module,0,0
 2024-06-27,2024-06-27T09:32:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,92df4100406071bfebea917129d0d7e96dd13197,fix services empty,0,0
 2024-06-27,2024-06-27T10:15:36+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,7cd389066490da419c93ad426837d42252c9d4c9,Stage (#111),0,0
+2024-06-27,2024-06-27T10:14:56+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,5aabbdd4fdd08081a4718368c80d4cc2df353276,Cert (#110),0,0
 2024-06-27,2024-06-27T09:32:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,22f75417611ae5b415a109e23b04c2d8f49358e9,fix services empty,0,0
+2024-06-27,2024-06-27T09:32:34+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,a86aefc23a57deb7b7b7fb5638405d1939a375e6,fix services empty,0,0
+2024-06-26,2024-06-26T17:25:01+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,3c69228fefa27c3b6c6aaed420f419899e34240c,Develop (#109),0,0
 2024-06-26,2024-06-26T17:02:39+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,bca2abc3cf487b5b79ccf4a2278ca3ed5adff795,fix message,0,0
 2024-06-26,2024-06-26T16:13:11+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,859fd569ac42cf8c343ff99925d1f509a23f234e,Main (#108),1055,242
 2024-06-26,2024-06-26T16:12:25+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,18baaee8d75fb9870a341f39e22d29aec59d6acf,Stage (#107),0,0
+2024-06-26,2024-06-26T16:11:56+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,cd21468fdd8955cf85e0b37111ed942b34664e56,Cert (#106),0,0
+2024-06-26,2024-06-26T16:11:15+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,4fc2596e3729811d90aed61b4f4ecb7a65ed8355,Develop (#105),0,0
 2024-06-26,2024-06-26T15:30:59+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b4f616868d27928799a1792b0c4f3632b0d27e1b,show refresh failure only on first load,0,0
+2024-06-26,2024-06-26T14:15:03+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,650d522e65ffd525fab4f691cb58cd1bf2fe8150,Develop (#104),0,0
+2024-06-26,2024-06-26T10:39:56+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,29a784c592691c68df2e1910a22ca1f3300cd745,Develop (#103),0,0
+2024-06-26,2024-06-26T10:27:17+02:00,MARCO SIVESTRONI - SD21107,marco.sivestroni@external.stellantis.com,32b4ceacb40a563d05606f69eeb68d006bd68041,cert align (#102),2,0
 2024-06-26,2024-06-26T10:10:37+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,7656d03c1a5e8b4018d0c4e95be6833673d52994,adjust test,0,0
 2024-06-26,2024-06-26T10:00:12+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,e93db8547e6d7adc166d7c9678d2ca128fbc9815,ECOBLOG-1482,0,0
 2024-06-25,2024-06-25T16:09:52+02:00,Marco Silvestroni,marco.silvestroni@accenture.com,b361aca93bc09c785f09a8a7b7bc91b2167593f5,fix brand name mapping,0,0

@@ -36,7 +36,8 @@ class GitCommitExtractor:
         'silvestronimarco@gmail.com',
         'marco.silvestroni@accenture.com',
         'marco.sivestroni@external.stellantis.com',
-        'sd21107'
+        'sd21107',
+        'omni-msilvetroni'
     ]
     
     def __init__(self, output_dir: Optional[str] = None, author_filter: Optional[List[str]] = None):
@@ -363,12 +364,13 @@ Examples:
     
     try:
         # Determine author filter
-        author_filter = None
-        if args.my_commits:
-            author_filter = GitCommitExtractor.DEFAULT_AUTHORS
-            print(f"📧 Filtering commits by authors: {', '.join(author_filter)}\n")
-        elif args.author:
+        # Default: use DEFAULT_AUTHORS if no filter specified
+        author_filter = GitCommitExtractor.DEFAULT_AUTHORS
+        
+        if args.author:
             author_filter = args.author
+            print(f"📧 Filtering commits by authors: {', '.join(author_filter)}\n")
+        else:
             print(f"📧 Filtering commits by authors: {', '.join(author_filter)}\n")
         
         extractor = GitCommitExtractor(output_dir=args.output, author_filter=author_filter)

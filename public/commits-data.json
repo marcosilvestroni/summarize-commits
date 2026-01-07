@@ -1,9 +1,87 @@
 [
   {
-    "date": "2025-12-12",
+    "date": "2026-01-07",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-12-23",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-12-22",
     "count": 1,
     "projects": [
       "NPT_FE"
+    ]
+  },
+  {
+    "date": "2025-12-18",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-12-17",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-12-16",
+    "count": 8,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-12-15",
+    "count": 7,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-12-12",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
+      "NPT_FE"
+    ]
+  },
+  {
+    "date": "2025-12-10",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-12-05",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-12-04",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-12-02",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -15,57 +93,65 @@
   },
   {
     "date": "2025-11-27",
-    "count": 2,
+    "count": 3,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-11-25",
-    "count": 3,
+    "count": 7,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-11-24",
-    "count": 5,
+    "count": 10,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-11-21",
-    "count": 3,
+    "count": 5,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-11-20",
-    "count": 2,
+    "count": 10,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-11-19",
-    "count": 2,
+    "count": 4,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-11-18",
-    "count": 2,
+    "count": 6,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-11-17",
-    "count": 2,
+    "count": 9,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
@@ -77,30 +163,62 @@
     ]
   },
   {
-    "date": "2025-11-12",
-    "count": 1,
+    "date": "2025-11-13",
+    "count": 5,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-11-12",
+    "count": 13,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-11-11",
-    "count": 4,
+    "count": 11,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
-    "date": "2025-11-03",
+    "date": "2025-11-07",
     "count": 1,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-11-05",
+    "count": 5,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-11-04",
+    "count": 10,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-11-03",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-10-31",
-    "count": 1,
+    "count": 5,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
@@ -113,8 +231,9 @@
   },
   {
     "date": "2025-10-28",
-    "count": 4,
+    "count": 6,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
@@ -147,17 +266,47 @@
     ]
   },
   {
-    "date": "2025-10-14",
+    "date": "2025-10-17",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-10-16",
+    "count": 4,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-10-15",
     "count": 1,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-10-14",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-10-13",
-    "count": 7,
+    "count": 13,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
+    ]
+  },
+  {
+    "date": "2025-10-10",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -175,10 +324,25 @@
     ]
   },
   {
-    "date": "2025-10-03",
-    "count": 2,
+    "date": "2025-10-06",
+    "count": 3,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-10-03",
+    "count": 5,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
+    ]
+  },
+  {
+    "date": "2025-10-02",
+    "count": 7,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -190,29 +354,47 @@
   },
   {
     "date": "2025-09-30",
-    "count": 1,
+    "count": 3,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
-    "date": "2025-09-26",
-    "count": 1,
+    "date": "2025-09-29",
+    "count": 2,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-09-26",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-09-25",
-    "count": 1,
+    "count": 2,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
-    "date": "2025-09-22",
-    "count": 3,
+    "date": "2025-09-24",
+    "count": 10,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-09-22",
+    "count": 6,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
@@ -224,17 +406,33 @@
     ]
   },
   {
-    "date": "2025-09-17",
-    "count": 1,
+    "date": "2025-09-18",
+    "count": 2,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-09-17",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-09-16",
+    "count": 9,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
+      "NPT_FE"
+    ]
+  },
+  {
+    "date": "2025-09-15",
     "count": 4,
     "projects": [
-      "NPT_FE"
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -245,17 +443,61 @@
     ]
   },
   {
-    "date": "2025-09-05",
-    "count": 4,
+    "date": "2025-09-11",
+    "count": 8,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-09-10",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-09-09",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-09-05",
+    "count": 7,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
-    "date": "2025-09-03",
-    "count": 1,
+    "date": "2025-09-04",
+    "count": 3,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-09-03",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
+    ]
+  },
+  {
+    "date": "2025-09-02",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-09-01",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -267,44 +509,169 @@
   },
   {
     "date": "2025-08-28",
-    "count": 7,
+    "count": 9,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-08-27",
-    "count": 1,
+    "count": 4,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-08-26",
-    "count": 1,
+    "count": 9,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
+    ]
+  },
+  {
+    "date": "2025-08-25",
+    "count": 4,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-08-22",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-08-21",
+    "count": 13,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-08-20",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-08-01",
+    "count": 11,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2025-07-25",
-    "count": 1,
+    "count": 21,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
+    ]
+  },
+  {
+    "date": "2025-07-24",
+    "count": 9,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2025-07-23",
-    "count": 1,
+    "count": 15,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
+    "date": "2025-07-21",
+    "count": 7,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-07-18",
+    "count": 4,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
     "date": "2025-07-15",
+    "count": 8,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
+      "NPT_FE"
+    ]
+  },
+  {
+    "date": "2025-07-14",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-07-11",
+    "count": 9,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-07-10",
+    "count": 8,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-07-09",
+    "count": 17,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-07-08",
     "count": 1,
     "projects": [
-      "NPT_FE"
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-07-07",
+    "count": 6,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "count": 8,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-07-03",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-07-02",
+    "count": 4,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -315,10 +682,74 @@
     ]
   },
   {
-    "date": "2025-06-18",
+    "date": "2025-06-30",
+    "count": 6,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-06-27",
+    "count": 5,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-06-26",
+    "count": 12,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-06-25",
+    "count": 7,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-06-24",
+    "count": 7,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-06-23",
     "count": 1,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-06-20",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-06-19",
+    "count": 7,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-06-18",
+    "count": 4,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
+    ]
+  },
+  {
+    "date": "2025-06-17",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -337,86 +768,193 @@
   },
   {
     "date": "2025-06-11",
-    "count": 1,
+    "count": 6,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-06-10",
+    "count": 7,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
+      "NPT_FE"
+    ]
+  },
+  {
+    "date": "2025-06-09",
     "count": 4,
     "projects": [
-      "NPT_FE"
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2025-06-06",
-    "count": 1,
+    "count": 5,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
-    "date": "2025-05-23",
+    "date": "2025-05-30",
+    "count": 8,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-05-29",
+    "count": 4,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-05-28",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-05-26",
     "count": 2,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-05-23",
+    "count": 6,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-05-22",
-    "count": 3,
+    "count": 6,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-05-21",
-    "count": 5,
+    "count": 6,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
-    "date": "2025-05-16",
+    "date": "2025-05-20",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-05-19",
     "count": 2,
     "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2025-05-16",
+    "count": 7,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
     "date": "2025-05-15",
-    "count": 1,
+    "count": 16,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
       "NPT_FE"
     ]
   },
   {
-    "date": "2025-05-12",
-    "count": 1,
+    "date": "2025-05-14",
+    "count": 11,
     "projects": [
-      "DTX_FE"
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-05-13",
+    "count": 8,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-05-12",
+    "count": 8,
+    "projects": [
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-05-09",
+    "count": 6,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2025-05-08",
-    "count": 1,
+    "count": 8,
     "projects": [
-      "DTX_FE"
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-05-07",
+    "count": 7,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2025-05-05",
-    "count": 1,
+    "count": 10,
     "projects": [
-      "DTX_FE"
+      "B2C_MKT_OMNICHANNEL",
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-04-30",
+    "count": 4,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-04-29",
+    "count": 9,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2025-04-28",
-    "count": 1,
+    "count": 4,
     "projects": [
-      "DTX_FE"
+      "B2C_MKT_OMNICHANNEL",
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -428,9 +966,17 @@
   },
   {
     "date": "2025-04-17",
+    "count": 4,
+    "projects": [
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-04-16",
     "count": 1,
     "projects": [
-      "DTX_FE"
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -438,6 +984,13 @@
     "count": 2,
     "projects": [
       "DTX_FE"
+    ]
+  },
+  {
+    "date": "2025-04-14",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -455,6 +1008,14 @@
     ]
   },
   {
+    "date": "2025-04-07",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
     "date": "2025-04-04",
     "count": 1,
     "projects": [
@@ -462,39 +1023,99 @@
     ]
   },
   {
-    "date": "2025-04-01",
-    "count": 1,
+    "date": "2025-04-03",
+    "count": 4,
     "projects": [
-      "DTX_FE"
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
-    "date": "2025-03-21",
-    "count": 3,
+    "date": "2025-04-01",
+    "count": 2,
     "projects": [
       "DTX_FE",
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
-    "date": "2025-03-14",
+    "date": "2025-03-28",
     "count": 1,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-03-27",
+    "count": 6,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-03-26",
+    "count": 7,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-03-25",
+    "count": 17,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-03-21",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "DTX_FE"
+    ]
+  },
+  {
+    "date": "2025-03-20",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-03-14",
+    "count": 6,
+    "projects": [
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-03-13",
+    "count": 9,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2025-03-12",
-    "count": 1,
+    "count": 17,
     "projects": [
-      "DTX_FE"
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2025-03-11",
-    "count": 5,
+    "count": 11,
     "projects": [
-      "DTX_FE"
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-03-07",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -512,6 +1133,13 @@
     ]
   },
   {
+    "date": "2025-02-28",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
     "date": "2025-02-27",
     "count": 1,
     "projects": [
@@ -520,9 +1148,10 @@
   },
   {
     "date": "2025-02-25",
-    "count": 1,
+    "count": 2,
     "projects": [
-      "DTX_FE"
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -534,9 +1163,10 @@
   },
   {
     "date": "2025-02-21",
-    "count": 1,
+    "count": 3,
     "projects": [
-      "DTX_FE"
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -547,10 +1177,48 @@
     ]
   },
   {
-    "date": "2025-02-13",
+    "date": "2025-02-19",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-02-18",
+    "count": 6,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-02-17",
+    "count": 11,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-02-14",
     "count": 1,
     "projects": [
-      "DTX_FE"
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-02-13",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-02-11",
+    "count": 6,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -562,9 +1230,10 @@
   },
   {
     "date": "2025-02-05",
-    "count": 9,
+    "count": 10,
     "projects": [
-      "DTX_FE"
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -575,17 +1244,34 @@
     ]
   },
   {
-    "date": "2025-01-31",
+    "date": "2025-02-03",
     "count": 1,
     "projects": [
-      "DTX_FE"
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-01-31",
+    "count": 5,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2025-01-30",
-    "count": 4,
+    "count": 6,
     "projects": [
-      "DTX_FE"
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-01-29",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -638,17 +1324,26 @@
     ]
   },
   {
-    "date": "2025-01-16",
-    "count": 12,
+    "date": "2025-01-17",
+    "count": 13,
     "projects": [
-      "DTX_FE"
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2025-01-16",
+    "count": 14,
+    "projects": [
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2025-01-13",
-    "count": 1,
+    "count": 2,
     "projects": [
-      "DTX_FE"
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -670,6 +1365,20 @@
     "count": 9,
     "projects": [
       "DTX_FE"
+    ]
+  },
+  {
+    "date": "2025-01-07",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-12-19",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
     ]
   },
   {
@@ -695,37 +1404,56 @@
   },
   {
     "date": "2024-12-12",
-    "count": 5,
+    "count": 6,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "DTX_FE"
     ]
   },
   {
     "date": "2024-12-11",
-    "count": 3,
+    "count": 4,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "DTX_FE"
     ]
   },
   {
-    "date": "2024-12-09",
-    "count": 2,
+    "date": "2024-12-10",
+    "count": 3,
     "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-12-09",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "DTX_FE"
     ]
   },
   {
     "date": "2024-12-05",
-    "count": 2,
+    "count": 3,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "DTX_FE"
     ]
   },
   {
     "date": "2024-12-04",
-    "count": 1,
+    "count": 7,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "DTX_FE"
+    ]
+  },
+  {
+    "date": "2024-12-03",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
     ]
   },
   {
@@ -736,16 +1464,25 @@
     ]
   },
   {
-    "date": "2024-11-28",
+    "date": "2024-11-29",
     "count": 2,
     "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-11-28",
+    "count": 5,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "DTX_FE"
     ]
   },
   {
     "date": "2024-11-27",
-    "count": 3,
+    "count": 4,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "DTX_FE"
     ]
   },
@@ -758,15 +1495,17 @@
   },
   {
     "date": "2024-11-25",
-    "count": 1,
+    "count": 3,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "DTX_FE"
     ]
   },
   {
     "date": "2024-11-22",
-    "count": 2,
+    "count": 3,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "DTX_FE"
     ]
   },
@@ -786,9 +1525,24 @@
   },
   {
     "date": "2024-11-19",
-    "count": 6,
+    "count": 8,
     "projects": [
-      "DTX_FE"
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-11-14",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-11-13",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -806,9 +1560,38 @@
     ]
   },
   {
-    "date": "2024-10-31",
+    "date": "2024-11-07",
     "count": 1,
     "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-11-06",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-11-05",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-11-04",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-10-31",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "DTX_FE"
     ]
   },
@@ -820,6 +1603,35 @@
     ]
   },
   {
+    "date": "2024-10-29",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-10-28",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-10-25",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-10-23",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
     "date": "2024-10-22",
     "count": 1,
     "projects": [
@@ -828,9 +1640,11 @@
   },
   {
     "date": "2024-10-21",
-    "count": 1,
+    "count": 6,
     "projects": [
-      "DTX_FE"
+      "B2C_MKT_OMNICHANNEL",
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -838,6 +1652,13 @@
     "count": 2,
     "projects": [
       "DTX_FE"
+    ]
+  },
+  {
+    "date": "2024-10-16",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -849,16 +1670,26 @@
   },
   {
     "date": "2024-10-14",
-    "count": 1,
+    "count": 4,
     "projects": [
-      "DTX_FE"
+      "B2C_MKT_OMNICHANNEL",
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2024-10-11",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "DTX_FE"
+    ]
+  },
+  {
+    "date": "2024-10-08",
     "count": 1,
     "projects": [
-      "DTX_FE"
+      "B2C_MKT_OMNICHANNEL"
     ]
   },
   {
@@ -870,16 +1701,18 @@
   },
   {
     "date": "2024-10-03",
-    "count": 1,
+    "count": 3,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "DTX_FE"
     ]
   },
   {
     "date": "2024-10-02",
-    "count": 1,
+    "count": 4,
     "projects": [
-      "DTX_FE"
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
@@ -898,58 +1731,251 @@
   },
   {
     "date": "2024-09-26",
-    "count": 4,
+    "count": 10,
     "projects": [
-      "DTX_FE"
+      "B2C_MKT_OMNICHANNEL",
+      "DTX_FE",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
-    "date": "2024-06-28",
+    "date": "2024-09-24",
     "count": 1,
     "projects": [
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
-    "date": "2024-06-27",
-    "count": 10,
+    "date": "2024-09-23",
+    "count": 1,
     "projects": [
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
-    "date": "2024-06-26",
-    "count": 6,
+    "date": "2024-09-18",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-09-13",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-09-09",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-09-06",
+    "count": 1,
     "projects": [
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
-    "date": "2024-06-25",
+    "date": "2024-09-05",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-08-27",
     "count": 5,
     "projects": [
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
-    "date": "2024-06-21",
+    "date": "2024-08-26",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-08-02",
+    "count": 9,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-08-01",
+    "count": 2,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-31",
+    "count": 8,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-30",
+    "count": 5,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-29",
+    "count": 4,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-26",
+    "count": 1,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-25",
+    "count": 8,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-24",
+    "count": 8,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-23",
+    "count": 6,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-22",
+    "count": 6,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-19",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-18",
+    "count": 8,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-17",
+    "count": 10,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-05",
+    "count": 3,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-04",
+    "count": 5,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-07-03",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-06-28",
+    "count": 14,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-06-27",
+    "count": 14,
+    "projects": [
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-06-26",
     "count": 12,
     "projects": [
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
-    "date": "2024-06-20",
-    "count": 1,
+    "date": "2024-06-25",
+    "count": 7,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-06-21",
+    "count": 14,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
+      "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-06-20",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2024-06-19",
-    "count": 1,
+    "count": 2,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-06-18",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
     ]
   },
   {
@@ -960,10 +1986,38 @@
     ]
   },
   {
+    "date": "2024-06-10",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
     "date": "2024-06-07",
     "count": 2,
     "projects": [
       "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-06-06",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-06-05",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-06-04",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
     ]
   },
   {
@@ -982,8 +2036,9 @@
   },
   {
     "date": "2024-05-30",
-    "count": 3,
+    "count": 6,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
@@ -1143,8 +2198,9 @@
   },
   {
     "date": "2024-04-16",
-    "count": 3,
+    "count": 4,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
@@ -1157,8 +2213,9 @@
   },
   {
     "date": "2024-04-11",
-    "count": 8,
+    "count": 9,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
@@ -1171,8 +2228,9 @@
   },
   {
     "date": "2024-04-08",
-    "count": 1,
+    "count": 4,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
@@ -1181,6 +2239,20 @@
     "count": 3,
     "projects": [
       "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-03-29",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-03-28",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
     ]
   },
   {
@@ -1227,8 +2299,9 @@
   },
   {
     "date": "2024-03-15",
-    "count": 3,
+    "count": 4,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
@@ -1269,9 +2342,17 @@
   },
   {
     "date": "2024-03-05",
-    "count": 2,
+    "count": 3,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-03-04",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
     ]
   },
   {
@@ -1290,15 +2371,17 @@
   },
   {
     "date": "2024-02-28",
-    "count": 4,
+    "count": 6,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
   {
     "date": "2024-02-22",
-    "count": 1,
+    "count": 2,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
@@ -1311,8 +2394,9 @@
   },
   {
     "date": "2024-02-16",
-    "count": 1,
+    "count": 3,
     "projects": [
+      "B2C_MKT_OMNICHANNEL",
       "LEASYS_FINC_CALC_WIDGET_MODULE"
     ]
   },
@@ -1328,6 +2412,1084 @@
     "count": 1,
     "projects": [
       "LEASYS_FINC_CALC_WIDGET_MODULE"
+    ]
+  },
+  {
+    "date": "2024-02-08",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-02-02",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-01-25",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-01-19",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-01-18",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-01-17",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-01-16",
+    "count": 5,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-01-12",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2024-01-11",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-12-22",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-12-21",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-12-20",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-12-19",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-12-18",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-12-14",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-12-13",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-12-06",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-12-05",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-12-01",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-11-30",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-11-27",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-10-02",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-29",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-28",
+    "count": 6,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-26",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-25",
+    "count": 6,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-22",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-21",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-15",
+    "count": 11,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-14",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-13",
+    "count": 6,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-11",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-08",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-07",
+    "count": 6,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-06",
+    "count": 10,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-04",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-09-01",
+    "count": 13,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-08-31",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-08-25",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-08-24",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-08-23",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-08-21",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-08-04",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-08-03",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-08-02",
+    "count": 6,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-08-01",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-07-31",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-07-28",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-07-26",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-07-21",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-07-20",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-07-19",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-07-17",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-07-10",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-07-07",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-07-06",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-30",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-29",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-26",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-23",
+    "count": 6,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-22",
+    "count": 5,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-21",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-20",
+    "count": 7,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-15",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-14",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-13",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-12",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-09",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-08",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-07",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-06",
+    "count": 6,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-05",
+    "count": 5,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-06-01",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-30",
+    "count": 6,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-29",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-26",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-25",
+    "count": 6,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-24",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-23",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-18",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-17",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-15",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-12",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-11",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-10",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-09",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-08",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-04",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-03",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-05-02",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-04-28",
+    "count": 9,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-04-27",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-04-26",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-04-21",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-04-20",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-04-19",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-04-18",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-04-17",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-04-14",
+    "count": 7,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-04-13",
+    "count": 7,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-04-06",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-04-04",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-31",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-30",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-29",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-28",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-27",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-23",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-21",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-20",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-16",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-15",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-14",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-13",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-07",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-06",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-03",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-02",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-03-01",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-28",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-27",
+    "count": 4,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-23",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-21",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-17",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-16",
+    "count": 11,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-15",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-14",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-10",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-09",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-08",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-06",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-02-02",
+    "count": 6,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-01-20",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-01-18",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2023-01-17",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-12-22",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-12-20",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-12-05",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-11-29",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-11-24",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-11-21",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-11-08",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-10-12",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-10-11",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-10-10",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-10-07",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-10-06",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-09-30",
+    "count": 3,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-09-29",
+    "count": 5,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-09-26",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-09-22",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-09-21",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-09-16",
+    "count": 2,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
+    ]
+  },
+  {
+    "date": "2022-08-29",
+    "count": 1,
+    "projects": [
+      "B2C_MKT_OMNICHANNEL"
     ]
   }
 ]
