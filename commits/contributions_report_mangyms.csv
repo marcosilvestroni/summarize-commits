@@ -1,0 +1,6 @@
+Date,Timestamp,Author,Email,Hash,Subject,Additions,Deletions
+2025-12-12,2025-12-12T18:00:31+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,8e14f9b07344909c88d4af45f17a489561688c68,"UI improvements: button alignment, 24h time format, mock data, match editing, logo size",0,0
+2025-12-12,2025-12-12T17:37:45+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,42bda65e38e0a0037f21df1a80703b8d36341388,"Update sidebar: transparent logo, gradient background, layout adjustments",1,0
+2025-12-12,2025-12-12T17:12:35+01:00,Marco Silvestroni,marco.silvestroni@accenture.com,b1eba82b4a8c3313f99cecdc8db4fd7b3b5dbe98,Fix build: Add missing React types and remove unused import,0,0
+2025-12-12,2025-12-12T15:00:59+01:00,Marco Silvestroni,marco.sivestroni@external.stellantis.com,80d5486fd080cbe6c3a231c1c42b5648320d772c,Initial commit for ManGyms,2,0
+2025-12-12,2025-12-12T11:21:54+01:00,Marco Silvestroni,silvestronimarco@gmail.com,11f05b0023567951edeaccd4e6095e13570ed4df,Initial commit,0,0

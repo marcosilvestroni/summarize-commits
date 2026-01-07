@@ -1,0 +1,16 @@
+Date,Timestamp,Author,Email,Hash,Subject,Additions,Deletions
+2026-01-07,2026-01-07T18:04:35+01:00,Marco Silvestroni,silvestronimarco@gmail.com,e768a130d66cf81053409dd0ac598f676ed609a6,Refactor code structure for improved readability and maintainability,1,0
+2025-12-22,2025-12-22T16:34:36+01:00,Marco Silvestroni,silvestronimarco@gmail.com,ec3bc495988f0ca2d378370b0219fe9b5e66fddb,chore: remove packageManager field from package.json,0,0
+2025-12-22,2025-12-22T16:30:52+01:00,Marco Silvestroni,silvestronimarco@gmail.com,5b1de25ad72471dfc72baeccbb6b6786e4d67547,Enhance Contribution Graph with Yearly Stats and Improved Fallbacks,8,0
+2025-12-22,2025-12-22T16:04:18+01:00,Marco Silvestroni,silvestronimarco@gmail.com,49b4400f65cd3fc626c76393bd18bb3979191c30,Remove contributions report CSV file as it is no longer needed for project documentation.,0,0
+2025-12-22,2025-12-22T15:56:41+01:00,Marco Silvestroni,silvestronimarco@gmail.com,6c22ce2db5a0ae51bd625209008f06c91065c07d,feat: add author filtering support and extract ALL commits (remove --diff-filter=A),0,0
+2025-12-22,2025-12-22T15:31:10+01:00,Marco Silvestroni,silvestronimarco@gmail.com,08d3c04c9deecffba93f0eb36cc229285ac3c3d2,docs: add English README and organize documentation with language support,0,0
+2025-12-22,2025-12-22T15:26:56+01:00,Marco Silvestroni,silvestronimarco@gmail.com,28207ed5e80d3ce6dbcede03ce8bc7c680278699,docs: improve README with quick start guide and clearer architecture explanation,0,0
+2025-12-22,2025-12-22T15:23:37+01:00,Marco Silvestroni,silvestronimarco@gmail.com,81949431d7c4efcd08dba198ecbe1db24f0088ba,fix: make app fully static for GitHub Pages deployment - aggregate CSV data to JSON during build,0,0
+2025-12-22,2025-12-22T15:19:37+01:00,Marco Silvestroni,silvestronimarco@gmail.com,f532d7f78171757e09708d38729c49440742ea00,feat: add dynamic Python script to extract commits from Git repositories,0,0
+2025-12-22,2025-12-22T15:09:39+01:00,Marco Silvestroni,silvestronimarco@gmail.com,ee4412be26d6bd80b469a4e49b06e3922ded2436,fix build,0,0
+2025-12-22,2025-12-22T14:59:59+01:00,Marco Silvestroni,silvestronimarco@gmail.com,7a34e4209586e497afbc34c4e8aba2a2cf1a4ec2,remove packagemanager,0,0
+2025-12-22,2025-12-22T14:57:23+01:00,Marco Silvestroni,silvestronimarco@gmail.com,fbaac3ca6916f6722cbac9f78b03e4d601eef712,Remove packageManager field and switch to standard yarn 1.x for GitHub Actions compatibility,0,0
+2025-12-22,2025-12-22T14:55:26+01:00,Marco Silvestroni,silvestronimarco@gmail.com,9a7dbfc932bce39f99f4e5d79a5644dc34e80006,Enable Corepack for Yarn 4.6.0 compatibility in GitHub Actions,0,0
+2025-12-22,2025-12-22T14:51:33+01:00,Marco Silvestroni,silvestronimarco@gmail.com,5e76a3ab3f13a876a35d95b5f968be139e5f7fb7,Add GitHub Pages base path configuration,1,0
+2025-12-22,2025-12-22T14:51:04+01:00,Marco Silvestroni,silvestronimarco@gmail.com,12052972493d77bb0b3420123be7c9799d0676ae,Initial commit: Contribution graph viewer with GitHub Pages deployment,19,0
