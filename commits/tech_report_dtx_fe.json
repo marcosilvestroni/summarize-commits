@@ -1,0 +1,29 @@
+{
+  "project": "dtx_fe",
+  "detectedAt": "2026-04-28",
+  "languages": [
+    "HTML",
+    "JSON",
+    "JavaScript",
+    "Shell",
+    "TypeScript",
+    "YAML"
+  ],
+  "frameworks": [
+    "ESLint",
+    "Jest",
+    "Prettier",
+    "React",
+    "Redux Toolkit",
+    "Storybook",
+    "Styled Components",
+    "Testing Library",
+    "Vite"
+  ],
+  "tools": [
+    "ESLint",
+    "Jest",
+    "Prettier",
+    "Vite"
+  ]
+}

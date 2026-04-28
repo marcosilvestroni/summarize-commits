@@ -1,0 +1,28 @@
+{
+  "project": "leasys_finc_calc_widget_module",
+  "detectedAt": "2026-04-28",
+  "languages": [
+    "CSS",
+    "HTML",
+    "JSON",
+    "JavaScript",
+    "TypeScript",
+    "YAML"
+  ],
+  "frameworks": [
+    "ESLint",
+    "Prettier",
+    "React",
+    "Redux Toolkit",
+    "Storybook",
+    "Styled Components",
+    "Testing Library",
+    "Vite",
+    "Vitest"
+  ],
+  "tools": [
+    "ESLint",
+    "Prettier",
+    "Vite"
+  ]
+}

@@ -32,7 +32,25 @@ interface ContributionData {
   projects: string[];
 }
 
-// Extract project name from filename (e.g., contributions_report_dtx.csv -> dtx)
+interface TechReport {
+  project: string;
+  detectedAt: string | null;
+  languages: string[];
+  frameworks: string[];
+  tools: string[];
+}
+
+interface TechMapData {
+  generatedAt: string;
+  projects: TechReport[];
+  aggregated: {
+    languages: Record<string, number>;
+    frameworks: Record<string, number>;
+    tools: Record<string, number>;
+  };
+}
+
+// Extract project name from filename
 function getProjectName(filename: string): string {
   const match = filename.match(/contributions_report_([^.]+)\.csv/);
   return match ? match[1].toUpperCase() : filename;
@@ -44,7 +62,6 @@ app.get("/api/commits", async (req, res) => {
     const commitsDir = path.join(__dirname, "commits");
     const files = await readdir(commitsDir);
 
-    // Filter only CSV files (not the ones with colons in the name which are alternate data streams)
     const csvFiles = files.filter(
       (file) => file.endsWith(".csv") && !file.includes(":")
     );
@@ -54,20 +71,17 @@ app.get("/api/commits", async (req, res) => {
       { count: number; projects: Set<string> }
     >();
 
-    // Read all CSV files
     for (const file of csvFiles) {
       const projectName = getProjectName(file);
       const filePath = path.join(commitsDir, file);
       try {
         const content = await readFile(filePath, "utf-8");
 
-        // Parse CSV
         const records = parse(content, {
           columns: true,
           skip_empty_lines: true,
         }) as CommitRecord[];
 
-        // Aggregate contributions by date
         for (const record of records) {
           const date = record.Date?.trim();
           if (date) {
@@ -85,7 +99,6 @@ app.get("/api/commits", async (req, res) => {
       }
     }
 
-    // Convert Map to array of objects for JSON serialization
     const result: ContributionData[] = Array.from(
       contributionMap.entries()
     ).map(([date, { count, projects }]) => ({
@@ -98,6 +111,67 @@ app.get("/api/commits", async (req, res) => {
   } catch (error) {
     console.error("Error reading commits:", error);
     res.status(500).json({ error: "Failed to read commit data" });
+  }
+});
+
+// API endpoint to get technology map (runtime aggregation for dev server)
+app.get("/api/tech-map", async (req, res) => {
+  try {
+    const commitsDir = path.join(__dirname, "commits");
+    const files = await readdir(commitsDir);
+    const techFiles = files.filter(
+      (f) => f.startsWith("tech_report_") && f.endsWith(".json")
+    );
+
+    const projects: TechReport[] = [];
+    const aggregated: TechMapData["aggregated"] = {
+      languages: {},
+      frameworks: {},
+      tools: {},
+    };
+
+    for (const file of techFiles) {
+      try {
+        const content = await readFile(
+          path.join(commitsDir, file),
+          "utf-8"
+        );
+        const report = JSON.parse(content) as TechReport;
+
+        projects.push({
+          name: report.project,
+          detectedAt: report.detectedAt ?? null,
+          languages: report.languages ?? [],
+          frameworks: report.frameworks ?? [],
+          tools: report.tools ?? [],
+        });
+
+        for (const lang of report.languages ?? []) {
+          aggregated.languages[lang] = (aggregated.languages[lang] ?? 0) + 1;
+        }
+        for (const fw of report.frameworks ?? []) {
+          aggregated.frameworks[fw] = (aggregated.frameworks[fw] ?? 0) + 1;
+        }
+        for (const tool of report.tools ?? []) {
+          aggregated.tools[tool] = (aggregated.tools[tool] ?? 0) + 1;
+        }
+      } catch (e) {
+        console.error(`Error reading ${file}:`, e);
+      }
+    }
+
+    projects.sort((a, b) => a.name.localeCompare(b.name));
+
+    const result: TechMapData = {
+      generatedAt: new Date().toISOString(),
+      projects,
+      aggregated,
+    };
+
+    res.json(result);
+  } catch (error) {
+    console.error("Error reading tech reports:", error);
+    res.status(500).json({ error: "Failed to read technology data" });
   }
 });
 

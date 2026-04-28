@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 import ContributionGraph from "./components/ContributionGraph";
+import TechMap, { type TechMapData } from "./components/TechMap";
 
 interface CommitData {
   date: string;
@@ -10,33 +11,49 @@ interface CommitData {
 
 function App() {
   const [contributionData, setContributionData] = useState<CommitData[]>([]);
+  const [techMapData, setTechMapData] = useState<TechMapData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    const loadCommitData = async () => {
+    const loadData = async () => {
       try {
         setLoading(true);
 
-        // Try API endpoint first (works for both local and production)
-        let response = await fetch("/api/commits");
-
-        // Fallback to static JSON (for GitHub Pages)
-        if (!response.ok) {
-          response = await fetch("/summarize-commits/commits-data.json");
+        // ── Load commit data ──────────────────────────────────────────────
+        let commitResponse = await fetch("/api/commits");
+        if (!commitResponse.ok) {
+          commitResponse = await fetch("/summarize-commits/commits-data.json");
         }
-
-        // Final fallback to root level JSON
-        if (!response.ok) {
-          response = await fetch("/commits-data.json");
+        if (!commitResponse.ok) {
+          commitResponse = await fetch("/commits-data.json");
         }
-
-        if (!response.ok) {
+        if (!commitResponse.ok) {
           throw new Error("Failed to load commit data");
         }
+        const commitData = await commitResponse.json();
+        setContributionData(commitData);
 
-        const data = await response.json();
-        setContributionData(data);
+        // ── Load tech map (best-effort, non-blocking) ─────────────────────
+        try {
+          let techResponse = await fetch("/api/tech-map");
+          if (!techResponse.ok) {
+            techResponse = await fetch("/summarize-commits/tech-map.json");
+          }
+          if (!techResponse.ok) {
+            techResponse = await fetch("/tech-map.json");
+          }
+          if (techResponse.ok) {
+            const techData = await techResponse.json();
+            setTechMapData(techData);
+          }
+        } catch {
+          // Tech map is optional — don't fail the whole page
+          console.info(
+            "Tech map not available yet. Run: python3 extract_commits.py --tech",
+          );
+        }
+
         setError(null);
       } catch (err) {
         setError(err instanceof Error ? err.message : "Unknown error");
@@ -45,7 +62,7 @@ function App() {
       }
     };
 
-    loadCommitData();
+    loadData();
   }, []);
 
   return (
@@ -55,9 +72,16 @@ function App() {
         <p>Commit activity across all repositories</p>
       </header>
       <main className="main">
-        {loading && <div className="loading">Loading commit data...</div>}
+        {loading && <div className="loading">Loading data…</div>}
         {error && <div className="error">Error: {error}</div>}
-        {!loading && !error && <ContributionGraph data={contributionData} />}
+        {!loading && !error && (
+          <>
+            <ContributionGraph data={contributionData} />
+            {techMapData && techMapData.projects.length > 0 && (
+              <TechMap data={techMapData} />
+            )}
+          </>
+        )}
       </main>
     </div>
   );

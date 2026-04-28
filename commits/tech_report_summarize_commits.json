@@ -1,0 +1,24 @@
+{
+  "project": "summarize_commits",
+  "detectedAt": "2026-04-28",
+  "languages": [
+    "CSS",
+    "HTML",
+    "JSON",
+    "JavaScript",
+    "Python",
+    "TypeScript",
+    "YAML"
+  ],
+  "frameworks": [
+    "ESLint",
+    "Express",
+    "React",
+    "Vite"
+  ],
+  "tools": [
+    "ESLint",
+    "GitHub Actions",
+    "Vite"
+  ]
+}

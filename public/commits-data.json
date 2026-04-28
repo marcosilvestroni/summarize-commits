@@ -1,9 +1,10 @@
 [
   {
     "date": "2026-01-07",
-    "count": 1,
+    "count": 2,
     "projects": [
-      "LEASYS_FINC_CALC_WIDGET_MODULE"
+      "LEASYS_FINC_CALC_WIDGET_MODULE",
+      "SUMMARIZE_COMMITS"
     ]
   },
   {
@@ -15,9 +16,10 @@
   },
   {
     "date": "2025-12-22",
-    "count": 1,
+    "count": 15,
     "projects": [
-      "NPT_FE"
+      "NPT_FE",
+      "SUMMARIZE_COMMITS"
     ]
   },
   {
@@ -50,9 +52,10 @@
   },
   {
     "date": "2025-12-12",
-    "count": 2,
+    "count": 7,
     "projects": [
       "LEASYS_FINC_CALC_WIDGET_MODULE",
+      "MANGYMS",
       "NPT_FE"
     ]
   },
